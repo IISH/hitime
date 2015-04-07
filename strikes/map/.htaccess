@@ -1,0 +1,9 @@
+RewriteEngine on
+RewriteBase /
+
+RewriteCond %{REQUEST_URI} !^.*examples.*$ [NC]
+RewriteCond %{REQUEST_URI} !^.*chart.*$ [NC]
+
+RewriteRule ^timeline.(.*)$ /cgi-bin/strikes/timeline.cgi?params=$1
+RewriteRule ^geo.(.*)$ /cgi-bin/strikes/index.cgi?year=2001&varID=13&norma=1
+

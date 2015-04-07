@@ -1,0 +1,11 @@
+Map Use Restrictions:
+
+Can be used freely if following source for the map is mentioned:
+
+© 2007, Centraal Bureau voor de Statistiek / Topografische Dienst Kadaster, 
+Emmen, 2006` © 2007, Centraal Bureau voor de Statistiek / 
+Topografische Dienst Kadaster, Emmen, 2006`
+
+
+See:
+http://www.maplibrary.org/stacks/gadm/NLD/index.php

@@ -1,0 +1,880 @@
+{
+    "timeline":
+    {
+        "headline":"Posters Visual Timeline",
+        "type":"default",
+                "text":"Evergreen Timeline Application",
+                "startDate":"2012,2,05",
+        "date": [
+		
+            {
+                "startDate":"1980",
+                                "endDate":"1980",
+                "headline":"Beatrix, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/805768>http://search.socialhistory.org/Record/805768</a><br/> 245   Beelddocument = Visual document. <br>260   1980. <br>648   1980-1980.  (NL-AMISG)368050 <br>650   Biographica.  (NL-AMISG)306042 <br>651   Netherlands.  (NL-AMISG)569282 <br>655   Sheet of stickers.  (NL-AMISG)340626 <br>695   NED  Nederland. <br>710   Jonge Socialisten.  (NL-AMISG)121488 <br>856   http://hdl.handle.net/10622/30051000659075 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000659075&type=.jpg",
+                    "credit":"805768",
+                    "caption":"Beatrix, "
+                }
+            },
+
+            {
+                "startDate":"1965",
+                                "endDate":"1965",
+                "headline":"Jong, Frits de, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/811920>http://search.socialhistory.org/Record/811920</a><br/> 245   Beelddocument = Visual document. <br>260   1965. <br>500   Het Beatrix en Claus-forum. De Jong: midden. <br>540   H.D. Ruys. <br>610   ASVA.  (NL-AMISG)12847 <br>648   1965-1965.  (NL-AMISG)366200 <br>650   Monarchy.  (NL-AMISG)160676 <br>650   Group portrait.  (NL-AMISG)112454 <br>651   Amsterdam. (Netherlands)  (NL-AMISG)572941 <br>655   Photo.  (NL-AMISG)121213 <br>694   ASVA  BG A24/842 <br>695   NED  Amsterdam. <br>710   ASVA,  collector.  (NL-AMISG)573745 <br>856   http://hdl.handle.net/10622/30051000436516 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000436516&type=.jpg",
+                    "credit":"811920",
+                    "caption":"Jong, Frits de, "
+                }
+            },
+
+            {
+                "startDate":"1980",
+                                "endDate":"1980",
+                "headline":"Beatrix, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/812407>http://search.socialhistory.org/Record/812407</a><br/> 245   Beelddocument = Visual document. <br>260   1980, april. <br>500   Handelsbladgebouw. <br>540   Rico d'Rozario. <br>610   Nieuwezijds Voorburgwal 240 (Amsterdam)  (NL-AMISG)240292 <br>648   1980-1980.  (NL-AMISG)368050 <br>650   Buildings.  (NL-AMISG)96201 <br>650   Squatters movement.  (NL-AMISG)133185 <br>650   Biographica.  (NL-AMISG)306042 <br>651   Netherlands.  (NL-AMISG)569282 <br>655   Photo.  (NL-AMISG)121213 <br>695   NED  Nederland. <br>856   http://hdl.handle.net/10622/30051000432002 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000432002&type=.jpg",
+                    "credit":"812407",
+                    "caption":"Beatrix, "
+                }
+            },
+
+            {
+                "startDate":"1980",
+                                "endDate":"1980",
+                "headline":"Beatrix, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/812414>http://search.socialhistory.org/Record/812414</a><br/> 245   Beelddocument = Visual document. <br>260   1980, 30 april. <br>500   ME op het Spui. <br>540   Rico d'Rozario. <br>610   Nieuwezijds Voorburgwal 240 (Amsterdam)  (NL-AMISG)240292 <br>648   1980-1980.  (NL-AMISG)368050 <br>650   Police.  (NL-AMISG)245692 <br>650   Biographica.  (NL-AMISG)306042 <br>651   Netherlands.  (NL-AMISG)569282 <br>655   Photo.  (NL-AMISG)121213 <br>695   NED  Nederland. <br>856   http://hdl.handle.net/10622/30051000431905 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000431905&type=.jpg",
+                    "credit":"812414",
+                    "caption":"Beatrix, "
+                }
+            },
+
+            {
+                "startDate":"1980",
+                                "endDate":"1980",
+                "headline":"Beatrix, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/812433>http://search.socialhistory.org/Record/812433</a><br/> 245   Beelddocument = Visual document. <br>260   1980, 30 april. <br>300   31x25 cm. <br>500   Op het Rokin. Uit: Nieuwe Revu, 16 mei 1980. <br>648   1980-1980.  (NL-AMISG)368050 <br>650   Police.  (NL-AMISG)245692 <br>650   Biographica.  (NL-AMISG)306042 <br>651   Amsterdam. (Netherlands)  (NL-AMISG)572941 <br>655   Half-tone photo.  (NL-AMISG)244771 <br>695   NED  Amsterdam. <br>856   http://hdl.handle.net/10622/30051000431152 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000431152&type=.jpg",
+                    "credit":"812433",
+                    "caption":"Beatrix, "
+                }
+            },
+
+            {
+                "startDate":"1980",
+                                "endDate":"1980",
+                "headline":"Beatrix, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/812450>http://search.socialhistory.org/Record/812450</a><br/> 245   Beelddocument = Visual document. <br>260   1980, 30 april. <br>300   31x25 cm. <br>500   Serie van 2 foto's. Uit: Nieuwe Revu, 16 mei 1980, p.8-9. <br>648   1980-1980.  (NL-AMISG)368050 <br>650   Police.  (NL-AMISG)245692 <br>650   Biographica.  (NL-AMISG)306042 <br>651   Amsterdam. (Netherlands)  (NL-AMISG)572941 <br>655   Half-tone photo.  (NL-AMISG)244771 <br>695   NED  Amsterdam. <br>856   http://hdl.handle.net/10622/30051000431319 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000431319&type=.jpg",
+                    "credit":"812450",
+                    "caption":"Beatrix, "
+                }
+            },
+
+            {
+                "startDate":"1943.",
+                                "endDate":"1943.",
+                "headline":"Juliana, Margriet, Irene, Beatrix, Bernhard, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/621000>http://search.socialhistory.org/Record/621000</a><br/> 245 
+  Beelddocument = Visual document. <br>260 
+  1943. <br>500 
+  Tekst op voorzijde: 'De eerste foto van het Prinseljk Gezin na de geboorte van Prinses Margriet ...'. <br>650 
+  Group portrait.  (NL-AMISG)112454 <br>655 
+  Half-tone photo.  (NL-AMISG)244771 <br>856 
+  http://hdl.handle.net/10622/30051000077716 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000077716&type=.jpg",
+                    "credit":"621000",
+                    "caption":"Juliana, Margriet, Irene, Beatrix, Bernhard, "
+                }
+            },
+
+            {
+                "startDate":"1940, december.",
+                                "endDate":"1940, december.",
+                "headline":"Juliana, Beatrix, Irene, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/622079>http://search.socialhistory.org/Record/622079</a><br/> 245 
+  Beelddocument = Visual document. <br>260 
+  1940, december. <br>650 
+  Group portrait.  (NL-AMISG)112454 <br>655 
+  Photo.  (NL-AMISG)121213 <br>856 
+  http://hdl.handle.net/10622/30051000082302 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000082302&type=.jpg",
+                    "credit":"622079",
+                    "caption":"Juliana, Beatrix, Irene, "
+                }
+            },
+
+            {
+                "startDate":"1965",
+                                "endDate":"1965",
+                "headline":"Metz, Lex,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/730947>http://search.socialhistory.org/Record/730947</a><br/> 245 
+  Beelddocument = Visual document. <br>260 
+  1965, 15 mei  (Amsterdam :  De Groene Amsterdammer,  1965) <br>300 
+  21x16 cm. <br>500 
+  Tekening bij hekeldicht van Evert Werkman (Joost) op de Nederlandse Vereniging van Fotojournalisten die vond dat de fatsoensnormen waren overschreden toen John de Rooy foto's maakte van prinses Beatrix en haar toen nog onbekende vriend. <br>648 
+  1965-1965.  (NL-AMISG)366200 <br>650 
+  Press.  (NL-AMISG)188609 <br>651 
+  Netherlands.  (NL-AMISG)569282 <br>655 
+  Drawing.  (NL-AMISG)269282 <br>694 
+  Metz, L.  BG PM2/16-17 <br>695 
+  NED  Nederland <br>700 
+  Metz, Lex,  collector.  (NL-AMISG)2000404 <br>856 
+  http://hdl.handle.net/10622/30051003026298 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051003026298&type=.jpg",
+                    "credit":"730947",
+                    "caption":"Metz, Lex,"
+                }
+            },
+
+            {
+                "startDate":"1977, 13 augustus.",
+                                "endDate":"1977, 13 augustus.",
+                "headline":"Beatrix, Claus, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/571185>http://search.socialhistory.org/Record/571185</a><br/> 245 
+  Beelddocument = Visual document. <br>260 
+  1977, 13 augustus. <br>500 
+  Met man en twee kinderen. <br>540 
+  FAWA. <br>650 
+  Group portrait.  (NL-AMISG)112454 <br>655 
+  Photo.  (NL-AMISG)121213 <br>856 
+  http://hdl.handle.net/10622/30051000015146 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000015146&type=.jpg",
+                    "credit":"571185",
+                    "caption":"Beatrix, Claus, "
+                }
+            },
+
+            {
+                "startDate":"1944, 10 januari.",
+                                "endDate":"1944, 10 januari.",
+                "headline":"Beatrix, Margriet, Irene, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/571221>http://search.socialhistory.org/Record/571221</a><br/> 245 
+  Beelddocument = Visual document. <br>260 
+  1944, 10 januari. <br>650 
+  Group portrait.  (NL-AMISG)112454 <br>655 
+  Photo.  (NL-AMISG)121213 <br>856 
+  http://hdl.handle.net/10622/30051000015153 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000015153&type=.jpg",
+                    "credit":"571221",
+                    "caption":"Beatrix, Margriet, Irene, "
+                }
+            },
+
+            {
+                "startDate":"maart 1979.",
+                                "endDate":"maart 1979.",
+                "headline":"Beatrix, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/571264>http://search.socialhistory.org/Record/571264</a><br/> 245 
+  Beelddocument = Visual document. <br>260 
+  maart 1979. <br>650 
+  Portrait.  (NL-AMISG)306035 <br>655 
+  Half-tone photo.  (NL-AMISG)244771 <br>694 
+  Nieuwe Linie  BG B1/182 <br>710 
+  Nieuwe Linie,  collector.  (NL-AMISG)216744 <br>856 
+  http://hdl.handle.net/10622/30051000003092 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000003092&type=.jpg",
+                    "credit":"571264",
+                    "caption":"Beatrix, "
+                }
+            },
+
+            {
+                "startDate":"1940, december.",
+                                "endDate":"1940, december.",
+                "headline":"Juliana, Beatrix, Irene, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/621888>http://search.socialhistory.org/Record/621888</a><br/> 245 
+  Beelddocument = Visual document. <br>260 
+  1940, december. <br>500 
+  Drie coupletten van het Wilhelmus en een kerstboodschap van Juliana op achterzijde. <br>540 
+  Y. Karsh. <br>650 
+  Group portrait.  (NL-AMISG)112454 <br>655 
+  Photo.  (NL-AMISG)121213 <br>856 
+  http://hdl.handle.net/10622/30051000081734 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000081734&type=.jpg",
+                    "credit":"621888",
+                    "caption":"Juliana, Beatrix, Irene, "
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Rijk, Beatrix de. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/708126>http://search.socialhistory.org/Record/708126</a><br/> 245   Beelddocument = Visual document. <br>500   Uit: Thijs Postma, Vermetele vliegers. <br>650   Portrait.  (NL-AMISG)306035 <br>655   Half-tone photo.  (NL-AMISG)244771 <br>856   http://hdl.handle.net/10622/30051000149887 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000149887&type=.jpg",
+                    "credit":"708126",
+                    "caption":"Rijk, Beatrix de. "
+                }
+            },
+
+            {
+                "startDate":"1950",
+                                "endDate":"1950",
+                "headline":"Beatrix, Claus, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/666279>http://search.socialhistory.org/Record/666279</a><br/> 245 
+  Beelddocument = Visual document. <br>500 
+  Beatrix en Claus op bezoek bij jeugdherberg Heeg. <br>540 
+  Leeuwarder Courant. <br>610 
+  Nederlandse Jeugdherberg Centrale.  (NL-AMISG)166883 <br>648 
+  1950-1974.  (NL-AMISG)364548 <br>650 
+  Group portrait.  (NL-AMISG)112454 <br>651 
+  Heeg. (Netherlands)  (NL-AMISG)228743 <br>655 
+  Photo.  (NL-AMISG)121213 <br>694 
+  NJHC  BG A26/7 <br>695 
+  NED  Heeg. <br>710 
+  Nederlandse Jeugdherberg Centrale,  collector.  (NL-AMISG)573988 <br>856 
+  http://hdl.handle.net/10622/30051000408812 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000408812&type=.jpg",
+                    "credit":"666279",
+                    "caption":"Beatrix, Claus, "
+                }
+            },
+
+            {
+                "startDate":"1963",
+                                "endDate":"1963",
+                "headline":"Beatrix, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/708102>http://search.socialhistory.org/Record/708102</a><br/> 245   Beelddocument = Visual document. <br>260   (1963 ?) <br>540   ANP-foto. <br>610   Sociaal-Economische Raad.  (NL-AMISG)233439 <br>648   1963-1963.  (NL-AMISG)366188 <br>650   Double portrait.  (NL-AMISG)99302 <br>651   Netherlands.  (NL-AMISG)569282 <br>655   Photo.  (NL-AMISG)121213 <br>694   FNV-voorlichting  BG B5/236 <br>695   NED  Nederland. <br>710   ANP-foto (Amsterdam)  (NL-AMISG)12038 <br>710   FNV.  Voorlichting,  collector.  (NL-AMISG)573841 <br>856   http://hdl.handle.net/10622/30051000356953 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000356953&type=.jpg",
+                    "credit":"708102",
+                    "caption":"Beatrix, "
+                }
+            },
+
+            {
+                "startDate":"1963",
+                                "endDate":"1963",
+                "headline":"Beatrix, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/708098>http://search.socialhistory.org/Record/708098</a><br/> 245   Beelddocument = Visual document. <br>260   (1963 ?) <br>540   ANP-foto. <br>610   Sociaal-Economische Raad.  (NL-AMISG)233439 <br>648   1963-1963.  (NL-AMISG)366188 <br>650   Double portrait.  (NL-AMISG)99302 <br>651   Netherlands.  (NL-AMISG)569282 <br>655   Photo.  (NL-AMISG)121213 <br>694   FNV-voorlichting  BG B5/234 <br>695   NED  Nederland. <br>710   ANP-foto (Amsterdam)  (NL-AMISG)12038 <br>710   FNV.  Voorlichting,  collector.  (NL-AMISG)573841 <br>856   http://hdl.handle.net/10622/30051000347598 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000347598&type=.jpg",
+                    "credit":"708098",
+                    "caption":"Beatrix, "
+                }
+            },
+
+            {
+                "startDate":"1966",
+                                "endDate":"1966",
+                "headline":"Jaring, Cor,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/723250>http://search.socialhistory.org/Record/723250</a><br/> 245 
+  Beelddocument = Visual document. <br>260 
+  1966, 19 maart. <br>500 
+  Bij de opening van een fototentoonstelling over de gebeurtenissen tijdens de huwelijksdag van Beatrix en Claus. <br>540 
+  Cor Jaring. <br>610 
+  Provo.  (NL-AMISG)266350 <br>648 
+  1966-1966.  (NL-AMISG)366210 <br>650 
+  Bicycle.  (NL-AMISG)82763 <br>651 
+  Amsterdam. (Netherlands)  (NL-AMISG)572941 <br>655 
+  Photo.  (NL-AMISG)121213 <br>695 
+  NED  Amsterdam. <br>856 
+  http://hdl.handle.net/10622/30051000238169 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000238169&type=.jpg",
+                    "credit":"723250",
+                    "caption":"Jaring, Cor,"
+                }
+            },
+
+            {
+                "startDate":"1945, mei.",
+                                "endDate":"1945, mei.",
+                "headline":"Wilhelmina, Juliana, Bernhard, Beatrix, Irene, Margriet, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/724400>http://search.socialhistory.org/Record/724400</a><br/> 245 
+  Beelddocument = Visual document. <br>260 
+  1945, mei. <br>500 
+  V.l.n.r.: Bernhard, met Margriet op schoot, Irene, Juliana, Wilhelmina en Beatrix. <br>650 
+  Group portrait.  (NL-AMISG)112454 <br>655 
+  Photo.  (NL-AMISG)121213 <br>856 
+  http://hdl.handle.net/10622/30051000186996 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000186996&type=.jpg",
+                    "credit":"724400",
+                    "caption":"Wilhelmina, Juliana, Bernhard, Beatrix, Irene, Margriet, "
+                }
+            },
+
+            {
+                "startDate":"1963",
+                                "endDate":"1963",
+                "headline":"Beatrix, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/725757>http://search.socialhistory.org/Record/725757</a><br/> 245 
+  Beelddocument = Visual document. <br>260 
+  (1963 ?) <br>540 
+  ANP-foto. <br>610 
+  Sociaal-Economische Raad.  (NL-AMISG)233439 <br>648 
+  1963-1963.  (NL-AMISG)366188 <br>650 
+  Group portrait.  (NL-AMISG)112454 <br>651 
+  Netherlands.  (NL-AMISG)569282 <br>655 
+  Photo.  (NL-AMISG)121213 <br>695 
+  NED  Nederland. <br>710 
+  ANP-foto (Amsterdam)  (NL-AMISG)12038 <br>856 
+  http://hdl.handle.net/10622/30051000271830 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000271830&type=.jpg",
+                    "credit":"725757",
+                    "caption":"Beatrix, "
+                }
+            },
+
+            {
+                "startDate":"1982",
+                                "endDate":"1982",
+                "headline":"Singels, Han,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/727773>http://search.socialhistory.org/Record/727773</a><br/> 245 
+  Beelddocument = Visual document. <br>260 
+  (ca.1982) <br>300 
+  30.5x40.5 cm. <br>500 
+  Stakers bij het muziekpaviljoen prinses Beatrix. <br>540 
+  Han Singels. <br>610 
+  Rotterdamsche Droogdok Maatschappij.  (NL-AMISG)220236 <br>610 
+  FNV.  (NL-AMISG)83933 <br>648 
+  1982-1982.  (NL-AMISG)368064 <br>650 
+  Strikes.  (NL-AMISG)239940 <br>650 
+  Shipbuilding.  (NL-AMISG)224335 <br>651 
+  Rotterdam. (Netherlands)  (NL-AMISG)231540 <br>655 
+  Photo.  (NL-AMISG)121213 <br>694 
+  Singels, H.  BG C2/601 <br>695 
+  NED  Rotterdam. <br>700 
+  Singels, Han,  collector.  (NL-AMISG)2000597 <br>856 
+  http://hdl.handle.net/10622/30051000287356 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000287356&type=.jpg",
+                    "credit":"727773",
+                    "caption":"Singels, Han,"
+                }
+            },
+
+            {
+                "startDate":"1999",
+                                "endDate":"1999",
+                "headline":"Mandela, Nelson. Beatrix, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/730423>http://search.socialhistory.org/Record/730423</a><br/> 245 
+  Beelddocument = Visual document. <br>260 
+  1999, 11 maart <br>500 
+  Ontvangst door koningin Beatrix op vliegveld Valkenburg van de Zuid-Afrikaanse president Mandela tijdens zijn laatste bezoek aan Nederland. <br>648 
+  1999-1999.  (NL-AMISG)370507 <br>650 
+  Group portrait.  (NL-AMISG)112454 <br>651 
+  Netherlands.  (NL-AMISG)569282 <br>655 
+  Photo.  (NL-AMISG)121213 <br>694 
+  NIZA  BG B32/726 <br>695 
+  NED  Nederland <br>710 
+  Nederlands Instituut voor Zuidelijk Afrika (Amsterdam),  collector.  (NL-AMISG)573972 <br>856 
+  http://hdl.handle.net/10622/30051003002273 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051003002273&type=.jpg",
+                    "credit":"730423",
+                    "caption":"Mandela, Nelson. Beatrix, "
+                }
+            },
+
+            {
+                "startDate":"1999",
+                                "endDate":"1999",
+                "headline":"Mandela, Nelson. Beatrix, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/730431>http://search.socialhistory.org/Record/730431</a><br/> 245 
+  Beelddocument = Visual document. <br>260 
+  1999, 12 maart <br>500 
+  De Zuid-Afrikaanse president Mandela en koningin Beatrix in Leiden tijdens zijn laatste bezoek aan Nederland. <br>540 
+  Jan Stegeman <br>648 
+  1999-1999.  (NL-AMISG)370507 <br>650 
+  Group portrait.  (NL-AMISG)112454 <br>651 
+  Leiden (Netherlands)  (NL-AMISG)228911 <br>655 
+  Photo.  (NL-AMISG)121213 <br>694 
+  NIZA  BG B32/731 <br>695 
+  NED  Leiden <br>710 
+  Nederlands Instituut voor Zuidelijk Afrika (Amsterdam),  collector.  (NL-AMISG)573972 <br>856 
+  http://hdl.handle.net/10622/30051003002331 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051003002331&type=.jpg",
+                    "credit":"730431",
+                    "caption":"Mandela, Nelson. Beatrix, "
+                }
+            },
+
+            {
+                "startDate":"1965",
+                                "endDate":"1965",
+                "headline":"Metz, Lex,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/730954>http://search.socialhistory.org/Record/730954</a><br/> 245 
+  Beelddocument = Visual document. <br>260 
+  1965, 26 juni  (Amsterdam :  De Groene Amsterdammer,  1965) <br>300 
+  21x20 cm. <br>500 
+  Tekening bij hekeldicht van Evert Werkman (Joost) op de liefde tussen Beatrix en Claus. <br>648 
+  1965-1965.  (NL-AMISG)366200 <br>651 
+  Netherlands.  (NL-AMISG)569282 <br>655 
+  Drawing.  (NL-AMISG)269282 <br>694 
+  Metz, L.  BG PM2/16-22 <br>695 
+  NED  Nederland <br>700 
+  Metz, Lex,  collector.  (NL-AMISG)2000404 <br>856 
+  http://hdl.handle.net/10622/30051003026249 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051003026249&type=.jpg",
+                    "credit":"730954",
+                    "caption":"Metz, Lex,"
+                }
+            },
+
+            {
+                "startDate":"1965",
+                                "endDate":"1965",
+                "headline":"Metz, Lex,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/730966>http://search.socialhistory.org/Record/730966</a><br/> 245 
+  Beelddocument = Visual document. <br>260 
+  1965, 25 september  (Amsterdam :  De Groene Amsterdammer,  1965) <br>300 
+  19x15 cm. <br>500 
+  Tekening bij hekeldicht van Evert Werkman (Joost) op het voorgenomen huwelijk van Beatrix en Claus. <br>648 
+  1965-1965.  (NL-AMISG)366200 <br>651 
+  Netherlands.  (NL-AMISG)569282 <br>655 
+  Drawing.  (NL-AMISG)269282 <br>694 
+  Metz, L.  BG PM2/16-33 <br>695 
+  NED  Nederland <br>700 
+  Metz, Lex,  collector.  (NL-AMISG)2000404 <br>856 
+  http://hdl.handle.net/10622/30051003027288 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051003027288&type=.jpg",
+                    "credit":"730966",
+                    "caption":"Metz, Lex,"
+                }
+            },
+
+            {
+                "startDate":"1965",
+                                "endDate":"1965",
+                "headline":"Metz, Lex,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/730970>http://search.socialhistory.org/Record/730970</a><br/> 245 
+  Beelddocument = Visual document. <br>260 
+  1965, 16 oktober  (Amsterdam :  De Groene Amsterdammer,  1965) <br>300 
+  19x16 cm. <br>500 
+  Tekening bij hekeldicht van Evert Werkman (Joost) op de kritiek op het voorgenomen huwelijk van Beatrix met Claus van Amsberg. <br>648 
+  1965-1965.  (NL-AMISG)366200 <br>651 
+  Netherlands.  (NL-AMISG)569282 <br>655 
+  Drawing.  (NL-AMISG)269282 <br>694 
+  Metz, L.  BG PM2/16-36 <br>695 
+  NED  Nederland <br>700 
+  Metz, Lex,  collector.  (NL-AMISG)2000404 <br>856 
+  http://hdl.handle.net/10622/30051003027254 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051003027254&type=.jpg",
+                    "credit":"730970",
+                    "caption":"Metz, Lex,"
+                }
+            },
+
+            {
+                "startDate":"1966",
+                                "endDate":"1966",
+                "headline":"Metz, Lex,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/730982>http://search.socialhistory.org/Record/730982</a><br/> 245 
+  Beelddocument = Visual document. <br>260 
+  1966, 15 januari  (Amsterdam :  De Groene Amsterdammer,  1966) <br>300 
+  21x14 cm. <br>500 
+  Tekening bij hekeldicht van Evert Werkman (Joost) op het nationaal geschenk aan Beatrix en Claus. <br>648 
+  1966-1966.  (NL-AMISG)366210 <br>651 
+  Netherlands.  (NL-AMISG)569282 <br>655 
+  Drawing.  (NL-AMISG)269282 <br>694 
+  Metz, L.  BG PM2/16-47 <br>695 
+  NED  Nederland <br>700 
+  Metz, Lex,  collector.  (NL-AMISG)2000404 <br>856 
+  http://hdl.handle.net/10622/30051003027148 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051003027148&type=.jpg",
+                    "credit":"730982",
+                    "caption":"Metz, Lex,"
+                }
+            },
+
+            {
+                "startDate":"1966",
+                                "endDate":"1966",
+                "headline":"Metz, Lex,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/730987>http://search.socialhistory.org/Record/730987</a><br/> 245 
+  Beelddocument = Visual document. <br>260 
+  1966, 12 februari  (Amsterdam :  De Groene Amsterdammer,  1966) <br>300 
+  20x16 cm. <br>500 
+  Tekening bij hekeldicht van Evert Werkman (Joost) op het bestuur van het Anne Frankhuis die een inpandige tijdelijke politiepost tijdens het huwelijk van Beatrix weigerde. <br>610 
+  Anne Frank Stichting (Amsterdam)  (NL-AMISG)19365 <br>648 
+  1966-1966.  (NL-AMISG)366210 <br>650 
+  Police.  (NL-AMISG)245692 <br>651 
+  Amsterdam (Netherlands)  (NL-AMISG)572941 <br>655 
+  Drawing.  (NL-AMISG)269282 <br>694 
+  Metz, L.  BG PM2/16-51 <br>695 
+  NED  Amsterdam <br>700 
+  Metz, Lex,  collector.  (NL-AMISG)2000404 <br>856 
+  http://hdl.handle.net/10622/30051003027106 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051003027106&type=.jpg",
+                    "credit":"730987",
+                    "caption":"Metz, Lex,"
+                }
+            },
+
+            {
+                "startDate":"1966",
+                                "endDate":"1966",
+                "headline":"Metz, Lex,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/730993>http://search.socialhistory.org/Record/730993</a><br/> 245 
+  Beelddocument = Visual document. <br>260 
+  1966, 19 maart  (Amsterdam :  De Groene Amsterdammer,  1966) <br>300 
+  30x25 cm. <br>500 
+  Tekening bij hekeldicht van Evert Werkman (Joost) op het optreden van politie en ME tijdens huwelijk Beatrix. <br>648 
+  1966-1966.  (NL-AMISG)366210 <br>650 
+  Police.  (NL-AMISG)245692 <br>651 
+  Amsterdam (Netherlands)  (NL-AMISG)572941 <br>655 
+  Drawing.  (NL-AMISG)269282 <br>694 
+  Metz, L.  BG PM2/16-56 <br>695 
+  NED  Amsterdam <br>700 
+  Metz, Lex,  collector.  (NL-AMISG)2000404 <br>856 
+  http://hdl.handle.net/10622/30051003027056 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051003027056&type=.jpg",
+                    "credit":"730993",
+                    "caption":"Metz, Lex,"
+                }
+            },
+
+            {
+                "startDate":"1990",
+                                "endDate":"1990",
+                "headline":"Beatrix, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/771797>http://search.socialhistory.org/Record/771797</a><br/> 245   Vrouwenfeest.  Beelddocument = Visual document. <br>260   1990  (S.l. :  s.n.,  1990) <br>300   59x41 cm. <br>648   1990-1990.  (NL-AMISG)369914 <br>650   Portrait.  (NL-AMISG)306035 <br>651   Den Haag. (Netherlands)  (NL-AMISG)231557 <br>655   Poster.  (NL-AMISG)3248 <br>695   NED  Den Haag. <br>711   Internationale vrouwendag.  (1990 :  's-Gravenhage)  (NL-AMISG)427195 <br>856   http://hdl.handle.net/10622/30051000677838 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000677838&type=.jpg",
+                    "credit":"771797",
+                    "caption":"Beatrix, "
+                }
+            },
+
+            {
+                "startDate":"1982",
+                                "endDate":"1982",
+                "headline":"Beatrix, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/772349>http://search.socialhistory.org/Record/772349</a><br/> 245 
+  Beelddocument = Visual document. <br>260 
+  1982  (S.l. :  s.n.,  1982) <br>648 
+  1982-1982.  (NL-AMISG)368064 <br>650 
+  Biographica.  (NL-AMISG)306042 <br>651 
+  Netherlands.  (NL-AMISG)569282 <br>655 
+  Sheet of stickers.  (NL-AMISG)340626 <br>694 
+  Raket  BG A16/865 <br>695 
+  NED  Nederland. <br>710 
+  Raket (Rotterdam)  (NL-AMISG)263629 <br>710 
+  Raket (Rotterdam),  collector.  (NL-AMISG)574045 <br>856 
+  http://hdl.handle.net/10622/30051000666179 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000666179&type=.jpg",
+                    "credit":"772349",
+                    "caption":"Beatrix, "
+                }
+            },
+
+            {
+                "startDate":"1984",
+                                "endDate":"1984",
+                "headline":"Beatrix, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/773604>http://search.socialhistory.org/Record/773604</a><br/> 245 
+  Beelddocument = Visual document. <br>260 
+  1984  (S.l. :  s.n.,  1984) <br>648 
+  1984-1984.  (NL-AMISG)369875 <br>650 
+  Economic crises.  (NL-AMISG)78482 <br>650 
+  Portrait.  (NL-AMISG)306035 <br>651 
+  Netherlands.  (NL-AMISG)569282 <br>655 
+  Sheet of stickers.  (NL-AMISG)340626 <br>695 
+  NED  Nederland. <br>856 
+  http://hdl.handle.net/10622/30051000662376 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000662376&type=.jpg",
+                    "credit":"773604",
+                    "caption":"Beatrix, "
+                }
+            },
+
+            {
+                "startDate":"1983",
+                                "endDate":"1983",
+                "headline":"Beatrix, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/781295>http://search.socialhistory.org/Record/781295</a><br/> 245   Rosa 5 jaar.  Beelddocument = Visual document. <br>260   1983  (S.l. :  s.n.,  1983) <br>300   54x41 cm. <br>648   1983-1983.  (NL-AMISG)368071 <br>650   Anniversaries.  (NL-AMISG)157267 <br>650   Caricature.  (NL-AMISG)306037 <br>651   Utrecht. (Netherlands)  (NL-AMISG)231631 <br>655   Poster.  (NL-AMISG)3248 <br>695   NED  Utrecht. <br>710   ROSA (Utrecht)  (NL-AMISG)282432 <br>856   http://hdl.handle.net/10622/30051001241048 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051001241048&type=.jpg",
+                    "credit":"781295",
+                    "caption":"Beatrix, "
+                }
+            },
+
+            {
+                "startDate":"1980",
+                                "endDate":"1980",
+                "headline":"Beatrix, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/805771>http://search.socialhistory.org/Record/805771</a><br/> 245   Beelddocument = Visual document. <br>260   1980. <br>648   1980-1980.  (NL-AMISG)368050 <br>650   Biographica.  (NL-AMISG)306042 <br>651   Netherlands.  (NL-AMISG)569282 <br>655   Sheet of stickers.  (NL-AMISG)340626 <br>695   NED  Nederland. <br>710   Jonge Socialisten.  (NL-AMISG)121488 <br>856   http://hdl.handle.net/10622/30051000618360 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000618360&type=.jpg",
+                    "credit":"805771",
+                    "caption":"Beatrix, "
+                }
+            },
+
+            {
+                "startDate":"1965",
+                                "endDate":"1965",
+                "headline":"Riel, Harm van. Land, Lucas van der. Jong, Frits de, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/811899>http://search.socialhistory.org/Record/811899</a><br/> 245   Beelddocument = Visual document. <br>260   1965. <br>500   Het Beatrix en Claus-forum. V.l.n.r.: (?), Van Riel, Van der Land, De Jong en (?). Serie van 3 foto's. <br>540   H.D. Ruys. <br>610   ASVA.  (NL-AMISG)12847 <br>648   1965-1965.  (NL-AMISG)366200 <br>650   Monarchy.  (NL-AMISG)160676 <br>650   Group portrait.  (NL-AMISG)112454 <br>651   Amsterdam. (Netherlands)  (NL-AMISG)572941 <br>655   Photo.  (NL-AMISG)121213 <br>694   ASVA  BG A24/834-6 <br>695   NED  Amsterdam. <br>710   ASVA,  collector.  (NL-AMISG)573745 <br>856   http://hdl.handle.net/10622/30051000436763 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000436763&type=.jpg",
+                    "credit":"811899",
+                    "caption":"Riel, Harm van. Land, Lucas van der. Jong, Frits de, "
+                }
+            },
+
+            {
+                "startDate":"1965",
+                                "endDate":"1965",
+                "headline":"Land, Lucas van der. Jong, Frits de, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/811902>http://search.socialhistory.org/Record/811902</a><br/> 245   Beelddocument = Visual document. <br>260   1965. <br>500   Het Beatrix en Claus-forum. V.l.n.r.: Van der Land, De Jong en (?). Serie van 2 foto's. <br>540   H.D. Ruys. <br>610   ASVA.  (NL-AMISG)12847 <br>648   1965-1965.  (NL-AMISG)366200 <br>650   Monarchy.  (NL-AMISG)160676 <br>650   Group portrait.  (NL-AMISG)112454 <br>651   Amsterdam. (Netherlands)  (NL-AMISG)572941 <br>655   Photo.  (NL-AMISG)121213 <br>694   ASVA  BG A24/837-8 <br>695   NED  Amsterdam. <br>710   ASVA,  collector.  (NL-AMISG)573745 <br>856   http://hdl.handle.net/10622/30051000436714 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000436714&type=.jpg",
+                    "credit":"811902",
+                    "caption":"Land, Lucas van der. Jong, Frits de, "
+                }
+            },
+
+            {
+                "startDate":"1965",
+                                "endDate":"1965",
+                "headline":"Jong, Frits de, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/811918>http://search.socialhistory.org/Record/811918</a><br/> 245   Beelddocument = Visual document. <br>260   1965. <br>500   Het Beatrix en Claus-forum. De Jong: rechts. <br>540   H.D. Ruys. <br>610   ASVA.  (NL-AMISG)12847 <br>648   1965-1965.  (NL-AMISG)366200 <br>650   Monarchy.  (NL-AMISG)160676 <br>650   Double portrait.  (NL-AMISG)99302 <br>651   Amsterdam. (Netherlands)  (NL-AMISG)572941 <br>655   Photo.  (NL-AMISG)121213 <br>694   ASVA  BG A24/841 <br>695   NED  Amsterdam. <br>710   ASVA,  collector.  (NL-AMISG)573745 <br>856   http://hdl.handle.net/10622/30051000436565 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000436565&type=.jpg",
+                    "credit":"811918",
+                    "caption":"Jong, Frits de, "
+                }
+            },
+
+            {
+                "startDate":"1965",
+                                "endDate":"1965",
+                "headline":"Jong, Frits de, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/811906>http://search.socialhistory.org/Record/811906</a><br/> 245   Beelddocument = Visual document. <br>260   1965. <br>500   Het Beatrix en Claus-forum. De Jong: links. <br>540   H.D. Ruys. <br>610   ASVA.  (NL-AMISG)12847 <br>648   1965-1965.  (NL-AMISG)366200 <br>650   Monarchy.  (NL-AMISG)160676 <br>650   Double portrait.  (NL-AMISG)99302 <br>651   Amsterdam. (Netherlands)  (NL-AMISG)572941 <br>655   Photo.  (NL-AMISG)121213 <br>694   ASVA  BG A24/839 <br>695   NED  Amsterdam. <br>710   ASVA,  collector.  (NL-AMISG)573745 <br>856   http://hdl.handle.net/10622/30051000436664 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000436664&type=.jpg",
+                    "credit":"811906",
+                    "caption":"Jong, Frits de, "
+                }
+            },
+
+            {
+                "startDate":"1965",
+                                "endDate":"1965",
+                "headline":"Riel, Harm van. Land, Lucas van der. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/811908>http://search.socialhistory.org/Record/811908</a><br/> 245   Beelddocument = Visual document. <br>260   1965. <br>500   Het Beatrix en Claus-forum. Van Riel: links. <br>540   H.D. Ruys. <br>610   ASVA.  (NL-AMISG)12847 <br>648   1965-1965.  (NL-AMISG)366200 <br>650   Monarchy.  (NL-AMISG)160676 <br>650   Group portrait.  (NL-AMISG)112454 <br>651   Amsterdam. (Netherlands)  (NL-AMISG)572941 <br>655   Photo.  (NL-AMISG)121213 <br>694   ASVA  BG A24/840 <br>695   NED  Amsterdam. <br>710   ASVA,  collector.  (NL-AMISG)573745 <br>856   http://hdl.handle.net/10622/30051000436615 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000436615&type=.jpg",
+                    "credit":"811908",
+                    "caption":"Riel, Harm van. Land, Lucas van der. "
+                }
+            },
+
+            {
+                "startDate":"1965",
+                                "endDate":"1965",
+                "headline":"Ruys, H.D.,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/811926>http://search.socialhistory.org/Record/811926</a><br/> 245   Beelddocument = Visual document. <br>260   1965. <br>500   Het Beatrix en Claus-forum. Serie van 5 foto's. <br>540   H.D. Ruys. <br>610   ASVA.  (NL-AMISG)12847 <br>648   1965-1965.  (NL-AMISG)366200 <br>650   Monarchy.  (NL-AMISG)160676 <br>651   Amsterdam. (Netherlands)  (NL-AMISG)572941 <br>655   Photo.  (NL-AMISG)121213 <br>694   ASVA  BG A24/843-7 <br>695   NED  Amsterdam. <br>710   ASVA,  collector.  (NL-AMISG)573745 <br>856   http://hdl.handle.net/10622/30051000437365 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000437365&type=.jpg",
+                    "credit":"811926",
+                    "caption":"Ruys, H.D.,"
+                }
+            },
+
+            {
+                "startDate":"1980, april.",
+                                "endDate":"1980, april.",
+                "headline":"Beatrix, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/812422>http://search.socialhistory.org/Record/812422</a><br/> 245   Beelddocument = Visual document. <br>260   1980, april. <br>500   Portret in het Handelsbladgebouw. <br>540   Rico d'Rozario. <br>650   Caricature.  (NL-AMISG)306037 <br>655   Photo.  (NL-AMISG)121213 <br>655   Print.  (NL-AMISG)262665 <br>856   http://hdl.handle.net/10622/30051000431855 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000431855&type=.jpg",
+                    "credit":"812422",
+                    "caption":"Beatrix, "
+                }
+            },
+
+            {
+                "startDate":"1980",
+                                "endDate":"1980",
+                "headline":"Beatrix, Domela Nieuwenhuis, Ferdinand. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/812396>http://search.socialhistory.org/Record/812396</a><br/> 245   Beelddocument = Visual document. <br>260   1980, 30 april. <br>500   Demonstratie van anarchisten bij standbeeld Domela. <br>540   Paul Babeliowsky. <br>648   1980-1980.  (NL-AMISG)368050 <br>650   Biographica.  (NL-AMISG)306042 <br>651   Amsterdam. (Netherlands)  (NL-AMISG)572941 <br>655   Photo.  (NL-AMISG)121213 <br>695   NED  Amsterdam. <br>856   http://hdl.handle.net/10622/30051000431640 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000431640&type=.jpg",
+                    "credit":"812396",
+                    "caption":"Beatrix, Domela Nieuwenhuis, Ferdinand. "
+                }
+            },
+
+            {
+                "startDate":"1980",
+                                "endDate":"1980",
+                "headline":"Beatrix, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/812402>http://search.socialhistory.org/Record/812402</a><br/> 245   Beelddocument = Visual document. <br>260   1980, 13 mei. <br>500   Demonstratie voor vrijlating arrestanten van 30 april. <br>540   Paul Babeliowsky. <br>648   1980-1980.  (NL-AMISG)368050 <br>650   Biographica.  (NL-AMISG)306042 <br>651   Amsterdam. (Netherlands)  (NL-AMISG)572941 <br>655   Photo.  (NL-AMISG)121213 <br>695   NED  Amsterdam. <br>856   http://hdl.handle.net/10622/30051000431590 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000431590&type=.jpg",
+                    "credit":"812402",
+                    "caption":"Beatrix, "
+                }
+            },
+
+            {
+                "startDate":"1980",
+                                "endDate":"1980",
+                "headline":"Beatrix, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/812412>http://search.socialhistory.org/Record/812412</a><br/> 245   Beelddocument = Visual document. <br>260   1980, april. <br>500   Handelsbladgebouw. <br>540   Rico d'Rozario. <br>610   Nieuwezijds Voorburgwal 240 (Amsterdam)  (NL-AMISG)240292 <br>648   1980-1980.  (NL-AMISG)368050 <br>650   Buildings.  (NL-AMISG)96201 <br>650   Squatters movement.  (NL-AMISG)133185 <br>650   Biographica.  (NL-AMISG)306042 <br>651   Netherlands.  (NL-AMISG)569282 <br>655   Photo.  (NL-AMISG)121213 <br>695   NED  Nederland. <br>856   http://hdl.handle.net/10622/30051000431954 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000431954&type=.jpg",
+                    "credit":"812412",
+                    "caption":"Beatrix, "
+                }
+            },
+
+            {
+                "startDate":"1980",
+                                "endDate":"1980",
+                "headline":"Beatrix, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/812435>http://search.socialhistory.org/Record/812435</a><br/> 245   Beelddocument = Visual document. <br>260   1980, 30 april. <br>300   31x25 cm. <br>500   Op het Rokin. Uit: Nieuwe Revu, 16 mei 1980, p.17. <br>648   1980-1980.  (NL-AMISG)368050 <br>650   Police.  (NL-AMISG)245692 <br>650   Biographica.  (NL-AMISG)306042 <br>651   Amsterdam. (Netherlands)  (NL-AMISG)572941 <br>655   Half-tone photo.  (NL-AMISG)244771 <br>695   NED  Amsterdam. <br>856   http://hdl.handle.net/10622/30051000431210 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000431210&type=.jpg",
+                    "credit":"812435",
+                    "caption":"Beatrix, "
+                }
+            },
+
+            {
+                "startDate":"1980",
+                                "endDate":"1980",
+                "headline":"Beatrix, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/812444>http://search.socialhistory.org/Record/812444</a><br/> 245   Beelddocument = Visual document. <br>260   1980, 30 april. <br>300   30.5x40.5 cm. <br>500   Gevangenis in Utrecht. <br>648   1980-1980.  (NL-AMISG)368050 <br>650   Prisons.  (NL-AMISG)91978 <br>650   Buildings.  (NL-AMISG)96201 <br>650   Biographica.  (NL-AMISG)306042 <br>651   Utrecht. (Netherlands)  (NL-AMISG)231631 <br>655   Photo.  (NL-AMISG)121213 <br>695   NED  Utrecht. <br>856   http://hdl.handle.net/10622/30051000431269 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000431269&type=.jpg",
+                    "credit":"812444",
+                    "caption":"Beatrix, "
+                }
+            },
+
+            {
+                "startDate":"1983",
+                                "endDate":"1983",
+                "headline":"Beatrix, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/773294>http://search.socialhistory.org/Record/773294</a><br/> 245   Prinsjesdag aktiedag tegen bezuinigingen.  Beelddocument = Visual document. <br>260   1983  (S.l. :  s.n.,  1983) <br>300   61.5x43 cm. <br>648   1983-1983.  (NL-AMISG)368071 <br>650   Socio-economic policy.  (NL-AMISG)294344 <br>650   Portrait.  (NL-AMISG)306035 <br>651   Utrecht. (Netherlands)  (NL-AMISG)231631 <br>655   Poster.  (NL-AMISG)3248 <br>695   NED  Utrecht. <br>856   http://hdl.handle.net/10622/30051001238382 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051001238382&type=.jpg",
+                    "credit":"773294",
+                    "caption":"Beatrix, "
+                }
+            },
+
+            {
+                "startDate":"1982",
+                                "endDate":"1982",
+                "headline":"Winsemius, Pieter. Beatrix, Lubbers, Ruud. Aardenne, G.M.V. van. Schoo, Eegje. Ruiter, Job de. Ruding, Herman Onno Christiaan Rudolf. Korthals Altes, F. Rietkerk, J.G. Brinkman, Elco. Braks, Gerardus Johannes Maria. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/792798>http://search.socialhistory.org/Record/792798</a><br/> 245   Laat maar vallen.  Beelddocument = Visual document. <br>260   1982  (S.l. :  s.n.,  1982) <br>300   60x40 cm. <br>648   1982-1982.  (NL-AMISG)368064 <br>650   Nuclear weapons.  (NL-AMISG)318765 <br>650   Caricature.  (NL-AMISG)306037 <br>651   Netherlands.  (NL-AMISG)569282 <br>655   Poster.  (NL-AMISG)3248 <br>695   NED  Nederland. <br>710   De Wekker (Utrecht)  (NL-AMISG)356813 <br>856   http://hdl.handle.net/10622/30051002690060 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051002690060&type=.jpg",
+                    "credit":"792798",
+                    "caption":"Winsemius, Pieter. Beatrix, Lubbers, Ruud. Aardenne, G.M.V. van. Schoo, Eegje. Ruiter, Job de. Ruding, Herman Onno Christiaan Rudolf. Korthals Altes, F. Rietkerk, J.G. Brinkman, Elco. Braks, Gerardus Johannes Maria. "
+                }
+            },
+
+            {
+                "startDate":"(1911?)",
+                                "endDate":"(1911?)",
+                "headline":"Rijk, Beatrix de. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/708114>http://search.socialhistory.org/Record/708114</a><br/> 245   Beelddocument = Visual document. <br>260   (1911?) <br>500   Foto van haar vliegbrevet voor Frankrijk. Origineel op het IIAV. <br>650   Portrait.  (NL-AMISG)306035 <br>655   Photo.  (NL-AMISG)121213 <br>856   http://hdl.handle.net/10622/30051000149879 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000149879&type=.jpg",
+                    "credit":"708114",
+                    "caption":"Rijk, Beatrix de. "
+                }
+            },
+
+            {
+                "startDate":"1982",
+                                "endDate":"1982",
+                "headline":"Winsemius, Pieter. Beatrix, Lubbers, Ruud. Aardenne, G.M.V. van. Schoo, Eegje. Ruiter, Job de. Ruding, Herman Onno Christiaan Rudolf. Korthals Altes, F. Rietkerk, J.G. Brinkman, Elco. Braks, Gerardus Johannes Maria. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/792793>http://search.socialhistory.org/Record/792793</a><br/> 245   Laat maar vallen.  Beelddocument = Visual document. <br>260   1982  (S.l. :  s.n.,  1982) <br>300   60x40 cm. <br>648   1982-1982.  (NL-AMISG)368064 <br>650   Nuclear weapons.  (NL-AMISG)318765 <br>650   Caricature.  (NL-AMISG)306037 <br>651   Netherlands.  (NL-AMISG)569282 <br>655   Poster.  (NL-AMISG)3248 <br>695   NED  Nederland. <br>710   De Wekker (Utrecht)  (NL-AMISG)356813 <br>856   http://hdl.handle.net/10622/30051000639671 <br></p>",
+                "asset":
+                {
+                    "media":"http://api.socialhistoryservices.org/evergreen/cgi-bin/offline/reports/images.cgi?image=http://disseminate.objectrepository.org/file/level2/10622/30051000639671&type=.jpg",
+                    "credit":"792793",
+                    "caption":"Winsemius, Pieter. Beatrix, Lubbers, Ruud. Aardenne, G.M.V. van. Schoo, Eegje. Ruiter, Job de. Ruding, Herman Onno Christiaan Rudolf. Korthals Altes, F. Rietkerk, J.G. Brinkman, Elco. Braks, Gerardus Johannes Maria. "
+                }
+            }
+
+		]
+    }
+}
+

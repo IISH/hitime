@@ -1,0 +1,8 @@
+RewriteEngine on
+RewriteBase /
+
+RewriteCond %{REQUEST_URI} !^.*examples.*$ [NC]
+RewriteCond %{REQUEST_URI} !^.*chart.*$ [NC]
+
+RewriteRule ^graph.(.*)$ /cgi-bin/strikes/index.cgi?year=2001&varID=3&norma=1
+

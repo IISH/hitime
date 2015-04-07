@@ -1,0 +1,11 @@
+RewriteEngine on
+RewriteBase /
+
+RewriteCond %{REQUEST_URI} !^.*examples.*$ [NC]
+RewriteCond %{REQUEST_URI} !^.*chart.*$ [NC]
+
+RewriteRule ^$ /cgi-bin/strikes/index.cgi
+RewriteRule ^itimeline.(.*)$ /cgi-bin/strikes/timeline.cgi?params=$1
+RewriteRule ^timeline.(.*)$ /cgi-bin/strikes/index.cgi?timeline=yes&params=$1
+RewriteRule ^graph.(.*)$ /cgi-bin/strikes/index.cgi?year=2001&varID=3&norma=1
+

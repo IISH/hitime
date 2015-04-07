@@ -1,0 +1,663 @@
+{
+    "timeline":
+    {
+        "headline":"Posters Visual Timeline",
+        "type":"default",
+                "text":"Evergreen Timeline Application",
+                "startDate":"2012,2,05",
+        "date": [
+		
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Bartels, Friedrich. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603714>http://search.socialhistory.org/Record/603714</a><br/> 245    Beelddocument = Visual document. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Photo.  (NL-AMISG)121213 <br>694    SPD  BG A1/750 <br>710    SPD,  collector.  (NL-AMISG)238506 <br>856    http://hdl.handle.net/10622/30051000014230 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014230#image.jpg",
+                    "credit":"603714",
+                    "caption":"Bartels, Friedrich. "
+                }
+            },
+
+            {
+                "startDate":"1931, September 24.",
+                                "endDate":"1931, September 24.",
+                "headline":"Bartels, Friedrich. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603747>http://search.socialhistory.org/Record/603747</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014248#image.jpg",
+                    "credit":"603747",
+                    "caption":"Bartels, Friedrich. "
+                }
+            },
+
+            {
+                "startDate":"1951, februari.",
+                                "endDate":"1951, februari.",
+                "headline":"Bartels, Jan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603760>http://search.socialhistory.org/Record/603760</a><br/> 245    Beelddocument = Visual document. <br>260    1951, februari. <br>500    Begrafenis. <br>650    Biographica.  (NL-AMISG)306042 <br>655    Photo.  (NL-AMISG)121213 <br>856    http://hdl.handle.net/10622/30051000014255 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014255#image.jpg",
+                    "credit":"603760",
+                    "caption":"Bartels, Jan. "
+                }
+            },
+
+            {
+                "startDate":"1951, februari.",
+                                "endDate":"1951, februari.",
+                "headline":"Bartels, Jan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603766>http://search.socialhistory.org/Record/603766</a><br/> 245    Beelddocument = Visual document. <br>260    1951, februari. <br>500    Begrafenis. <br>650    Biographica.  (NL-AMISG)306042 <br>655    Photo.  (NL-AMISG)121213 <br>856    http://hdl.handle.net/10622/30051000014263 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014263#image.jpg",
+                    "credit":"603766",
+                    "caption":"Bartels, Jan. "
+                }
+            },
+
+            {
+                "startDate":"1951, februari.",
+                                "endDate":"1951, februari.",
+                "headline":"Bartels, Jan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603773>http://search.socialhistory.org/Record/603773</a><br/> 245    Beelddocument = Visual document. <br>260    1951, februari. <br>500    Begrafenis. <br>650    Biographica.  (NL-AMISG)306042 <br>655    Photo.  (NL-AMISG)121213 <br>856    http://hdl.handle.net/10622/30051000014271 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014271#image.jpg",
+                    "credit":"603773",
+                    "caption":"Bartels, Jan. "
+                }
+            },
+
+            {
+                "startDate":"1951, februari.",
+                                "endDate":"1951, februari.",
+                "headline":"Bartels, Jan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603781>http://search.socialhistory.org/Record/603781</a><br/> 245    Beelddocument = Visual document. <br>260    1951, februari. <br>500    Begrafenis. <br>650    Biographica.  (NL-AMISG)306042 <br>655    Photo.  (NL-AMISG)121213 <br>856    http://hdl.handle.net/10622/30051000014297 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014297#image.jpg",
+                    "credit":"603781",
+                    "caption":"Bartels, Jan. "
+                }
+            },
+
+            {
+                "startDate":"1951, februari.",
+                                "endDate":"1951, februari.",
+                "headline":"Bartels, Jan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603785>http://search.socialhistory.org/Record/603785</a><br/> 245    Beelddocument = Visual document. <br>260    1951, februari. <br>500    Begrafenis. <br>650    Biographica.  (NL-AMISG)306042 <br>655    Photo.  (NL-AMISG)121213 <br>856    http://hdl.handle.net/10622/30051000014305 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014305#image.jpg",
+                    "credit":"603785",
+                    "caption":"Bartels, Jan. "
+                }
+            },
+
+            {
+                "startDate":"1951, februari.",
+                                "endDate":"1951, februari.",
+                "headline":"Bartels, Jan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603791>http://search.socialhistory.org/Record/603791</a><br/> 245    Beelddocument = Visual document. <br>260    1951, februari. <br>500    Begrafenis. <br>650    Biographica.  (NL-AMISG)306042 <br>655    Photo.  (NL-AMISG)121213 <br>856    http://hdl.handle.net/10622/30051000014313 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014313#image.jpg",
+                    "credit":"603791",
+                    "caption":"Bartels, Jan. "
+                }
+            },
+
+            {
+                "startDate":"1951, februari.",
+                                "endDate":"1951, februari.",
+                "headline":"Bartels, Jan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603796>http://search.socialhistory.org/Record/603796</a><br/> 245    Beelddocument = Visual document. <br>260    1951, februari. <br>500    Begrafenis. <br>650    Biographica.  (NL-AMISG)306042 <br>655    Photo.  (NL-AMISG)121213 <br>856    http://hdl.handle.net/10622/30051000014321 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014321#image.jpg",
+                    "credit":"603796",
+                    "caption":"Bartels, Jan. "
+                }
+            },
+
+            {
+                "startDate":"1951, februari.",
+                                "endDate":"1951, februari.",
+                "headline":"Bartels, Jan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603798>http://search.socialhistory.org/Record/603798</a><br/> 245    Beelddocument = Visual document. <br>260    1951, februari. <br>500    Begrafenis. <br>650    Biographica.  (NL-AMISG)306042 <br>655    Photo.  (NL-AMISG)121213 <br>856    http://hdl.handle.net/10622/30051000037298 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000037298#image.jpg",
+                    "credit":"603798",
+                    "caption":"Bartels, Jan. "
+                }
+            },
+
+            {
+                "startDate":"1951, februari.",
+                                "endDate":"1951, februari.",
+                "headline":"Bartels, Jan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603806>http://search.socialhistory.org/Record/603806</a><br/> 245    Beelddocument = Visual document. <br>260    1951, februari. <br>500    Begrafenis. <br>650    Biographica.  (NL-AMISG)306042 <br>655    Photo.  (NL-AMISG)121213 <br>856    http://hdl.handle.net/10622/30051000014339 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014339#image.jpg",
+                    "credit":"603806",
+                    "caption":"Bartels, Jan. "
+                }
+            },
+
+            {
+                "startDate":"1951, februari.",
+                                "endDate":"1951, februari.",
+                "headline":"Bartels, Jan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603810>http://search.socialhistory.org/Record/603810</a><br/> 245    Beelddocument = Visual document. <br>260    1951, februari. <br>500    Begrafenis. <br>650    Biographica.  (NL-AMISG)306042 <br>655    Photo.  (NL-AMISG)121213 <br>856    http://hdl.handle.net/10622/30051000014347 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014347#image.jpg",
+                    "credit":"603810",
+                    "caption":"Bartels, Jan. "
+                }
+            },
+
+            {
+                "startDate":"1951, februari.",
+                                "endDate":"1951, februari.",
+                "headline":"Bartels, Jan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603817>http://search.socialhistory.org/Record/603817</a><br/> 245    Beelddocument = Visual document. <br>260    1951, februari. <br>500    Begrafenis. <br>650    Biographica.  (NL-AMISG)306042 <br>655    Photo.  (NL-AMISG)121213 <br>856    http://hdl.handle.net/10622/30051000014354 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014354#image.jpg",
+                    "credit":"603817",
+                    "caption":"Bartels, Jan. "
+                }
+            },
+
+            {
+                "startDate":"1951, februari.",
+                                "endDate":"1951, februari.",
+                "headline":"Bartels, Jan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603821>http://search.socialhistory.org/Record/603821</a><br/> 245    Beelddocument = Visual document. <br>260    1951, februari. <br>500    Begrafenis. <br>650    Biographica.  (NL-AMISG)306042 <br>655    Photo.  (NL-AMISG)121213 <br>856    http://hdl.handle.net/10622/30051000014370 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014370#image.jpg",
+                    "credit":"603821",
+                    "caption":"Bartels, Jan. "
+                }
+            },
+
+            {
+                "startDate":"1951, februari.",
+                                "endDate":"1951, februari.",
+                "headline":"Bartels, Jan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603827>http://search.socialhistory.org/Record/603827</a><br/> 245    Beelddocument = Visual document. <br>260    1951, februari. <br>500    Begrafenis. <br>650    Biographica.  (NL-AMISG)306042 <br>655    Photo.  (NL-AMISG)121213 <br>856    http://hdl.handle.net/10622/30051000014396 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014396#image.jpg",
+                    "credit":"603827",
+                    "caption":"Bartels, Jan. "
+                }
+            },
+
+            {
+                "startDate":"1951, 24 januari.",
+                                "endDate":"1951, 24 januari.",
+                "headline":"Bartels, Jan. Bartels, Jan, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603835>http://search.socialhistory.org/Record/603835</a><br/> 245    Beelddocument = Visual document. <br>260    1951, 24 januari. <br>500    Huldiging. <br>650    Group portrait.  (NL-AMISG)112454 <br>655    Photo.  (NL-AMISG)121213 <br>856    http://hdl.handle.net/10622/30051000014412 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014412#image.jpg",
+                    "credit":"603835",
+                    "caption":"Bartels, Jan. Bartels, Jan, "
+                }
+            },
+
+            {
+                "startDate":"1951, 24 januari.",
+                                "endDate":"1951, 24 januari.",
+                "headline":"Bartels, Jan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603843>http://search.socialhistory.org/Record/603843</a><br/> 245    Beelddocument = Visual document. <br>260    1951, 24 januari. <br>500    Huldiging. <br>650    Biographica.  (NL-AMISG)306042 <br>655    Photo.  (NL-AMISG)121213 <br>856    http://hdl.handle.net/10622/30051000014438 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014438#image.jpg",
+                    "credit":"603843",
+                    "caption":"Bartels, Jan. "
+                }
+            },
+
+            {
+                "startDate":"1951,24 januari.",
+                                "endDate":"1951,24 januari.",
+                "headline":"Bartels, Jan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603849>http://search.socialhistory.org/Record/603849</a><br/> 245    Beelddocument = Visual document. <br>260    1951,24 januari. <br>500    Huldiging. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Photo.  (NL-AMISG)121213 <br>856    http://hdl.handle.net/10622/30051000014461 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014461#image.jpg",
+                    "credit":"603849",
+                    "caption":"Bartels, Jan. "
+                }
+            },
+
+            {
+                "startDate":"1951,24 januari.",
+                                "endDate":"1951,24 januari.",
+                "headline":"Bartels, Jan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603851>http://search.socialhistory.org/Record/603851</a><br/> 245    Beelddocument = Visual document. <br>260    1951,24 januari. <br>500    Huldiging. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Photo.  (NL-AMISG)121213 <br>856    http://hdl.handle.net/10622/30051000014479 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014479#image.jpg",
+                    "credit":"603851",
+                    "caption":"Bartels, Jan. "
+                }
+            },
+
+            {
+                "startDate":"1920?.",
+                                "endDate":"1920?.",
+                "headline":"Barry, Kevin. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603853>http://search.socialhistory.org/Record/603853</a><br/> 245    Beelddocument = Visual document. <br>260    1920?.   <br>500    Poem on back. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Half-tone photo.  (NL-AMISG)244771 <br>856    http://hdl.handle.net/10622/30051000002797 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000002797#image.jpg",
+                    "credit":"603853",
+                    "caption":"Barry, Kevin. "
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Barth, Emil. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603864>http://search.socialhistory.org/Record/603864</a><br/> 245    Beelddocument = Visual document. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Photo.  (NL-AMISG)121213 <br>694    SPD  BG A1/777 <br>710    SPD,  collector.  (NL-AMISG)238506 <br>856    http://hdl.handle.net/10622/30051000014495 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014495#image.jpg",
+                    "credit":"603864",
+                    "caption":"Barth, Emil. "
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Barth, Karl. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603870>http://search.socialhistory.org/Record/603870</a><br/> 245    Beelddocument = Visual document. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Half-tone photo.  (NL-AMISG)244771 <br>856    http://hdl.handle.net/10622/30051000014511 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014511#image.jpg",
+                    "credit":"603870",
+                    "caption":"Barth, Karl. "
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Barth, Karl. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603873>http://search.socialhistory.org/Record/603873</a><br/> 245    Beelddocument = Visual document. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Half-tone photo.  (NL-AMISG)244771 <br>856    http://hdl.handle.net/10622/30051000014529 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014529#image.jpg",
+                    "credit":"603873",
+                    "caption":"Barth, Karl. "
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Bre&#x17E;nev, Leonid Il&#x2BC;i&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603976>http://search.socialhistory.org/Record/603976</a><br/> 245    Beelddocument = Visual document. <br>650    Caricature.  (NL-AMISG)306037 <br>655    Print.  (NL-AMISG)262665 <br>856    http://hdl.handle.net/10622/30051000025236 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000025236#image.jpg",
+                    "credit":"603976",
+                    "caption":"Bre&#x17E;nev, Leonid Il&#x2BC;i&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Amin Dada, Idi. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603987>http://search.socialhistory.org/Record/603987</a><br/> 245    Beelddocument = Visual document. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Photo.  (NL-AMISG)121213 <br>694    Nieuwe Linie  BG A1/231 <br>710    Nieuwe Linie,  collector.  (NL-AMISG)216744 <br>856    http://hdl.handle.net/10622/30051000009164 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000009164#image.jpg",
+                    "credit":"603987",
+                    "caption":"Amin Dada, Idi. "
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Amin Dada, Idi. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603989>http://search.socialhistory.org/Record/603989</a><br/> 245    Beelddocument = Visual document. <br>650    Double portrait.  (NL-AMISG)99302 <br>655    Photo.  (NL-AMISG)121213 <br>694    Nieuwe Linie  BG A1/232 <br>710    Nieuwe Linie,  collector.  (NL-AMISG)216744 <br>856    http://hdl.handle.net/10622/30051000009172 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000009172#image.jpg",
+                    "credit":"603989",
+                    "caption":"Amin Dada, Idi. "
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Amin Dada, Idi. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603996>http://search.socialhistory.org/Record/603996</a><br/> 245    Beelddocument = Visual document. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Photo.  (NL-AMISG)121213 <br>694    Nieuwe Linie  BG A1/233 <br>710    Nieuwe Linie,  collector.  (NL-AMISG)216744 <br>856    http://hdl.handle.net/10622/30051000009180 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000009180#image.jpg",
+                    "credit":"603996",
+                    "caption":"Amin Dada, Idi. "
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Amory. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/604001>http://search.socialhistory.org/Record/604001</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000009198#image.jpg",
+                    "credit":"604001",
+                    "caption":"Amory. "
+                }
+            },
+
+            {
+                "startDate":"1956, January.",
+                                "endDate":"1956, January.",
+                "headline":"Barros, Juan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603680>http://search.socialhistory.org/Record/603680</a><br/> 245    Beelddocument = Visual document. <br>260    1956, January. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Photo.  (NL-AMISG)121213 <br>694    ISC  BG A1/747 <br>710    International Student Conference,  collector.  (NL-AMISG)114684 <br>856    http://hdl.handle.net/10622/30051000014206 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014206#image.jpg",
+                    "credit":"603680",
+                    "caption":"Barros, Juan. "
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Barros, Juan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603669>http://search.socialhistory.org/Record/603669</a><br/> 245    Beelddocument = Visual document. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Photo.  (NL-AMISG)121213 <br>694    ISC  BG A1/745 <br>710    International Student Conference,  collector.  (NL-AMISG)114684 <br>856    http://hdl.handle.net/10622/30051000014180 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014180#image.jpg",
+                    "credit":"603669",
+                    "caption":"Barros, Juan. "
+                }
+            },
+
+            {
+                "startDate":"1956, january.",
+                                "endDate":"1956, january.",
+                "headline":"Barros, Juan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603671>http://search.socialhistory.org/Record/603671</a><br/> 245    Beelddocument = Visual document. <br>260    1956, january. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Photo.  (NL-AMISG)121213 <br>694    ISC  BG A1/746 <br>710    International Student Conference,  collector.  (NL-AMISG)114684 <br>856    http://hdl.handle.net/10622/30051000014198 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014198#image.jpg",
+                    "credit":"603671",
+                    "caption":"Barros, Juan. "
+                }
+            },
+
+            {
+                "startDate":"1926, 1 oktober.",
+                                "endDate":"1926, 1 oktober.",
+                "headline":"Bartels, D. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603699>http://search.socialhistory.org/Record/603699</a><br/> 245   Beelddocument = Visual document. <br>260   1926, 1 oktober. <br>500   Uit: Album 49, p.4. <br>650   Portrait.  (NL-AMISG)306035 <br>655   Photo.  (NL-AMISG)121213 <br>694   NCA  BG A1/748 <br>710   Steenmeyer (Groningen)  (NL-AMISG)336301 <br>710   Nationale Commissie tegen het Alcoholisme,  collector.  (NL-AMISG)165596 <br>856   http://hdl.handle.net/10622/30051000014214 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014214#image.jpg",
+                    "credit":"603699",
+                    "caption":"Bartels, D. "
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Bartels, Friedrich. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603709>http://search.socialhistory.org/Record/603709</a><br/> 245    Beelddocument = Visual document. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Photo.  (NL-AMISG)121213 <br>694    SPD  BG A1/749 <br>710    SPD,  collector.  (NL-AMISG)238506 <br>856    http://hdl.handle.net/10622/30051000014222 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014222#image.jpg",
+                    "credit":"603709",
+                    "caption":"Bartels, Friedrich. "
+                }
+            },
+
+            {
+                "startDate":"1951, februari.",
+                                "endDate":"1951, februari.",
+                "headline":"Bartels, Jan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603779>http://search.socialhistory.org/Record/603779</a><br/> 245    Beelddocument = Visual document. <br>260    1951, februari. <br>500    Begrafenis. <br>650    Biographica.  (NL-AMISG)306042 <br>655    Photo.  (NL-AMISG)121213 <br>856    http://hdl.handle.net/10622/30051000014289 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014289#image.jpg",
+                    "credit":"603779",
+                    "caption":"Bartels, Jan. "
+                }
+            },
+
+            {
+                "startDate":"1951, februari.",
+                                "endDate":"1951, februari.",
+                "headline":"Bartels, Jan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603819>http://search.socialhistory.org/Record/603819</a><br/> 245    Beelddocument = Visual document. <br>260    1951, februari. <br>500    Begrafenis. <br>650    Biographica.  (NL-AMISG)306042 <br>655    Photo.  (NL-AMISG)121213 <br>856    http://hdl.handle.net/10622/30051000014362 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014362#image.jpg",
+                    "credit":"603819",
+                    "caption":"Bartels, Jan. "
+                }
+            },
+
+            {
+                "startDate":"1951, februari.",
+                                "endDate":"1951, februari.",
+                "headline":"Bartels, Jan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603825>http://search.socialhistory.org/Record/603825</a><br/> 245    Beelddocument = Visual document. <br>260    1951, februari. <br>500    Begrafenis. <br>650    Biographica.  (NL-AMISG)306042 <br>655    Photo.  (NL-AMISG)121213 <br>856    http://hdl.handle.net/10622/30051000014388 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014388#image.jpg",
+                    "credit":"603825",
+                    "caption":"Bartels, Jan. "
+                }
+            },
+
+            {
+                "startDate":"1951, februari.",
+                                "endDate":"1951, februari.",
+                "headline":"Bartels, Jan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603831>http://search.socialhistory.org/Record/603831</a><br/> 245    Beelddocument = Visual document. <br>260    1951, februari. <br>500    Begrafenis. <br>650    Biographica.  (NL-AMISG)306042 <br>655    Photo.  (NL-AMISG)121213 <br>856    http://hdl.handle.net/10622/30051000014404 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014404#image.jpg",
+                    "credit":"603831",
+                    "caption":"Bartels, Jan. "
+                }
+            },
+
+            {
+                "startDate":"1951, 24 januari.",
+                                "endDate":"1951, 24 januari.",
+                "headline":"Bartels, Jan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603841>http://search.socialhistory.org/Record/603841</a><br/> 245    Beelddocument = Visual document. <br>260    1951, 24 januari. <br>500    Huldiging. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Photo.  (NL-AMISG)121213 <br>856    http://hdl.handle.net/10622/30051000014420 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014420#image.jpg",
+                    "credit":"603841",
+                    "caption":"Bartels, Jan. "
+                }
+            },
+
+            {
+                "startDate":"1951,24 januari.",
+                                "endDate":"1951,24 januari.",
+                "headline":"Bartels, Jan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603845>http://search.socialhistory.org/Record/603845</a><br/> 245    Beelddocument = Visual document. <br>260    1951,24 januari. <br>500    Huldiging. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Photo.  (NL-AMISG)121213 <br>856    http://hdl.handle.net/10622/30051000014446 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014446#image.jpg",
+                    "credit":"603845",
+                    "caption":"Bartels, Jan. "
+                }
+            },
+
+            {
+                "startDate":"1951,24 januari.",
+                                "endDate":"1951,24 januari.",
+                "headline":"Bartels, Jan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603847>http://search.socialhistory.org/Record/603847</a><br/> 245    Beelddocument = Visual document. <br>260    1951,24 januari. <br>500    Huldiging. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Photo.  (NL-AMISG)121213 <br>856    http://hdl.handle.net/10622/30051000014453 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014453#image.jpg",
+                    "credit":"603847",
+                    "caption":"Bartels, Jan. "
+                }
+            },
+
+            {
+                "startDate":"1980.",
+                                "endDate":"1980.",
+                "headline":"Barten, Bert. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603857>http://search.socialhistory.org/Record/603857</a><br/> 245    Beelddocument = Visual document. <br>260    1980. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Photo.  (NL-AMISG)121213 <br>856    http://hdl.handle.net/10622/30051000014487 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014487#image.jpg",
+                    "credit":"603857",
+                    "caption":"Barten, Bert. "
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Barth, Karl. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603866>http://search.socialhistory.org/Record/603866</a><br/> 245    Beelddocument = Visual document. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Half-tone photo.  (NL-AMISG)244771 <br>856    http://hdl.handle.net/10622/30051000014503 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014503#image.jpg",
+                    "credit":"603866",
+                    "caption":"Barth, Karl. "
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Amouroux, Charles. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603942>http://search.socialhistory.org/Record/603942</a><br/> 245    Beelddocument = Visual document. <br>500    From Album XXIII. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Photo.  (NL-AMISG)121213 <br>694    Descaves, L.  BG A1/238 <br>700    Descaves, Lucien,  collector.  (NL-AMISG)83635 <br>856    http://hdl.handle.net/10622/30051000009230 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000009230#image.jpg",
+                    "credit":"603942",
+                    "caption":"Amouroux, Charles. "
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Barth, Karl. Barth, Nelly. Barth, Markus. Barth, Franziska. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603877>http://search.socialhistory.org/Record/603877</a><br/> 245    Beelddocument = Visual document. <br>500    With wive and children. <br>650    Group portrait.  (NL-AMISG)112454 <br>655    Half-tone photo.  (NL-AMISG)244771 <br>856    http://hdl.handle.net/10622/30051000014537 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014537#image.jpg",
+                    "credit":"603877",
+                    "caption":"Barth, Karl. Barth, Nelly. Barth, Markus. Barth, Franziska. "
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Barthe, Louis. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603882>http://search.socialhistory.org/Record/603882</a><br/> 245    Beelddocument = Visual document. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Photo.  (NL-AMISG)121213 <br>856    http://hdl.handle.net/10622/30051000014545 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014545#image.jpg",
+                    "credit":"603882",
+                    "caption":"Barthe, Louis. "
+                }
+            },
+
+            {
+                "startDate":"1981",
+                                "endDate":"1981",
+                "headline":"Serie van 4 prentbriefkaart.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603944>http://search.socialhistory.org/Record/603944</a><br/> 245    Beelddocument = Visual document. <br>260    1981  (Den Bosch :  Rebel,  1981) <br>500    Serie van 4 prentbriefkaart. <br>648    1981-1981.  (NL-AMISG)368058 <br>650    War and peace.  (NL-AMISG)177089 <br>650    Emancipation of women.  (NL-AMISG)264284 <br>651    Netherlands.  (NL-AMISG)569282 <br>655    Picture postcard.  (NL-AMISG)197051 <br>695    NED  Nederland. <br>856    http://hdl.handle.net/10622/30051000448602 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000448602#image.jpg",
+                    "credit":"603944",
+                    "caption":"Serie van 4 prentbriefkaart."
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Amfiteatrov, Aleksandr [Valentinovi&#x10D;]. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603949>http://search.socialhistory.org/Record/603949</a><br/> 245    Beelddocument = Visual document. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Half-tone photo.  (NL-AMISG)244771 <br>856    http://hdl.handle.net/10622/30051000009131 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000009131#image.jpg",
+                    "credit":"603949",
+                    "caption":"Amfiteatrov, Aleksandr [Valentinovi&#x10D;]. "
+                }
+            },
+
+            {
+                "startDate":"1904.",
+                                "endDate":"1904.",
+                "headline":"Amicis, Edmondo de. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603952>http://search.socialhistory.org/Record/603952</a><br/> 245    Beelddocument = Visual document. <br>260    1904. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Half-tone photo.  (NL-AMISG)244771 <br>694    Fedeli, U.  BG A1/229 <br>700    Fedeli, Ugo,  collector.  (NL-AMISG)81680 <br>856    http://hdl.handle.net/10622/30051000009149 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000009149#image.jpg",
+                    "credit":"603952",
+                    "caption":"Amicis, Edmondo de. "
+                }
+            },
+
+            {
+                "startDate":"1918(ca.)",
+                                "endDate":"1918(ca.)",
+                "headline":"An, ... ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603947>http://search.socialhistory.org/Record/603947</a><br/> 245   Beelddocument = Visual document. <br>260   1918(ca.) <br>500   From Int 1378/16, p.36. <br>650   Portrait.  (NL-AMISG)306035 <br>655   Half-tone photo.  (NL-AMISG)244771 <br>856   http://hdl.handle.net/10622/30051000009248 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000009248#image.jpg",
+                    "credit":"603947",
+                    "caption":"An, ... "
+                }
+            },
+
+            {
+                "startDate":"(Ca. 1933)",
+                                "endDate":"(Ca. 1933)",
+                "headline":"Amelink, Herman. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603978>http://search.socialhistory.org/Record/603978</a><br/> 245   Beelddocument = Visual document. <br>260   (Ca. 1933) <br>650   Portrait.  (NL-AMISG)306035 <br>655   Half-tone photo.  (NL-AMISG)244771 <br>856   http://hdl.handle.net/10622/30051000009107 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000009107#image.jpg",
+                    "credit":"603978",
+                    "caption":"Amelink, Herman. "
+                }
+            }
+
+		]
+    }
+}
+

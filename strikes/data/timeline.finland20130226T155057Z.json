@@ -1,0 +1,663 @@
+{
+    "timeline":
+    {
+        "headline":"Posters Visual Timeline",
+        "type":"default",
+                "text":"Evergreen Timeline Application",
+                "startDate":"2012,2,05",
+        "date": [
+		
+            {
+                "startDate":"1971",
+                                "endDate":"1971",
+                "headline":"Douglas, Thomas Clement. Wilson, Harold. Pittermann, Bruno. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/800156>http://search.socialhistory.org/Record/800156</a><br/> 245   Beelddocument = Visual document. <br>260   1971, May 25-27. <br>500   F.l.t.r. Wilson, Douglas and Pittermann. Douglas gets the third Silver Plate of Honour. <br>611   Socialist International.  Council Conference  (1971 :  Helsinki)  (NL-AMISG)320242 <br>648   1971-1971.  (NL-AMISG)568550 <br>650   Group portrait.  (NL-AMISG)112454 <br>651   Helsinki. (Finland)  (NL-AMISG)113474 <br>651   International.  (NL-AMISG)144624 <br>655   Photo.  (NL-AMISG)121213 <br>695   FIN  Helsinki. <br>695   INT. <br>856   http://hdl.handle.net/10622/30051000556560 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000556560#image.jpg",
+                    "credit":"800156",
+                    "caption":"Douglas, Thomas Clement. Wilson, Harold. Pittermann, Bruno. "
+                }
+            },
+
+            {
+                "startDate":"1920",
+                                "endDate":"1920",
+                "headline":"Enckel, ... Ishii, ... Hijmans, Paul. Fisher, ..., ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/805713>http://search.socialhistory.org/Record/805713</a><br/> 245   Beelddocument = Visual document. <br>260   (Ca. 1921) <br>500   F.l.t.r.: Ishii, Enckel, Fisher and Hijmans. <br>610   League of Nations (Geneva)  (NL-AMISG)140292 <br>648   1920-1922.  (NL-AMISG)359384 <br>650   Border disputes.  (NL-AMISG)95093 <br>650   Group portrait.  (NL-AMISG)112454 <br>651   International.  (NL-AMISG)144624 <br>651   Finland.  (NL-AMISG)106072 <br>655   Half-tone photo.  (NL-AMISG)244771 <br>695   INT. <br>695   FIN. <br>856   http://hdl.handle.net/10622/30051000574084 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000574084#image.jpg",
+                    "credit":"805713",
+                    "caption":"Enckel, ... Ishii, ... Hijmans, Paul. Fisher, ..., "
+                }
+            },
+
+            {
+                "startDate":"1939",
+                                "endDate":"1939",
+                "headline":"Pieck, Henri,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/913421>http://search.socialhistory.org/Record/913421</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000726924#image.jpg",
+                    "credit":"913421",
+                    "caption":"Pieck, Henri,"
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Schaumann, Eugenius. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/711338>http://search.socialhistory.org/Record/711338</a><br/> 245   Beelddocument = Visual document. <br>500   Fin who shot the Russian governor of Finland, general Bobrikov. From: Zondagsblad het Volk, 10-07-1904. <br>650   Portrait.  (NL-AMISG)306035 <br>655   Half-tone photo.  (NL-AMISG)244771 <br>856   http://hdl.handle.net/10622/30051000152568 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000152568#image.jpg",
+                    "credit":"711338",
+                    "caption":"Schaumann, Eugenius. "
+                }
+            },
+
+            {
+                "startDate":"1990",
+                                "endDate":"1990",
+                "headline":"",
+                "text":"<p><a href=http://search.socialhistory.org/Record/810453>http://search.socialhistory.org/Record/810453</a><br/> 245   Beelddocument = Visual document. <br>260   1990. <br>648   1990-1990.  (NL-AMISG)369914 <br>651   International.  (NL-AMISG)144624 <br>651   Helsinki. (Finland)  (NL-AMISG)113474 <br>655   Sticker.  (NL-AMISG)340625 <br>655   Print.  (NL-AMISG)262665 <br>695   INT. <br>695   FIN  Helsinki. <br>711   International Association of Labour History Institutions.  Conference  (21 :  1990 :  Helsinki)  (NL-AMISG)164261 <br>856   http://hdl.handle.net/10622/30051000506755 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000506755#image.jpg",
+                    "credit":"810453",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"1978",
+                                "endDate":"1978",
+                "headline":"Leonard, James F. Carlsson, Bernt. Watanabe, Roo. Palme, Olof. Paasio, Rafael. Ponomarev, Boris Nikolaevi&#x10D;. Sorsa, Kalevi. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/798614>http://search.socialhistory.org/Record/798614</a><br/> 245    Beelddocument = Visual document. <br>260    1978, April 24-26. <br>500    Place of persons indicated on the back. <br>540    Paasikuva. <br>611    Socialist International.  Conference on Disarmament  (1978 :  Helsinki)  (NL-AMISG)320219 <br>648    1978-1978.  (NL-AMISG)368037 <br>650    War and peace.  (NL-AMISG)177089 <br>650    Group portrait.  (NL-AMISG)112454 <br>651    Helsinki. (Finland)  (NL-AMISG)113474 <br>651    International.  (NL-AMISG)144624 <br>655    Photo.  (NL-AMISG)121213 <br>695    FIN  Helsinki. <br>695    INT. <br>710    Paasikuva (Helsinki)  (NL-AMISG)247876 <br>856    http://hdl.handle.net/10622/30051000559002 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000559002#image.jpg",
+                    "credit":"798614",
+                    "caption":"Leonard, James F. Carlsson, Bernt. Watanabe, Roo. Palme, Olof. Paasio, Rafael. Ponomarev, Boris Nikolaevi&#x10D;. Sorsa, Kalevi. "
+                }
+            },
+
+            {
+                "startDate":"1971",
+                                "endDate":"1971",
+                "headline":"Meir, Golda. Brandt, Willy. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/798979>http://search.socialhistory.org/Record/798979</a><br/> 245    Beelddocument = Visual document. <br>260    1971, May 27. <br>500    Meir (left) and Brandt (with plate) at Premier Ahti Karjalainen's reception for the SI Council Conference-participants. <br>540    UPI. <br>611    Socialist International.  Council Conference  (1971 :  Helsinki)  (NL-AMISG)320242 <br>648    1971-1971.  (NL-AMISG)568550 <br>650    Double portrait.  (NL-AMISG)99302 <br>651    Helsinki. (Finland)  (NL-AMISG)113474 <br>651    International.  (NL-AMISG)144624 <br>655    Photo.  (NL-AMISG)121213 <br>695    FIN  Helsinki. <br>695    INT. <br>710    UPI (London)  (NL-AMISG)325821 <br>856    http://hdl.handle.net/10622/30051000556958 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000556958#image.jpg",
+                    "credit":"798979",
+                    "caption":"Meir, Golda. Brandt, Willy. "
+                }
+            },
+
+            {
+                "startDate":"1971",
+                                "endDate":"1971",
+                "headline":"Meir, Golda. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/798934>http://search.socialhistory.org/Record/798934</a><br/> 245    Beelddocument = Visual document. <br>260    1971, May 24. <br>500    Meir with handbag. <br>540    AP-Photo. <br>611    Socialist International.  Council Conference  (1971 :  Helsinki)  (NL-AMISG)320242 <br>648    1971-1971.  (NL-AMISG)568550 <br>650    Double portrait.  (NL-AMISG)99302 <br>651    Helsinki. (Finland)  (NL-AMISG)113474 <br>651    International.  (NL-AMISG)144624 <br>655    Photo.  (NL-AMISG)121213 <br>695    FIN  Helsinki. <br>695    INT. <br>710    Associated Press Photo (London)  (NL-AMISG)17327 <br>856    http://hdl.handle.net/10622/30051000556420 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000556420#image.jpg",
+                    "credit":"798934",
+                    "caption":"Meir, Golda. "
+                }
+            },
+
+            {
+                "startDate":"1971",
+                                "endDate":"1971",
+                "headline":"Meir, Golda. Bratteli, Trygve. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/798953>http://search.socialhistory.org/Record/798953</a><br/> 245    Beelddocument = Visual document. <br>260    1971, May 27. <br>500    First row: Meir, behind her Bratteli. <br>540    AP-Photo. <br>611    Socialist International.  Council Conference  (1971 :  Helsinki)  (NL-AMISG)320242 <br>648    1971-1971.  (NL-AMISG)568550 <br>650    Double portrait.  (NL-AMISG)99302 <br>651    Helsinki. (Finland)  (NL-AMISG)113474 <br>651    International.  (NL-AMISG)144624 <br>655    Photo.  (NL-AMISG)121213 <br>695    FIN  Helsinki. <br>695    INT. <br>710    Associated Press Photo (London)  (NL-AMISG)17327 <br>856    http://hdl.handle.net/10622/30051000556222 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000556222#image.jpg",
+                    "credit":"798953",
+                    "caption":"Meir, Golda. Bratteli, Trygve. "
+                }
+            },
+
+            {
+                "startDate":"1971",
+                                "endDate":"1971",
+                "headline":"Wilson, Harold. Pittermann, Bruno. Janitschek, Hans. Paasio, Rafael. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/799001>http://search.socialhistory.org/Record/799001</a><br/> 245    Beelddocument = Visual document. <br>260    1971, May 25. <br>500    F.l.t.r. Paasio, Wilson, Pittermann and Janitschek. <br>540    UPI. <br>611    Socialist International.  Council Conference  (1971 :  Helsinki)  (NL-AMISG)320242 <br>648    1971-1971.  (NL-AMISG)568550 <br>650    Group portrait.  (NL-AMISG)112454 <br>651    Helsinki. (Finland)  (NL-AMISG)113474 <br>651    International.  (NL-AMISG)144624 <br>655    Photo.  (NL-AMISG)121213 <br>695    FIN  Helsinki. <br>695    INT. <br>710    UPI (London)  (NL-AMISG)325821 <br>856    http://hdl.handle.net/10622/30051000556370 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000556370#image.jpg",
+                    "credit":"799001",
+                    "caption":"Wilson, Harold. Pittermann, Bruno. Janitschek, Hans. Paasio, Rafael. "
+                }
+            },
+
+            {
+                "startDate":"1971",
+                                "endDate":"1971",
+                "headline":"Morales, Carlos. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/799021>http://search.socialhistory.org/Record/799021</a><br/> 245    Beelddocument = Visual document. <br>260    1971, May 25-27. <br>500    Front row: Morales (on the right). <br>611    Socialist International.  Council Conference  (1971 :  Helsinki)  (NL-AMISG)320242 <br>648    1971-1971.  (NL-AMISG)568550 <br>650    Double portrait.  (NL-AMISG)99302 <br>651    Helsinki. (Finland)  (NL-AMISG)113474 <br>651    International.  (NL-AMISG)144624 <br>655    Photo.  (NL-AMISG)121213 <br>695    FIN  Helsinki. <br>695    INT. <br>856    http://hdl.handle.net/10622/30051000557055 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000557055#image.jpg",
+                    "credit":"799021",
+                    "caption":"Morales, Carlos. "
+                }
+            },
+
+            {
+                "startDate":"1971",
+                                "endDate":"1971",
+                "headline":"Kuusi, Pekka. Leskinen, V&#xE4;in&#xF6;. Sundqvist, U. Sorsa, Kalevi. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/799034>http://search.socialhistory.org/Record/799034</a><br/> 245    Beelddocument = Visual document. <br>260    1971, May 25-27. <br>500    Front row: F.l.t.r. Sorsa, Leskinen, Sundqvist and Kuusi. Members of the Finnish Soc. Dem. Party delegation. <br>611    Socialist International.  Council Conference  (1971 :  Helsinki)  (NL-AMISG)320242 <br>648    1971-1971.  (NL-AMISG)568550 <br>650    Group portrait.  (NL-AMISG)112454 <br>651    Helsinki. (Finland)  (NL-AMISG)113474 <br>651    International.  (NL-AMISG)144624 <br>655    Photo.  (NL-AMISG)121213 <br>695    FIN  Helsinki. <br>695    INT. <br>856    http://hdl.handle.net/10622/30051000557105 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000557105#image.jpg",
+                    "credit":"799034",
+                    "caption":"Kuusi, Pekka. Leskinen, V&#xE4;in&#xF6;. Sundqvist, U. Sorsa, Kalevi. "
+                }
+            },
+
+            {
+                "startDate":"1939",
+                                "endDate":"1939",
+                "headline":"Koning, Roeland,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/818550>http://search.socialhistory.org/Record/818550</a><br/> 245    Beelddocument = Visual document. <br>260    (1939 ?)  ('s-Gravenhage :  La Riviere &amp; Voorhoeve,  1939) <br>500    Wikkel voor Pro Finlandia zegels. Zie: A27/548-56. <br>648    1939-1939.  (NL-AMISG)362638 <br>651    Netherlands.  (NL-AMISG)569282 <br>655    Small printed matter.  (NL-AMISG)463652 <br>695    NED  Nederland. <br>710    Finsch-Nederlandsche Vereeniging.  (NL-AMISG)106663 <br>711    Actie Finland.  (1939)  (NL-AMISG)387269 <br>856    http://hdl.handle.net/10622/30051000424413 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000424413#image.jpg",
+                    "credit":"818550",
+                    "caption":"Koning, Roeland,"
+                }
+            },
+
+            {
+                "startDate":"1939",
+                                "endDate":"1939",
+                "headline":"Vlugt, W. van der. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/818574>http://search.socialhistory.org/Record/818574</a><br/> 245    Beelddocument = Visual document. <br>260    (1939 ?)  ('s-Gravenhage :  La Riviere &amp; Voorhoeve,  1939) <br>500    Pro Finlandia zegel. Zie ook: A27/547-56. <br>648    1939-1939.  (NL-AMISG)362638 <br>650    Portrait.  (NL-AMISG)306035 <br>651    Netherlands.  (NL-AMISG)569282 <br>655    Small printed matter.  (NL-AMISG)463652 <br>655    Half-tone photo.  (NL-AMISG)244771 <br>695    NED  Nederland. <br>710    Finsch-Nederlandsche Vereeniging.  (NL-AMISG)106663 <br>711    Actie Finland.  (1939)  (NL-AMISG)387269 <br>856    http://hdl.handle.net/10622/30051000424520 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000424520#image.jpg",
+                    "credit":"818574",
+                    "caption":"Vlugt, W. van der. "
+                }
+            },
+
+            {
+                "startDate":"1939",
+                                "endDate":"1939",
+                "headline":"Mannerheim, Carl Gustav Emil. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/818595>http://search.socialhistory.org/Record/818595</a><br/> 245    Beelddocument = Visual document. <br>260    (1939 ?)  ('s-Gravenhage :  La Riviere &amp; Voorhoeve,  1939) <br>500    Pro Finlandia zegel. Zie ook: A27/547-56. <br>648    1939-1939.  (NL-AMISG)362638 <br>650    Portrait.  (NL-AMISG)306035 <br>651    Netherlands.  (NL-AMISG)569282 <br>655    Small printed matter.  (NL-AMISG)463652 <br>655    Half-tone photo.  (NL-AMISG)244771 <br>695    NED  Nederland. <br>710    Finsch-Nederlandsche Vereeniging.  (NL-AMISG)106663 <br>711    Actie Finland.  (1939)  (NL-AMISG)387269 <br>856    http://hdl.handle.net/10622/30051000424421 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000424421#image.jpg",
+                    "credit":"818595",
+                    "caption":"Mannerheim, Carl Gustav Emil. "
+                }
+            },
+
+            {
+                "startDate":"1939",
+                                "endDate":"1939",
+                "headline":"Sibelius, Jean. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/818618>http://search.socialhistory.org/Record/818618</a><br/> 245    Beelddocument = Visual document. <br>260    (1939 ?)  ('s-Gravenhage :  La Riviere &amp; Voorhoeve,  1899) <br>500    Pro Finlandia zegel. Zie ook: A27/547-56. <br>648    1939-1939.  (NL-AMISG)362638 <br>650    Portrait.  (NL-AMISG)306035 <br>651    Netherlands.  (NL-AMISG)569282 <br>655    Small printed matter.  (NL-AMISG)463652 <br>655    Half-tone photo.  (NL-AMISG)244771 <br>695    NED  Nederland. <br>710    Finsch-Nederlandsche Vereeniging.  (NL-AMISG)106663 <br>711    Actie Finland.  (1939)  (NL-AMISG)387269 <br>856    http://hdl.handle.net/10622/30051000424629 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000424629#image.jpg",
+                    "credit":"818618",
+                    "caption":"Sibelius, Jean. "
+                }
+            },
+
+            {
+                "startDate":"1939",
+                                "endDate":"1939",
+                "headline":"Svinhufvud, P.E. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/818621>http://search.socialhistory.org/Record/818621</a><br/> 245    Beelddocument = Visual document. <br>260    (1939 ?)  ('s-Gravenhage :  La Riviere &amp; Voorhoeve,  1939) <br>500    Pro Finlandia zegel. Zie ook: A27/547-56. <br>648    1939-1939.  (NL-AMISG)362638 <br>650    Portrait.  (NL-AMISG)306035 <br>651    Netherlands.  (NL-AMISG)569282 <br>655    Small printed matter.  (NL-AMISG)463652 <br>655    Half-tone photo.  (NL-AMISG)244771 <br>695    NED  Nederland. <br>710    Finsch-Nederlandsche Vereeniging.  (NL-AMISG)106663 <br>711    Actie Finland.  (1939)  (NL-AMISG)387269 <br>856    http://hdl.handle.net/10622/30051000424579 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000424579#image.jpg",
+                    "credit":"818621",
+                    "caption":"Svinhufvud, P.E. "
+                }
+            },
+
+            {
+                "startDate":"1939",
+                                "endDate":"1939",
+                "headline":"Sillanp&#xE4;&#xE4;, ... ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/818627>http://search.socialhistory.org/Record/818627</a><br/> 245    Beelddocument = Visual document. <br>260    (1939 ?)  ('s-Gravenhage :  La Riviere &amp; Voorhoeve,  1939) <br>500    Pro Finlandia zegel. Zie ook: A27/547-56. <br>648    1939-1939.  (NL-AMISG)362638 <br>650    Portrait.  (NL-AMISG)306035 <br>651    Netherlands.  (NL-AMISG)569282 <br>655    Small printed matter.  (NL-AMISG)463652 <br>655    Half-tone photo.  (NL-AMISG)244771 <br>695    NED  Nederland. <br>710    Finsch-Nederlandsche Vereeniging.  (NL-AMISG)106663 <br>711    Actie Finland.  (1939)  (NL-AMISG)387269 <br>856    http://hdl.handle.net/10622/30051000424678 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000424678#image.jpg",
+                    "credit":"818627",
+                    "caption":"Sillanp&#xE4;&#xE4;, ... "
+                }
+            },
+
+            {
+                "startDate":"1939",
+                                "endDate":"1939",
+                "headline":"Erich, R. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/818641>http://search.socialhistory.org/Record/818641</a><br/> 245    Beelddocument = Visual document. <br>260    (1939 ?)  ('s-Gravenhage :  La Riviere &amp; Voorhoeve,  1939) <br>500    Pro Finlandia zegel. Zie ook: A27/547-56. <br>648    1939-1939.  (NL-AMISG)362638 <br>650    Portrait.  (NL-AMISG)306035 <br>651    Netherlands.  (NL-AMISG)569282 <br>655    Small printed matter.  (NL-AMISG)463652 <br>655    Half-tone photo.  (NL-AMISG)244771 <br>695    NED  Nederland. <br>710    Finsch-Nederlandsche Vereeniging.  (NL-AMISG)106663 <br>711    Actie Finland.  (1939)  (NL-AMISG)387269 <br>856    http://hdl.handle.net/10622/30051000424512 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000424512#image.jpg",
+                    "credit":"818641",
+                    "caption":"Erich, R. "
+                }
+            },
+
+            {
+                "startDate":"1939",
+                                "endDate":"1939",
+                "headline":"Runeberg, ... ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/818648>http://search.socialhistory.org/Record/818648</a><br/> 245    Beelddocument = Visual document. <br>260    (1939 ?)  ('s-Gravenhage :  La Riviere &amp; Voorhoeve,  1939) <br>500    Pro Finlandia zegel. Zie ook: A27/547-56. <br>648    1939-1939.  (NL-AMISG)362638 <br>650    Portrait.  (NL-AMISG)306035 <br>651    Netherlands.  (NL-AMISG)569282 <br>655    Small printed matter.  (NL-AMISG)463652 <br>655    Half-tone photo.  (NL-AMISG)244771 <br>695    NED  Nederland. <br>710    Finsch-Nederlandsche Vereeniging.  (NL-AMISG)106663 <br>711    Actie Finland.  (1939)  (NL-AMISG)387269 <br>856    http://hdl.handle.net/10622/30051000424462 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000424462#image.jpg",
+                    "credit":"818648",
+                    "caption":"Runeberg, ... "
+                }
+            },
+
+            {
+                "startDate":"1939",
+                                "endDate":"1939",
+                "headline":"Koning, Roeland,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/818656>http://search.socialhistory.org/Record/818656</a><br/> 245    Beelddocument = Visual document. <br>260    (1939 ?)  ('s-Gravenhage :  La Riviere &amp; Voorhoeve,  1939) <br>500    Pro Finlandia zegel. Zie: A27/547-55. <br>648    1939-1939.  (NL-AMISG)362638 <br>651    Netherlands.  (NL-AMISG)569282 <br>655    Small printed matter.  (NL-AMISG)463652 <br>695    NED  Nederland. <br>710    Finsch-Nederlandsche Vereeniging.  (NL-AMISG)106663 <br>711    Actie Finland.  (1939)  (NL-AMISG)387269 <br>856    http://hdl.handle.net/10622/30051000424611 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000424611#image.jpg",
+                    "credit":"818656",
+                    "caption":"Koning, Roeland,"
+                }
+            },
+
+            {
+                "startDate":"1977",
+                                "endDate":"1977",
+                "headline":"",
+                "text":"<p><a href=http://search.socialhistory.org/Record/798045>http://search.socialhistory.org/Record/798045</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001120929#image.jpg",
+                    "credit":"798045",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"1924",
+                                "endDate":"1924",
+                "headline":"Lenin, Vladimir Il'i&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/640374>http://search.socialhistory.org/Record/640374</a><br/> 245    Beelddocument = Visual document. <br>260    1924-1926  (S.l. :  s.n.,  1970) <br>500    Calendar sheet. Original in Leningrad near the Finland station. <br>650    Sculpture.  (NL-AMISG)302216 <br>650    Biographica.  (NL-AMISG)306042 <br>700    Evseev, S.A.,  sculptor.  (NL-AMISG)101498 <br>856    http://hdl.handle.net/10622/30051000099975 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000099975#image.jpg",
+                    "credit":"640374",
+                    "caption":"Lenin, Vladimir Il'i&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"1976",
+                                "endDate":"1976",
+                "headline":"",
+                "text":"<p><a href=http://search.socialhistory.org/Record/772512>http://search.socialhistory.org/Record/772512</a><br/> 245   Beelddocument = Visual document. <br>260   1976  (S.l. :  s.n.,  1976) <br>300   21x30 cm. <br>648   1976-1976.  (NL-AMISG)366975 <br>650   Local elections.  (NL-AMISG)147027 <br>651   Finland.  (NL-AMISG)106072 <br>655   Poster.  (NL-AMISG)3248 <br>695   FIN. <br>710   SKDL (Suomen)  (NL-AMISG)315299 <br>856   http://hdl.handle.net/10622/30051001134094 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001134094#image.jpg",
+                    "credit":"772512",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"1988",
+                                "endDate":"1988",
+                "headline":"Finland, Tom of,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/802136>http://search.socialhistory.org/Record/802136</a><br/> 245   Veilig verder!  Beelddocument = Visual document. <br>260   1988  (S.l. :  Rotor Offsetdruk bv,  1988) <br>300   Offset; 60x42 cm. <br>648   1988-1988.  (NL-AMISG)369899 <br>650   AIDS.  (NL-AMISG)10059 <br>651   Netherlands.  (NL-AMISG)569282 <br>655   Poster.  (NL-AMISG)3248 <br>695   NED  Nederland. <br>700   Vellinga, Menne,  designer.  (NL-AMISG)333572 <br>830   Veilig verder ;  7.  (NL-AMISG)307467 <br>856   http://hdl.handle.net/10622/30051000679933 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000679933#image.jpg",
+                    "credit":"802136",
+                    "caption":"Finland, Tom of,"
+                }
+            },
+
+            {
+                "startDate":"1921",
+                                "endDate":"1921",
+                "headline":"Anarchist refugees from Kronstadt in Terijoki.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/810853>http://search.socialhistory.org/Record/810853</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000591252#image.jpg",
+                    "credit":"810853",
+                    "caption":"Anarchist refugees from Kronstadt in Terijoki."
+                }
+            },
+
+            {
+                "startDate":"1961, December 14.",
+                                "endDate":"1961, December 14.",
+                "headline":"Paasio, Rafael. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/700258>http://search.socialhistory.org/Record/700258</a><br/> 245   Beelddocument = Visual document. <br>260   1961, December 14. <br>500   Social-democrat Paasio, campaigning for the presidential elections in Finland. <br>540   Reportagebureau Laszlio; Keystone, London. <br>650   Portrait.  (NL-AMISG)306035 <br>655   Photo.  (NL-AMISG)121213 <br>694   Braunthal, J.  BG B3/285 <br>700   Braunthal, Julius,  collector.  (NL-AMISG)2000084 <br>710   Reportagebureau Laszlio (Helsinki)  (NL-AMISG)273635 <br>856   http://hdl.handle.net/10622/30051000132784 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000132784#image.jpg",
+                    "credit":"700258",
+                    "caption":"Paasio, Rafael. "
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Stalin, Iosif Vissarionovi&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/711199>http://search.socialhistory.org/Record/711199</a><br/> 245   Beelddocument = Visual document. <br>500   Verse under caricature: laughing hard to double-cross us/This egg looked like a Colossus/Finland took him down a peg/He is just another egg. <br>650   Caricature.  (NL-AMISG)306037 <br>655   Print.  (NL-AMISG)262665 <br>856   http://hdl.handle.net/10622/30051000163128 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000163128#image.jpg",
+                    "credit":"711199",
+                    "caption":"Stalin, Iosif Vissarionovi&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Plachov, ... Petri&#x10D;enko, Stepan Maksimovi&#x10D;. Solovjanov, ... ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/772753>http://search.socialhistory.org/Record/772753</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000596376#image.jpg",
+                    "credit":"772753",
+                    "caption":"Plachov, ... Petri&#x10D;enko, Stepan Maksimovi&#x10D;. Solovjanov, ... "
+                }
+            },
+
+            {
+                "startDate":"1925",
+                                "endDate":"1925",
+                "headline":"Presser, Sem,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/798240>http://search.socialhistory.org/Record/798240</a><br/> 245    Beelddocument = Visual document. <br>540    Sem Presser. <br>610    Sozialistische Jugend-Internationale.  (NL-AMISG)327314 <br>648    1925-1949.  (NL-AMISG)360599 <br>651    International.  (NL-AMISG)144624 <br>651    Finland.  (NL-AMISG)106072 <br>655    Photo.  (NL-AMISG)121213 <br>695    INT. <br>695    FIN. <br>856    http://hdl.handle.net/10622/30051000562626 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000562626#image.jpg",
+                    "credit":"798240",
+                    "caption":"Presser, Sem,"
+                }
+            },
+
+            {
+                "startDate":"1925",
+                                "endDate":"1925",
+                "headline":"Presser, Sem,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/798244>http://search.socialhistory.org/Record/798244</a><br/> 245    Beelddocument = Visual document. <br>500    Series of 2 photos. <br>540    Sem Presser. <br>610    Sozialistische Jugend-Internationale.  (NL-AMISG)327314 <br>648    1925-1949.  (NL-AMISG)360599 <br>651    International.  (NL-AMISG)144624 <br>651    Finland.  (NL-AMISG)106072 <br>655    Photo.  (NL-AMISG)121213 <br>695    INT. <br>695    FIN. <br>856    http://hdl.handle.net/10622/30051000562675 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000562675#image.jpg",
+                    "credit":"798244",
+                    "caption":"Presser, Sem,"
+                }
+            },
+
+            {
+                "startDate":"1971",
+                                "endDate":"1971",
+                "headline":"Meir, Golda. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/798939>http://search.socialhistory.org/Record/798939</a><br/> 245    Beelddocument = Visual document. <br>260    1971, May 25. <br>540    UPI. <br>611    Socialist International.  Council Conference  (1971 :  Helsinki)  (NL-AMISG)320242 <br>648    1971-1971.  (NL-AMISG)568550 <br>650    Portrait.  (NL-AMISG)306035 <br>651    Helsinki. (Finland)  (NL-AMISG)113474 <br>651    International.  (NL-AMISG)144624 <br>655    Photo.  (NL-AMISG)121213 <br>695    FIN  Helsinki. <br>695    INT. <br>710    UPI (London)  (NL-AMISG)325821 <br>856    http://hdl.handle.net/10622/30051000556321 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000556321#image.jpg",
+                    "credit":"798939",
+                    "caption":"Meir, Golda. "
+                }
+            },
+
+            {
+                "startDate":"1971",
+                                "endDate":"1971",
+                "headline":"Meir, Golda. Janitschek, Hans. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/798965>http://search.socialhistory.org/Record/798965</a><br/> 245    Beelddocument = Visual document. <br>260    1971, May 25. <br>500    Meir as she steps up to the speaker's podium to address the Conference, behind her Janitschek. <br>540    UPI. <br>611    Socialist International.  Council Conference  (1971 :  Helsinki)  (NL-AMISG)320242 <br>648    1971-1971.  (NL-AMISG)568550 <br>650    Group portrait.  (NL-AMISG)112454 <br>651    Helsinki. (Finland)  (NL-AMISG)113474 <br>651    International.  (NL-AMISG)144624 <br>655    Photo.  (NL-AMISG)121213 <br>695    FIN  Helsinki. <br>695    INT. <br>710    UPI (London)  (NL-AMISG)325821 <br>856    http://hdl.handle.net/10622/30051000556271 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000556271#image.jpg",
+                    "credit":"798965",
+                    "caption":"Meir, Golda. Janitschek, Hans. "
+                }
+            },
+
+            {
+                "startDate":"1971",
+                                "endDate":"1971",
+                "headline":"Karjalainen, A. Eppler, Erhard. Myrdal, Alva. Bratteli, Trygve. Pittermann, Bruno. Brandt, Willy. Meir, Golda. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/799042>http://search.socialhistory.org/Record/799042</a><br/> 245    Beelddocument = Visual document. <br>260    1971, May 27. <br>500    F.l.t.r Meir, Pittermann, Eppler, Bratteli, Myrdal, Brandt and Karjalainen. <br>611    Socialist International.  Council Conference  (1971 :  Helsinki)  (NL-AMISG)320242 <br>648    1971-1971.  (NL-AMISG)568550 <br>650    Group portrait.  (NL-AMISG)112454 <br>651    Helsinki. (Finland)  (NL-AMISG)113474 <br>651    International.  (NL-AMISG)144624 <br>655    Photo.  (NL-AMISG)121213 <br>695    FIN  Helsinki. <br>695    INT. <br>710    Associated Press Photo (London)  (NL-AMISG)17327 <br>856    http://hdl.handle.net/10622/30051000557006 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000557006#image.jpg",
+                    "credit":"799042",
+                    "caption":"Karjalainen, A. Eppler, Erhard. Myrdal, Alva. Bratteli, Trygve. Pittermann, Bruno. Brandt, Willy. Meir, Golda. "
+                }
+            },
+
+            {
+                "startDate":"1971",
+                                "endDate":"1971",
+                "headline":"Steen, Reiulf. Bratteli, Trygve. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/800166>http://search.socialhistory.org/Record/800166</a><br/> 245   Beelddocument = Visual document. <br>260   1971, May 25-27. <br>500   Bratteli on the left. <br>611   Socialist International.  Council Conference  (1971 :  Helsinki)  (NL-AMISG)320242 <br>648   1971-1971.  (NL-AMISG)568550 <br>650   Double portrait.  (NL-AMISG)99302 <br>651   Helsinki. (Finland)  (NL-AMISG)113474 <br>651   International.  (NL-AMISG)144624 <br>655   Photo.  (NL-AMISG)121213 <br>695   FIN  Helsinki. <br>695   INT. <br>856   http://hdl.handle.net/10622/30051000556511 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000556511#image.jpg",
+                    "credit":"800166",
+                    "caption":"Steen, Reiulf. Bratteli, Trygve. "
+                }
+            },
+
+            {
+                "startDate":"1930",
+                                "endDate":"1930",
+                "headline":"Signatures on the back.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/802463>http://search.socialhistory.org/Record/802463</a><br/> 245   Beelddocument = Visual document. <br>260   (1930?) <br>500   Signatures on the back. <br>648   1930-1930.  (NL-AMISG)362577 <br>650   Esperanto.  (NL-AMISG)96510 <br>651   International.  (NL-AMISG)144624 <br>651   Finland.  (NL-AMISG)106072 <br>655   Picture postcard.  (NL-AMISG)197051 <br>655   Print.  (NL-AMISG)262665 <br>694   Hessels, A.  BG A42/500 <br>695   INT. <br>695   FIN. <br>700   Hessels, Bram,  collector.  (NL-AMISG)2000242 <br>710   Esperantista Pacifista ligo de Finnlando.  (NL-AMISG)96513 <br>856   http://hdl.handle.net/10622/30051000570496 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000570496#image.jpg",
+                    "credit":"802463",
+                    "caption":"Signatures on the back."
+                }
+            },
+
+            {
+                "startDate":"1965",
+                                "endDate":"1965",
+                "headline":"",
+                "text":"<p><a href=http://search.socialhistory.org/Record/804435>http://search.socialhistory.org/Record/804435</a><br/> 245   Beelddocument = Visual document. <br>260   1965. <br>611   World congress for peace, national independence and disarmament.  (1965 :  Helsinki)  (NL-AMISG)364875 <br>648   1965-1965.  (NL-AMISG)366200 <br>650   War and peace.  (NL-AMISG)177089 <br>651   International.  (NL-AMISG)144624 <br>651   Helsinki. (Finland)  (NL-AMISG)113474 <br>655   Stamp.  (NL-AMISG)272818 <br>695   INT. <br>695   FIN  Helsinki. <br>711   Campaign on Vietnam.  (1965)  (NL-AMISG)37479 <br>856   http://hdl.handle.net/10622/30051000569761 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000569761#image.jpg",
+                    "credit":"804435",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"1920",
+                                "endDate":"1920",
+                "headline":"Enckel, ... Ishii, ... Hijmans, Paul. Fisher, ..., Branting, Karl Hjalmar. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/805798>http://search.socialhistory.org/Record/805798</a><br/> 245   Beelddocument = Visual document. <br>260   (Ca. 1921) <br>500   Place of persons indicated on photo. <br>610   League of Nations (Geneva)  (NL-AMISG)140292 <br>648   1920-1922.  (NL-AMISG)359384 <br>650   Border disputes.  (NL-AMISG)95093 <br>650   Group portrait.  (NL-AMISG)112454 <br>651   International.  (NL-AMISG)144624 <br>651   Finland.  (NL-AMISG)106072 <br>655   Half-tone photo.  (NL-AMISG)244771 <br>655   Print.  (NL-AMISG)262665 <br>695   INT. <br>695   FIN. <br>856   http://hdl.handle.net/10622/30051000573888 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000573888#image.jpg",
+                    "credit":"805798",
+                    "caption":"Enckel, ... Ishii, ... Hijmans, Paul. Fisher, ..., Branting, Karl Hjalmar. "
+                }
+            },
+
+            {
+                "startDate":"1937",
+                                "endDate":"1937",
+                "headline":"",
+                "text":"<p><a href=http://search.socialhistory.org/Record/812477>http://search.socialhistory.org/Record/812477</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001078739#image.jpg",
+                    "credit":"812477",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"1937",
+                                "endDate":"1937",
+                "headline":"Granath, N.G,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/812479>http://search.socialhistory.org/Record/812479</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051003017784#image.jpg",
+                    "credit":"812479",
+                    "caption":"Granath, N.G,"
+                }
+            },
+
+            {
+                "startDate":"1937",
+                                "endDate":"1937",
+                "headline":"Granath, N.G,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/812481>http://search.socialhistory.org/Record/812481</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001078689#image.jpg",
+                    "credit":"812481",
+                    "caption":"Granath, N.G,"
+                }
+            },
+
+            {
+                "startDate":"1939",
+                                "endDate":"1939",
+                "headline":"Snellman, J.V. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/818612>http://search.socialhistory.org/Record/818612</a><br/> 245    Beelddocument = Visual document. <br>260    (1939 ?)  ('s-Gravenhage :  La Riviere &amp; Voorhoeve,  1939) <br>500    Pro Finlandia zegel. Zie ook: A27/547-56. <br>648    1939-1939.  (NL-AMISG)362638 <br>650    Portrait.  (NL-AMISG)306035 <br>651    Netherlands.  (NL-AMISG)569282 <br>655    Small printed matter.  (NL-AMISG)463652 <br>655    Half-tone photo.  (NL-AMISG)244771 <br>695    NED  Nederland. <br>710    Finsch-Nederlandsche Vereeniging.  (NL-AMISG)106663 <br>711    Actie Finland.  (1939)  (NL-AMISG)387269 <br>856    http://hdl.handle.net/10622/30051000424470 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000424470#image.jpg",
+                    "credit":"818612",
+                    "caption":"Snellman, J.V. "
+                }
+            },
+
+            {
+                "startDate":"1899",
+                                "endDate":"1899",
+                "headline":"Document gericht aan Nicolaas II.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/823261>http://search.socialhistory.org/Record/823261</a><br/> 245    Beelddocument = Visual document. <br>260    (1899 ?) <br>500    Document gericht aan Nicolaas II. <br>648    1899-1899.  (NL-AMISG)358183 <br>651    Netherlands.  (NL-AMISG)569282 <br>655    Charter.  (NL-AMISG)239751 <br>695    NED  Nederland. <br>710    Gebroeders Grevenstuk.  (NL-AMISG)96206 <br>711    Actie Finland.  (1899)  (NL-AMISG)388091 <br>856    http://hdl.handle.net/10622/30051000428976 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000428976#image.jpg",
+                    "credit":"823261",
+                    "caption":"Document gericht aan Nicolaas II."
+                }
+            },
+
+            {
+                "startDate":"1939",
+                                "endDate":"1939",
+                "headline":"",
+                "text":"<p><a href=http://search.socialhistory.org/Record/820082>http://search.socialhistory.org/Record/820082</a><br/> 245   Deze vrede is een imperialistische roofvrede!  Beelddocument = Visual document. <br>260   1939  (S.l. :  s.n.,  1939) <br>300   28.5x62 cm. <br>648   1939-1939.  (NL-AMISG)362638 <br>650   Foreign relations.  (NL-AMISG)33675 <br>651   Netherlands.  (NL-AMISG)569282 <br>651   Russia.  (NL-AMISG)301113 <br>651   Finland.  (NL-AMISG)106072 <br>655   Poster.  (NL-AMISG)3248 <br>695   NED  Nederland. <br>695   USR. <br>695   FIN. <br>710   Revolutionair-Socialistische Arbeiderspartij.  (NL-AMISG)216142 <br>856   http://hdl.handle.net/10622/30051000297660 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000297660#image.jpg",
+                    "credit":"820082",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"1940",
+                                "endDate":"1940",
+                "headline":"Kuusinen, Otto Vilhelm. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/821271>http://search.socialhistory.org/Record/821271</a><br/> 245   Finland.  Beelddocument = Visual document. <br>260   1940, maart  (S.l. :  s.n.,  1940) <br>500   Tekst op achterzijde. <br>648   1940-1940.  (NL-AMISG)364483 <br>650   Portrait.  (NL-AMISG)306035 <br>651   Netherlands.  (NL-AMISG)569282 <br>655   Leaflet.  (NL-AMISG)248810 <br>695   NED  Nederland. <br>710   SDAP.  Federatie Amsterdam.  (NL-AMISG)297181 <br>711   Actie Finland.  (1940)  (NL-AMISG)392717 <br>856   http://hdl.handle.net/10622/30051000277134 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000277134#image.jpg",
+                    "credit":"821271",
+                    "caption":"Kuusinen, Otto Vilhelm. "
+                }
+            },
+
+            {
+                "startDate":"1955",
+                                "endDate":"1955",
+                "headline":"Erni, Hans,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/844567>http://search.socialhistory.org/Record/844567</a><br/> 245   Beelddocument = Visual document. <br>260   1955  (Wien :  Globus II,  1955) <br>300   100x64 cm. <br>500   May or June? <br>648   1955-1955.  (NL-AMISG)365652 <br>651   Helsinki. (Finland)  (NL-AMISG)113474 <br>651   International.  (NL-AMISG)144624 <br>655   Poster.  (NL-AMISG)3248 <br>695   FIN  Helsinki. <br>695   INT. <br>710   World Peace Council.  (NL-AMISG)51122 <br>856   http://hdl.handle.net/10622/30051001078846 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001078846#image.jpg",
+                    "credit":"844567",
+                    "caption":"Erni, Hans,"
+                }
+            },
+
+            {
+                "startDate":"1955",
+                                "endDate":"1955",
+                "headline":"Erni, Hans,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/844571>http://search.socialhistory.org/Record/844571</a><br/> 245    Beelddocument = Visual document. <br>260    1955  (Wien :  Globus II,  1955) <br>300    100x64 cm. <br>500    May or June? <br>648    1955-1955.  (NL-AMISG)365652 <br>651    Helsinki. (Finland)  (NL-AMISG)113474 <br>651    International.  (NL-AMISG)144624 <br>655    Poster.  (NL-AMISG)3248 <br>695    FIN  Helsinki. <br>695    INT. <br>710    World Peace Council.  (NL-AMISG)51122 <br>856    http://hdl.handle.net/10622/30051002842281 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051002842281#image.jpg",
+                    "credit":"844571",
+                    "caption":"Erni, Hans,"
+                }
+            },
+
+            {
+                "startDate":"1939",
+                                "endDate":"1939",
+                "headline":"Pieck, Henri,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/913427>http://search.socialhistory.org/Record/913427</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051002222419#image.jpg",
+                    "credit":"913427",
+                    "caption":"Pieck, Henri,"
+                }
+            },
+
+            {
+                "startDate":"1939",
+                                "endDate":"1939",
+                "headline":"Pieck, Henri,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/918074>http://search.socialhistory.org/Record/918074</a><br/> 245   Brutale Finsche imperialistische bedreigt onschuldigen Russischen beer.  Beelddocument = Visual document. <br>260   1939, 3 december  (Amsterdam :  Algemeen Handelsblad,  1939) <br>300   36.5x22 cm. <br>300   52x36 cm. <br>500   Titel tekening: De Finsche imperialist bedreigt de Russische beer. <br>648   1939-1939.  (NL-AMISG)362638 <br>650   War and peace.  (NL-AMISG)177089 <br>651   USSR.  (NL-AMISG)255113 <br>651   Finland.  (NL-AMISG)106072 <br>655   Print.  (NL-AMISG)262665 <br>655   Drawing.  (NL-AMISG)269282 <br>694   Pieck, H.  BG D55/853 <br>695   USR  USSR. <br>695   FIN  Finland. <br>700   Pieck, Henri,  collector.  (NL-AMISG)2000471 <br>856   http://hdl.handle.net/10622/30051002222369 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051002222369#image.jpg",
+                    "credit":"918074",
+                    "caption":"Pieck, Henri,"
+                }
+            },
+
+            {
+                "startDate":"1956",
+                                "endDate":"1956",
+                "headline":"Lipi&#x144;ski, Eryk,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/847973>http://search.socialhistory.org/Record/847973</a><br/> 245   Beelddocument = Visual document. <br>260   1956  (S.l. :  s.n.,  1956) <br>300   41.5x30 cm. <br>648   1956-1956.  (NL-AMISG)365659 <br>651   International.  (NL-AMISG)144624 <br>651   Helsinki. (Finland)  (NL-AMISG)113474 <br>655   Poster.  (NL-AMISG)3248 <br>695   INT. <br>695   FIN  Helsinki. <br>710   International Organization of Journalists.  (NL-AMISG)114628 <br>856   http://hdl.handle.net/10622/30051001079075 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001079075#image.jpg",
+                    "credit":"847973",
+                    "caption":"Lipi&#x144;ski, Eryk,"
+                }
+            }
+
+		]
+    }
+}
+

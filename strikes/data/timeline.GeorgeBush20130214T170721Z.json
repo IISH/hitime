@@ -1,0 +1,624 @@
+{
+    "timeline":
+    {
+        "headline":"Posters Visual Timeline",
+        "type":"default",
+                "text":"Evergreen Timeline Application",
+                "startDate":"2012,2,05",
+        "date": [
+		
+            {
+                "startDate":"2001",
+                                "endDate":"2001",
+                "headline":"Bush, George W. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1095815>http://search.socialhistory.org/Record/1095815</a><br/> 245    Visit America.  Beelddocument = Visual document. <br>260    2001  (Heidelberg :  Edition Staeck,  2001) <br>300    84x60 cm. <br>500    Nr. 90280. 'Visit America home of the climate killers'. <br>648    2001-2001.  (NL-AMISG)370517 <br>650    Environment protection.  (NL-AMISG)158032 <br>650    Portrait.  (NL-AMISG)306035 <br>651    United States of America.  (NL-AMISG)326538 <br>655    Picture postcard.  (NL-AMISG)197051 <br>655    Poster.  (NL-AMISG)3248 <br>695    USA  United States of America <br>856    http://hdl.handle.net/10622/30051003022313 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051003022313#image.jpg",
+                    "credit":"1095815",
+                    "caption":"Bush, George W. "
+                }
+            },
+
+            {
+                "startDate":"1991",
+                                "endDate":"1991",
+                "headline":"Bush, George H.W. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/978146>http://search.socialhistory.org/Record/978146</a><br/> 245    Beelddocument = Visual document. <br>260    1991  (S.l. :  s.n.,  1991) <br>300    28x32 cm. <br>648    1991-1991.  (NL-AMISG)369921 <br>650    Education policy.  (NL-AMISG)225098 <br>650    Biographica.  (NL-AMISG)306042 <br>651    United States of America.  (NL-AMISG)326538 <br>655    Poster.  (NL-AMISG)3248 <br>695    USA  United States of America. <br>710    Art for a change (Sherman Oaks)  (NL-AMISG)16171 <br>856    http://hdl.handle.net/10622/30051000670312 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000670312#image.jpg",
+                    "credit":"978146",
+                    "caption":"Bush, George H.W. "
+                }
+            },
+
+            {
+                "startDate":"2002",
+                                "endDate":"2002",
+                "headline":"Bush, George W. Kwa&#x15B;niewski, Aleksander. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1079535>http://search.socialhistory.org/Record/1079535</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001581195#image.jpg",
+                    "credit":"1079535",
+                    "caption":"Bush, George W. Kwa&#x15B;niewski, Aleksander. "
+                }
+            },
+
+            {
+                "startDate":"2003",
+                                "endDate":"2003",
+                "headline":"Bush, George W. Cheney, Richard B. Perle, Richard. Wolfowitz, Paul. Rumsfield, Donald. Powell, Colin. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1090597>http://search.socialhistory.org/Record/1090597</a><br/> 245   Oops I did it again!  Beelddocument = Visual document. <br>260   2003  (S.l. :  s.n.) <br>300   88x61 cm. <br>648   2003-2003.  (NL-AMISG)460636 <br>650   Caricature.  (NL-AMISG)306037 <br>651   United States of America.  (NL-AMISG)326538 <br>655   Poster.  (NL-AMISG)3248 <br>655   Sticker.  (NL-AMISG)340625 <br>695   USA  United States of America <br>856   http://hdl.handle.net/10622/30051001587796 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001587796#image.jpg",
+                    "credit":"1090597",
+                    "caption":"Bush, George W. Cheney, Richard B. Perle, Richard. Wolfowitz, Paul. Rumsfield, Donald. Powell, Colin. "
+                }
+            },
+
+            {
+                "startDate":"1988",
+                                "endDate":"1988",
+                "headline":"Thatcher, Margaret. Kohl, Helmut. Bush, George H.W. Gorba&#x10D;ev, Michail Sergeevi&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/946618>http://search.socialhistory.org/Record/946618</a><br/> 245    Beelddocument = Visual document. <br>260    (1988?)  (Berlin :  Tageszeitung,  [1988?]) <br>648    1988-1988.  (NL-AMISG)369899 <br>650    Caricature.  (NL-AMISG)306037 <br>651    Federal Republic of Germany.  (NL-AMISG)90660 <br>655    Picture postcard.  (NL-AMISG)197051 <br>695    GER  Federal Republic of Germany. <br>710    Tageszeitung, Die.  (NL-AMISG)83906 <br>856    http://hdl.handle.net/10622/30051000700010 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000700010#image.jpg",
+                    "credit":"946618",
+                    "caption":"Thatcher, Margaret. Kohl, Helmut. Bush, George H.W. Gorba&#x10D;ev, Michail Sergeevi&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"1989, 6 mei",
+                                "endDate":"1989, 6 mei",
+                "headline":"Bush, George H.W. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/950401>http://search.socialhistory.org/Record/950401</a><br/> 245    Beelddocument = Visual document. <br>260    1989, 6 mei  Amsterdam :  Het Parool. <br>300    16x16.5 cm. <br>500    Overgenomen uit: The Boston Globe. <br>650    Caricature.  (NL-AMISG)306037 <br>655    Print.  (NL-AMISG)262665 <br>856    http://hdl.handle.net/10622/30051001264024 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001264024#image.jpg",
+                    "credit":"950401",
+                    "caption":"Bush, George H.W. "
+                }
+            },
+
+            {
+                "startDate":"1989, 18 december",
+                                "endDate":"1989, 18 december",
+                "headline":"Bush, George H.W. Gorba&#x10D;ev, Michail Sergeevi&#x10D;. Castro, Fidel. Noriega Moreno, M.A. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/948123>http://search.socialhistory.org/Record/948123</a><br/> 245    Beelddocument = Visual document. <br>260    1989, 18 december  Amsterdam :  Het Parool. <br>300    13.5x16 cm. <br>650    Caricature.  (NL-AMISG)306037 <br>655    Print.  (NL-AMISG)262665 <br>856    http://hdl.handle.net/10622/30051001267415 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001267415#image.jpg",
+                    "credit":"948123",
+                    "caption":"Bush, George H.W. Gorba&#x10D;ev, Michail Sergeevi&#x10D;. Castro, Fidel. Noriega Moreno, M.A. "
+                }
+            },
+
+            {
+                "startDate":"1990",
+                                "endDate":"1990",
+                "headline":"Bush, George H.W. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/899281>http://search.socialhistory.org/Record/899281</a><br/> 245    In what country has the head of the secret police become president?  Beelddocument = Visual document. <br>260    1990. <br>300    Silk screen; 28x21.5 cm. <br>610    Central Intelligence Agency (USA)  (NL-AMISG)376894 <br>648    1990-1990.  (NL-AMISG)369914 <br>650    Caricature.  (NL-AMISG)306037 <br>651    United States of America.  (NL-AMISG)326538 <br>655    Print.  (NL-AMISG)262665 <br>695    USA  United States of America. <br>856    http://hdl.handle.net/10622/30051000744232 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000744232#image.jpg",
+                    "credit":"899281",
+                    "caption":"Bush, George H.W. "
+                }
+            },
+
+            {
+                "startDate":"1991",
+                                "endDate":"1991",
+                "headline":"Hussein, Saddam. Bush, George H.W. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/823625>http://search.socialhistory.org/Record/823625</a><br/> 245    Beelddocument = Visual document. <br>260    1991  (Haarlem :  Editions Obscure,  1991) <br>500    Two friends playing in a pool. <br>650    Caricature.  (NL-AMISG)306037 <br>655    Picture postcard.  (NL-AMISG)197051 <br>655    Print.  (NL-AMISG)262665 <br>856    http://hdl.handle.net/10622/30051000442381 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000442381#image.jpg",
+                    "credit":"823625",
+                    "caption":"Hussein, Saddam. Bush, George H.W. "
+                }
+            },
+
+            {
+                "startDate":"1989",
+                                "endDate":"1989",
+                "headline":"Bush, George H.W. Gorba&#x10D;ev, Michail Sergeevi&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/898649>http://search.socialhistory.org/Record/898649</a><br/> 245    Beelddocument = Visual document. <br>260    1989. <br>300    30x42 cm. <br>610    PS (France)  (NL-AMISG)202165 <br>648    1989-1989.  (NL-AMISG)369907 <br>650    Caricature.  (NL-AMISG)306037 <br>651    France.  (NL-AMISG)127741 <br>655    Print.  (NL-AMISG)262665 <br>695    FRA  France. <br>856    http://hdl.handle.net/10622/30051000943974 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000943974#image.jpg",
+                    "credit":"898649",
+                    "caption":"Bush, George H.W. Gorba&#x10D;ev, Michail Sergeevi&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"1989, 21 december",
+                                "endDate":"1989, 21 december",
+                "headline":"Noriega Moreno, M.A. Bush, George H.W. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/948102>http://search.socialhistory.org/Record/948102</a><br/> 245    Beelddocument = Visual document. <br>260    1989, 21 december  Amsterdam :  Het Parool. <br>300    18.5x16 cm. <br>650    Caricature.  (NL-AMISG)306037 <br>655    Print.  (NL-AMISG)262665 <br>856    http://hdl.handle.net/10622/30051001267266 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001267266#image.jpg",
+                    "credit":"948102",
+                    "caption":"Noriega Moreno, M.A. Bush, George H.W. "
+                }
+            },
+
+            {
+                "startDate":"1989, 22 december",
+                                "endDate":"1989, 22 december",
+                "headline":"Noriega Moreno, M.A. Bush, George H.W. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/948094>http://search.socialhistory.org/Record/948094</a><br/> 245    Beelddocument = Visual document. <br>260    1989, 22 december  Amsterdam :  Het Parool. <br>300    18.5x16 cm. <br>650    Caricature.  (NL-AMISG)306037 <br>655    Print.  (NL-AMISG)262665 <br>856    http://hdl.handle.net/10622/30051001267217 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001267217#image.jpg",
+                    "credit":"948094",
+                    "caption":"Noriega Moreno, M.A. Bush, George H.W. "
+                }
+            },
+
+            {
+                "startDate":"1989",
+                                "endDate":"1989",
+                "headline":"Bush, George H.W. Thatcher, Margaret. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/948640>http://search.socialhistory.org/Record/948640</a><br/> 245    Beelddocument = Visual document. <br>260    1989, 1 november  Amsterdam :  Het Parool. <br>300    18x16 cm. <br>610    Khmers rouges (Cambodia)  (NL-AMISG)176648 <br>648    1989-1989.  (NL-AMISG)369907 <br>650    Caricature.  (NL-AMISG)306037 <br>651    Cambodia.  (NL-AMISG)302826 <br>655    Print.  (NL-AMISG)262665 <br>695    SEA  Cambodia. <br>856    http://hdl.handle.net/10622/30051001266672 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001266672#image.jpg",
+                    "credit":"948640",
+                    "caption":"Bush, George H.W. Thatcher, Margaret. "
+                }
+            },
+
+            {
+                "startDate":"1989, 28 oktober",
+                                "endDate":"1989, 28 oktober",
+                "headline":"Bush, George H.W. Gorba&#x10D;ev, Michail Sergeevi&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/948657>http://search.socialhistory.org/Record/948657</a><br/> 245    Beelddocument = Visual document. <br>260    1989, 28 oktober  Amsterdam :  Het Parool. <br>300    14x16.5 cm. <br>650    Caricature.  (NL-AMISG)306037 <br>655    Print.  (NL-AMISG)262665 <br>856    http://hdl.handle.net/10622/30051001266367 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001266367#image.jpg",
+                    "credit":"948657",
+                    "caption":"Bush, George H.W. Gorba&#x10D;ev, Michail Sergeevi&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"1989",
+                                "endDate":"1989",
+                "headline":"Bush, George H.W. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/948723>http://search.socialhistory.org/Record/948723</a><br/> 245    Beelddocument = Visual document. <br>260    1989, 16 oktober  Amsterdam :  Het Parool. <br>300    14.5x16 cm. <br>500    Overgenomen uit: The Philidelphia Inquirer. <br>648    1989-1989.  (NL-AMISG)369907 <br>650    Drugs.  (NL-AMISG)67794 <br>650    Caricature.  (NL-AMISG)306037 <br>651    United States of America.  (NL-AMISG)326538 <br>655    Print.  (NL-AMISG)262665 <br>695    USA  United States of America. <br>856    http://hdl.handle.net/10622/30051001265559 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001265559#image.jpg",
+                    "credit":"948723",
+                    "caption":"Bush, George H.W. "
+                }
+            },
+
+            {
+                "startDate":"1989, 2 november",
+                                "endDate":"1989, 2 november",
+                "headline":"Wa&#x142;esa, Lech. Bush, George H.W. Gorba&#x10D;ev, Michail Sergeevi&#x10D;. Churchill, Winston Leonard Spencer. Roosevelt, Franklin Delano. Stalin, Iosif Vissarionovi&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/948901>http://search.socialhistory.org/Record/948901</a><br/> 245    terug naar Jalta.  Beelddocument = Visual document. <br>260    1989, 2 november  Amsterdam :  Het Parool. <br>300    22.5x16 cm. <br>500    Oorspronkelijk uit: Los Angeles Times. <br>650    Caricature.  (NL-AMISG)306037 <br>655    Print.  (NL-AMISG)262665 <br>856    http://hdl.handle.net/10622/30051001265641 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001265641#image.jpg",
+                    "credit":"948901",
+                    "caption":"Wa&#x142;esa, Lech. Bush, George H.W. Gorba&#x10D;ev, Michail Sergeevi&#x10D;. Churchill, Winston Leonard Spencer. Roosevelt, Franklin Delano. Stalin, Iosif Vissarionovi&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"1989, 21 augustus",
+                                "endDate":"1989, 21 augustus",
+                "headline":"Bush, George H.W. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/949275>http://search.socialhistory.org/Record/949275</a><br/> 245    Beelddocument = Visual document. <br>260    1989, 21 augustus  Amsterdam :  Het Parool. <br>300    11.5x16 cm. <br>650    Caricature.  (NL-AMISG)306037 <br>655    Print.  (NL-AMISG)262665 <br>856    http://hdl.handle.net/10622/30051001265203 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001265203#image.jpg",
+                    "credit":"949275",
+                    "caption":"Bush, George H.W. "
+                }
+            },
+
+            {
+                "startDate":"1989, 24 juli",
+                                "endDate":"1989, 24 juli",
+                "headline":"Bush, George H.W. Wa&#x142;esa, Lech. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/949409>http://search.socialhistory.org/Record/949409</a><br/> 245    Beelddocument = Visual document. <br>260    1989, 24 juli  Amsterdam :  Het Parool. <br>300    14x16 cm. <br>650    Caricature.  (NL-AMISG)306037 <br>655    Print.  (NL-AMISG)262665 <br>856    http://hdl.handle.net/10622/30051001265088 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001265088#image.jpg",
+                    "credit":"949409",
+                    "caption":"Bush, George H.W. Wa&#x142;esa, Lech. "
+                }
+            },
+
+            {
+                "startDate":"1989, 17 juli",
+                                "endDate":"1989, 17 juli",
+                "headline":"Bush, George H.W. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/949444>http://search.socialhistory.org/Record/949444</a><br/> 245    Beelddocument = Visual document. <br>260    1989, 17 juli  Amsterdam :  Het Parool. <br>300    15x16 cm. <br>500    Overgenomen uit: The Boston Globe. <br>650    Caricature.  (NL-AMISG)306037 <br>655    Print.  (NL-AMISG)262665 <br>856    http://hdl.handle.net/10622/30051001265336 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001265336#image.jpg",
+                    "credit":"949444",
+                    "caption":"Bush, George H.W. "
+                }
+            },
+
+            {
+                "startDate":"1989",
+                                "endDate":"1989",
+                "headline":"Bush, George H.W. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/949478>http://search.socialhistory.org/Record/949478</a><br/> 245    Beelddocument = Visual document. <br>260    1989, 13 juli  Amsterdam :  Het Parool. <br>300    14.5x16 cm. <br>648    1989-1989.  (NL-AMISG)369907 <br>650    Foreign policy.  (NL-AMISG)51498 <br>650    Caricature.  (NL-AMISG)306037 <br>651    Netherlands.  (NL-AMISG)569282 <br>651    Poland.  (NL-AMISG)243474 <br>651    Hungary.  (NL-AMISG)149676 <br>655    Print.  (NL-AMISG)262665 <br>695    NED  Nederland. <br>695    POL  Poland. <br>695    HUN. <br>856    http://hdl.handle.net/10622/30051001265021 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001265021#image.jpg",
+                    "credit":"949478",
+                    "caption":"Bush, George H.W. "
+                }
+            },
+
+            {
+                "startDate":"1989, 12 juni",
+                                "endDate":"1989, 12 juni",
+                "headline":"Bush, George H.W. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/950009>http://search.socialhistory.org/Record/950009</a><br/> 245    Beelddocument = Visual document. <br>260    1989, 12 juni  Amsterdam :  Het Parool. <br>300    12x16 cm. <br>650    Caricature.  (NL-AMISG)306037 <br>655    Print.  (NL-AMISG)262665 <br>856    http://hdl.handle.net/10622/30051001264008 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001264008#image.jpg",
+                    "credit":"950009",
+                    "caption":"Bush, George H.W. "
+                }
+            },
+
+            {
+                "startDate":"1989",
+                                "endDate":"1989",
+                "headline":"Bush, George H.W. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/950354>http://search.socialhistory.org/Record/950354</a><br/> 245    Beelddocument = Visual document. <br>260    1989, 12 mei  Amsterdam :  Het Parool. <br>300    13.5x16 cm. <br>500    Overgenomen uit: The Philadelphia Inquirer. <br>648    1989-1989.  (NL-AMISG)369907 <br>650    Cold War.  (NL-AMISG)132833 <br>650    Caricature.  (NL-AMISG)306037 <br>651    Netherlands.  (NL-AMISG)569282 <br>655    Print.  (NL-AMISG)262665 <br>695    NED  Nederland. <br>856    http://hdl.handle.net/10622/30051001263828 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001263828#image.jpg",
+                    "credit":"950354",
+                    "caption":"Bush, George H.W. "
+                }
+            },
+
+            {
+                "startDate":"1989, 27 februari",
+                                "endDate":"1989, 27 februari",
+                "headline":"Reagan, Ronald. Bush, George H.W. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/951100>http://search.socialhistory.org/Record/951100</a><br/> 245    Beelddocument = Visual document. <br>260    1989, 27 februari  Amsterdam :  Het Parool. <br>300    14x16 cm. <br>500    Overgenomen uit: The Oregonian. <br>650    Caricature.  (NL-AMISG)306037 <br>655    Print.  (NL-AMISG)262665 <br>856    http://hdl.handle.net/10622/30051001262754 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001262754#image.jpg",
+                    "credit":"951100",
+                    "caption":"Reagan, Ronald. Bush, George H.W. "
+                }
+            },
+
+            {
+                "startDate":"1989, 20 januari",
+                                "endDate":"1989, 20 januari",
+                "headline":"Bush, George H.W. Quayle, Dan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/951512>http://search.socialhistory.org/Record/951512</a><br/> 245    Beelddocument = Visual document. <br>260    1989, 20 januari  Amsterdam :  Het Parool. <br>300    14x16 cm. <br>650    Caricature.  (NL-AMISG)306037 <br>655    Print.  (NL-AMISG)262665 <br>856    http://hdl.handle.net/10622/30051001262929 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001262929#image.jpg",
+                    "credit":"951512",
+                    "caption":"Bush, George H.W. Quayle, Dan. "
+                }
+            },
+
+            {
+                "startDate":"1989, 2 januari",
+                                "endDate":"1989, 2 januari",
+                "headline":"Gorba&#x10D;ev, Michail Sergeevi&#x10D;. Reagan, Ronald. Bush, George H.W. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/951710>http://search.socialhistory.org/Record/951710</a><br/> 245    Beelddocument = Visual document. <br>260    1989, 2 januari  Amsterdam :  Het Parool. <br>300    13x16 cm. <br>500    Overgeomen uit: Miami News. <br>650    Caricature.  (NL-AMISG)306037 <br>655    Print.  (NL-AMISG)262665 <br>856    http://hdl.handle.net/10622/30051001261509 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001261509#image.jpg",
+                    "credit":"951710",
+                    "caption":"Gorba&#x10D;ev, Michail Sergeevi&#x10D;. Reagan, Ronald. Bush, George H.W. "
+                }
+            },
+
+            {
+                "startDate":"1988, 24 december",
+                                "endDate":"1988, 24 december",
+                "headline":"Bush, George H.W. Gorba&#x10D;ev, Michail Sergeevi&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/951827>http://search.socialhistory.org/Record/951827</a><br/> 245    Meer vrede op aarde.  Beelddocument = Visual document. <br>260    1988, 24 december  Amsterdam :  Het Parool. <br>300    16.5x16 cm. <br>650    Caricature.  (NL-AMISG)306037 <br>655    Print.  (NL-AMISG)262665 <br>856    http://hdl.handle.net/10622/30051001261756 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001261756#image.jpg",
+                    "credit":"951827",
+                    "caption":"Bush, George H.W. Gorba&#x10D;ev, Michail Sergeevi&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"1988",
+                                "endDate":"1988",
+                "headline":"Arafat, Jassir. Bush, George H.W. Broek, H. van den. Thatcher, Margaret. Kohl, Helmut. Gorba&#x10D;ev, Michail Sergeevi&#x10D;. Shamir, Yitzhak. Mitterrand, Fran&#xE7;ois. P&#xE9;rez de Cu&#xE9;llar, Javier. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/951819>http://search.socialhistory.org/Record/951819</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001261707#image.jpg",
+                    "credit":"951819",
+                    "caption":"Arafat, Jassir. Bush, George H.W. Broek, H. van den. Thatcher, Margaret. Kohl, Helmut. Gorba&#x10D;ev, Michail Sergeevi&#x10D;. Shamir, Yitzhak. Mitterrand, Fran&#xE7;ois. P&#xE9;rez de Cu&#xE9;llar, Javier. "
+                }
+            },
+
+            {
+                "startDate":"1991, 26 januari",
+                                "endDate":"1991, 26 januari",
+                "headline":"Hussein, Saddam. Fahd ibn Abd-al-Aziz. Bush, George H.W. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/955196>http://search.socialhistory.org/Record/955196</a><br/> 245    Het zwarte goud.  Beelddocument = Visual document. <br>260    1991, 26 januari  Amsterdam :  De Volkskrant. <br>300    58x42 cm. <br>500    V.l.n.r.: Hussein, Fahd en Bush. <br>650    Caricature.  (NL-AMISG)306037 <br>655    Print.  (NL-AMISG)262665 <br>856    http://hdl.handle.net/10622/30051001266870 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001266870#image.jpg",
+                    "credit":"955196",
+                    "caption":"Hussein, Saddam. Fahd ibn Abd-al-Aziz. Bush, George H.W. "
+                }
+            },
+
+            {
+                "startDate":"1984",
+                                "endDate":"1984",
+                "headline":"Reagan, Ronald. Bush, George H.W. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/959717>http://search.socialhistory.org/Record/959717</a><br/> 245    Beelddocument = Visual document. <br>260    1984, 22 oktober  Amsterdam :  De Waarheid. <br>300    30x21 cm. <br>648    1984-1984.  (NL-AMISG)369875 <br>650    Foreign policy.  (NL-AMISG)51498 <br>650    Caricature.  (NL-AMISG)306037 <br>651    United States of America.  (NL-AMISG)326538 <br>655    Drawing.  (NL-AMISG)269282 <br>655    Print.  (NL-AMISG)262665 <br>694    Kafak  BG H6/970 <br>695    USA  United States of America. <br>700    Kafak,  collector.  (NL-AMISG)2000283 <br>856    http://hdl.handle.net/10622/30051001254660 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001254660#image.jpg",
+                    "credit":"959717",
+                    "caption":"Reagan, Ronald. Bush, George H.W. "
+                }
+            },
+
+            {
+                "startDate":"1988",
+                                "endDate":"1988",
+                "headline":"Bush, George H.W. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/970343>http://search.socialhistory.org/Record/970343</a><br/> 245   It can't happen here.  Beelddocument = Visual document. <br>260   1988  S.l. :  s.n.,  1988. <br>300   62x39.5 cm. <br>500   Signed and dated. <br>648   1988-1988.  (NL-AMISG)369899 <br>650   Presidential elections.  (NL-AMISG)260842 <br>650   Caricature.  (NL-AMISG)306037 <br>651   United States of America.  (NL-AMISG)326538 <br>655   Poster.  (NL-AMISG)3248 <br>695   USA  United States of America. <br>856   http://hdl.handle.net/10622/30051001244711 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001244711#image.jpg",
+                    "credit":"970343",
+                    "caption":"Bush, George H.W. "
+                }
+            },
+
+            {
+                "startDate":"1990",
+                                "endDate":"1990",
+                "headline":"Bush, George H.W. Quayle, Dan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/970418>http://search.socialhistory.org/Record/970418</a><br/> 245    Plan Ahead.  Beelddocument = Visual document. <br>260    1990  S.l. :  s.n.,  1990. <br>300    81x60 cm. <br>500    Signed and dated. . <br>650    Caricature.  (NL-AMISG)306037 <br>655    Poster.  (NL-AMISG)3248 <br>856    http://hdl.handle.net/10622/30051001245528 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001245528#image.jpg",
+                    "credit":"970418",
+                    "caption":"Bush, George H.W. Quayle, Dan. "
+                }
+            },
+
+            {
+                "startDate":"1991, 10 april",
+                                "endDate":"1991, 10 april",
+                "headline":"Bush, George H.W. Marx, Karl. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/971519>http://search.socialhistory.org/Record/971519</a><br/> 245    Beelddocument = Visual document. <br>260    1991, 10 april  Amsterdam :  De Volkskrant. <br>300    17.5x18.5 cm. <br>650    Caricature.  (NL-AMISG)306037 <br>655    Print.  (NL-AMISG)262665 <br>856    http://hdl.handle.net/10622/30051000833936 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000833936#image.jpg",
+                    "credit":"971519",
+                    "caption":"Bush, George H.W. Marx, Karl. "
+                }
+            },
+
+            {
+                "startDate":"1985",
+                                "endDate":"1985",
+                "headline":"Bush, George H.W. Lubbers, Ruud. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/972372>http://search.socialhistory.org/Record/972372</a><br/> 245    Bush was here.  Beelddocument = Visual document. <br>260    1985, 27 juni  Amsterdam :  De Volkskrant. <br>300    17.5x17 cm. <br>648    1985-1985.  (NL-AMISG)369881 <br>650    Nuclear weapons.  (NL-AMISG)318765 <br>650    Caricature.  (NL-AMISG)306037 <br>651    Netherlands.  (NL-AMISG)569282 <br>655    Print.  (NL-AMISG)262665 <br>695    NED  Nederland. <br>856    http://hdl.handle.net/10622/30051001246146 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001246146#image.jpg",
+                    "credit":"972372",
+                    "caption":"Bush, George H.W. Lubbers, Ruud. "
+                }
+            },
+
+            {
+                "startDate":"1990",
+                                "endDate":"1990",
+                "headline":"Kohl, Helmut. Maizi&#xE8;re, Lothar de. Bush, George H.W. Gorba&#x10D;ev, Michail Sergeevi&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/975465>http://search.socialhistory.org/Record/975465</a><br/> 245    De omgekeerde bruidsschat.  Beelddocument = Visual document. <br>260    1990, 23 juni  Amsterdam :  De Volkskrant. <br>300    21x23 cm. <br>648    1990-1990.  (NL-AMISG)369914 <br>650    Reunification.  (NL-AMISG)322134 <br>650    Caricature.  (NL-AMISG)306037 <br>651    Federal Republic of Germany.  (NL-AMISG)90660 <br>651    German Democratic Republic.  (NL-AMISG)90688 <br>651    USSR.  (NL-AMISG)255113 <br>655    Print.  (NL-AMISG)262665 <br>695    GER  Federal Republic of Germany. <br>695    GER  German Democratic Republic. <br>695    USR  USSR. <br>856    http://hdl.handle.net/10622/30051000837747 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000837747#image.jpg",
+                    "credit":"975465",
+                    "caption":"Kohl, Helmut. Maizi&#xE8;re, Lothar de. Bush, George H.W. Gorba&#x10D;ev, Michail Sergeevi&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"1990",
+                                "endDate":"1990",
+                "headline":"Hussein, Saddam. Bush, George H.W. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/975932>http://search.socialhistory.org/Record/975932</a><br/> 245    Dessert in the desert.  Beelddocument = Visual document. <br>260    1990, 24 december  Amsterdam :  De Volkskrant. <br>300    19.5x23 cm. <br>648    1990-1990.  (NL-AMISG)369914 <br>650    Arms industry.  (NL-AMISG)265025 <br>650    Caricature.  (NL-AMISG)306037 <br>651    United States of America.  (NL-AMISG)326538 <br>651    Iraq.  (NL-AMISG)214723 <br>655    Print.  (NL-AMISG)262665 <br>695    USA  United States of America. <br>695    MEA  Iraq. <br>856    http://hdl.handle.net/10622/30051000838091 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000838091#image.jpg",
+                    "credit":"975932",
+                    "caption":"Hussein, Saddam. Bush, George H.W. "
+                }
+            },
+
+            {
+                "startDate":"1988",
+                                "endDate":"1988",
+                "headline":"Bush, George H.W. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/978140>http://search.socialhistory.org/Record/978140</a><br/> 245    Beelddocument = Visual document. <br>260    (Ca. 1990)  (S.l. :  s.n.,  [1990?]) <br>300    61x91.5 cm. <br>648    1988-1992.  (NL-AMISG)369903 <br>650    AIDS.  (NL-AMISG)10059 <br>650    Biographica.  (NL-AMISG)306042 <br>651    United States of America.  (NL-AMISG)326538 <br>655    Poster.  (NL-AMISG)3248 <br>695    USA  United States of America. <br>856    http://hdl.handle.net/10622/30051000670759 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000670759#image.jpg",
+                    "credit":"978140",
+                    "caption":"Bush, George H.W. "
+                }
+            },
+
+            {
+                "startDate":"1988",
+                                "endDate":"1988",
+                "headline":"Bush, George H.W. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1010824>http://search.socialhistory.org/Record/1010824</a><br/> 245   Beelddocument = Visual document. <br>260   1988  (New York :  The American Postcard Co.) <br>540   A. Gescheidt; The American Postcard Co. <br>648   1988-1988.  (NL-AMISG)369899 <br>650   Caricature.  (NL-AMISG)306037 <br>651   United States of America.  (NL-AMISG)326538 <br>655   Picture postcard.  (NL-AMISG)197051 <br>695   USA  United States of America. <br>856   http://hdl.handle.net/10622/30051000825825 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000825825#image.jpg",
+                    "credit":"1010824",
+                    "caption":"Bush, George H.W. "
+                }
+            },
+
+            {
+                "startDate":"1988",
+                                "endDate":"1988",
+                "headline":"Bush, George H.W. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1010820>http://search.socialhistory.org/Record/1010820</a><br/> 245   Beelddocument = Visual document. <br>260   1988  (New York :  The American Postcard Co.) <br>540   A. Gescheidt; The American Postcard Co. <br>648   1988-1988.  (NL-AMISG)369899 <br>650   Caricature.  (NL-AMISG)306037 <br>651   United States of America.  (NL-AMISG)326538 <br>655   Picture postcard.  (NL-AMISG)197051 <br>695   USA  United States of America. <br>856   http://hdl.handle.net/10622/30051000825874 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000825874#image.jpg",
+                    "credit":"1010820",
+                    "caption":"Bush, George H.W. "
+                }
+            },
+
+            {
+                "startDate":"2001",
+                                "endDate":"2001",
+                "headline":"Bush, George W. Blair, Tony. Bin Ladin, Usama. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1069549>http://search.socialhistory.org/Record/1069549</a><br/> 245   Beelddocument = Visual document. <br>260   2001, december  (Amsterdam :  Vrij Nederland) <br>300   33x24 cm. <br>500   Ingekleurd. <br>648   2001-2001.  (NL-AMISG)370517 <br>650   Terrorism.  (NL-AMISG)246225 <br>650   Caricature.  (NL-AMISG)306037 <br>651   Netherlands.  (NL-AMISG)569282 <br>655   Drawing.  (NL-AMISG)269282 <br>655   Print.  (NL-AMISG)262665 <br>694   Straaten, P. van  BG PM4/176 <br>695   NED  Nederland <br>700   Straaten, Peter van,  collector.  (NL-AMISG)2000627 <br>856   http://hdl.handle.net/10622/30051001578092 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001578092#image.jpg",
+                    "credit":"1069549",
+                    "caption":"Bush, George W. Blair, Tony. Bin Ladin, Usama. "
+                }
+            },
+
+            {
+                "startDate":"2001",
+                                "endDate":"2001",
+                "headline":"Bush, George W. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1095798>http://search.socialhistory.org/Record/1095798</a><br/> 245    Visit America.  Beelddocument = Visual document. <br>260    2001  (Heidelberg :  Edition Staeck,  2001) <br>300    84x60 cm. <br>500    Nr. 90280. 'Visit America Paradies der Klimakiller'. <br>648    2001-2001.  (NL-AMISG)370517 <br>650    Environment protection.  (NL-AMISG)158032 <br>650    Portrait.  (NL-AMISG)306035 <br>651    United States of America.  (NL-AMISG)326538 <br>655    Picture postcard.  (NL-AMISG)197051 <br>655    Poster.  (NL-AMISG)3248 <br>695    USA  United States of America <br>856    http://hdl.handle.net/10622/30051003022297 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051003022297#image.jpg",
+                    "credit":"1095798",
+                    "caption":"Bush, George W. "
+                }
+            },
+
+            {
+                "startDate":"2001",
+                                "endDate":"2001",
+                "headline":"Bush, George W. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1095793>http://search.socialhistory.org/Record/1095793</a><br/> 245    Visit America.  Beelddocument = Visual document. <br>260    2001  (Heidelberg :  Edition Staeck,  2001) <br>300    84x60 cm. <br>500    Nr. 90280. 'Visit America Paradies der Klimakiller'. <br>648    2001-2001.  (NL-AMISG)370517 <br>650    Environment protection.  (NL-AMISG)158032 <br>650    Portrait.  (NL-AMISG)306035 <br>651    United States of America.  (NL-AMISG)326538 <br>655    Picture postcard.  (NL-AMISG)197051 <br>655    Poster.  (NL-AMISG)3248 <br>695    USA  United States of America <br>856    http://hdl.handle.net/10622/30051001510731 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001510731#image.jpg",
+                    "credit":"1095793",
+                    "caption":"Bush, George W. "
+                }
+            },
+
+            {
+                "startDate":"2001",
+                                "endDate":"2001",
+                "headline":"Bush, George W. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1095810>http://search.socialhistory.org/Record/1095810</a><br/> 245    Visit America.  Beelddocument = Visual document. <br>260    2001  (Heidelberg :  Edition Staeck,  2001) <br>300    84x60 cm. <br>500    Nr. 90280. 'Visit America home of the climate killers'. <br>648    2001-2001.  (NL-AMISG)370517 <br>650    Environment protection.  (NL-AMISG)158032 <br>650    Portrait.  (NL-AMISG)306035 <br>651    United States of America.  (NL-AMISG)326538 <br>655    Picture postcard.  (NL-AMISG)197051 <br>655    Poster.  (NL-AMISG)3248 <br>695    USA  United States of America <br>856    http://hdl.handle.net/10622/30051001510681 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001510681#image.jpg",
+                    "credit":"1095810",
+                    "caption":"Bush, George W. "
+                }
+            },
+
+            {
+                "startDate":"2003",
+                                "endDate":"2003",
+                "headline":"Bush, George W. Blair, Tony. Aznar, Jos&#xE9; Mar&#xED;a. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1113050>http://search.socialhistory.org/Record/1113050</a><br/> 245   Beelddocument = Visual document. <br>260   (Ca. 2004) <br>500   'No a la guerra'. Against the war in Iraq. <br>648   2003-2004.  (NL-AMISG)478374 <br>650   War and peace.  (NL-AMISG)177089 <br>651   Spain.  (NL-AMISG)308607 <br>651   Iraq.  (NL-AMISG)214723 <br>655   Sticker.  (NL-AMISG)340625 <br>695   SPA  Spain <br>695   MEA  Iraq <br>710   Iniciativa per Catalunya Verds.  (NL-AMISG)484429 <br>710   Esquerra Unida Alternativa.  (NL-AMISG)484430 <br>856   http://hdl.handle.net/10622/30051002002894 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051002002894#image.jpg",
+                    "credit":"1113050",
+                    "caption":"Bush, George W. Blair, Tony. Aznar, Jos&#xE9; Mar&#xED;a. "
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Blair, Tony. Bush, George W. Berlusconi, Silvio. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1148462>http://search.socialhistory.org/Record/1148462</a><br/> 245   Beelddocument = Visual document. <br>650   Biographica.  (NL-AMISG)306042 <br>651   Germany.  (NL-AMISG)112722 <br>655   Button.  (NL-AMISG)56807 <br>655   Badge.  (NL-AMISG)238844 <br>695   GER  Germany <br>856   http://hdl.handle.net/10622/30051002162243 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051002162243#image.jpg",
+                    "credit":"1148462",
+                    "caption":"Blair, Tony. Bush, George W. Berlusconi, Silvio. "
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Bush, George W. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1148495>http://search.socialhistory.org/Record/1148495</a><br/> 245   Beelddocument = Visual document. <br>650   Biographica.  (NL-AMISG)306042 <br>650   War and peace.  (NL-AMISG)177089 <br>651   Germany.  (NL-AMISG)112722 <br>655   Button.  (NL-AMISG)56807 <br>655   Badge.  (NL-AMISG)238844 <br>695   GER  Germany <br>856   http://hdl.handle.net/10622/30051002162490 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051002162490#image.jpg",
+                    "credit":"1148495",
+                    "caption":"Bush, George W. "
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Bush, George W. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1148499>http://search.socialhistory.org/Record/1148499</a><br/> 245   Beelddocument = Visual document. <br>650   Biographica.  (NL-AMISG)306042 <br>650   War and peace.  (NL-AMISG)177089 <br>651   Germany.  (NL-AMISG)112722 <br>655   Button.  (NL-AMISG)56807 <br>655   Badge.  (NL-AMISG)238844 <br>695   GER  Germany <br>856   http://hdl.handle.net/10622/30051002162359 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051002162359#image.jpg",
+                    "credit":"1148499",
+                    "caption":"Bush, George W. "
+                }
+            },
+
+            {
+                "startDate":"2002",
+                                "endDate":"2002",
+                "headline":"Bush, George W. Beatrix, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1153430>http://search.socialhistory.org/Record/1153430</a><br/> 245   Beelddocument = Visual document. <br>260   2002  (Rotterdam :  s.n.) <br>300   30x42 cm. <br>500   Getekend voor publicatie in het nieuwsblad De Tribune. <br>648   2002-2002.  (NL-AMISG)370518 <br>650   Caricature.  (NL-AMISG)306037 <br>650   Biographica.  (NL-AMISG)306042 <br>650   Foreign intervention.  (NL-AMISG)75268 <br>651   Netherlands.  (NL-AMISG)569282 <br>655   Drawing.  (NL-AMISG)269282 <br>655   Print.  (NL-AMISG)262665 <br>694   Willemen, K.  BG C17/665 <br>695   NED  Nederland <br>700   Willemen, Kees,  collector.  (NL-AMISG)2000737 <br>710   Socialistiese Partij.  (NL-AMISG)235067 <br>856   http://hdl.handle.net/10622/30051002155536 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051002155536#image.jpg",
+                    "credit":"1153430",
+                    "caption":"Bush, George W. Beatrix, "
+                }
+            }
+
+		]
+    }
+}
+

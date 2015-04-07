@@ -1,0 +1,48 @@
+<record>
+  <leader>00620nam a22      a 4500</leader>
+  <controlfield tag="008">110701s                                d</controlfield>
+<datafield tag="020" ind1="" ind2="">
+    <subfield code="a">%%020|a%%</subfield>
+  </datafield>
+<datafield tag="040" ind1="" ind2="">
+    <subfield code="a">NL-AMISG</subfield>
+     </datafield>
+<datafield tag="041" ind1="" ind2="">
+    <subfield code="a">%%041|a%%</subfield>
+     </datafield>
+<datafield tag="044" ind1="" ind2="">
+    <subfield code="a">%%044|a%%</subfield>
+</datafield>
+<datafield tag="100" ind1="1" ind2="">
+    <subfield code="a">%%700|a%%</subfield>
+</datafield>
+<datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">%%245|a%%</subfield>
+    <subfield code="b">%%245|b%%</subfield>
+    <subfield code="c">%%245|c%%</subfield>
+</datafield>
+<datafield tag="260" ind1="" ind2="">
+    <subfield code="a">%%260|a%%</subfield>
+    <subfield code="b">%%260|b%%</subfield>
+    <subfield code="c">%%260|c%%</subfield>
+</datafield>
+<datafield tag="300" ind1="" ind2="">
+    <subfield code="a">%%300|a%%</subfield>
+</datafield>
+<datafield tag="500" ind1="" ind2="">
+    <subfield code="a">%%500|a%%</subfield>
+</datafield>
+<datafield tag="700" ind1="1" ind2="">
+    <subfield code="a">%%700|a%%</subfield>
+</datafield>
+<datafield tag="710" ind1="2" ind2="">
+    <subfield code="a">%%710|a%%</subfield>
+</datafield>
+<datafield tag="740" ind1="0" ind2="">
+    <subfield code="a">%%740|a%%</subfield>
+      </datafield>
+<datafield tag="830" ind1="" ind2="0">
+    <subfield code="a">%%830|a%%</subfield>
+    <subfield code="v">%%830|v%%</subfield>
+    </datafield>
+</record>

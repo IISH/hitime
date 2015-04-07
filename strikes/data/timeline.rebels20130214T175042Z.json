@@ -1,0 +1,650 @@
+{
+    "timeline":
+    {
+        "headline":"Posters Visual Timeline",
+        "type":"default",
+                "text":"Evergreen Timeline Application",
+                "startDate":"2012,2,05",
+        "date": [
+		
+            {
+                "startDate":"1984",
+                                "endDate":"1984",
+                "headline":"",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1005290>http://search.socialhistory.org/Record/1005290</a><br/> 245   Beelddocument = Visual document. <br>648   1984-1985.  (NL-AMISG)369876 <br>651   Amsterdam. (Netherlands)  (NL-AMISG)572941 <br>655   Membership card.  (NL-AMISG)174002 <br>695   NED  Amsterdam. <br>710   Rebel (Amsterdam)  (NL-AMISG)265558 <br>856   http://hdl.handle.net/10622/30051001324281 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001324281#image.jpg",
+                    "credit":"1005290",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"1966",
+                                "endDate":"1966",
+                "headline":"Mao Tse-Tung. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1006216>http://search.socialhistory.org/Record/1006216</a><br/> 245   Gaoju Mao Zedong sixiang weida hongqi ba wuchan jieji wenhua dageming jinxing daodi - geming wuzui, zaofan youli.  Beelddocument = Visual document. <br>260   1966-1967  (Shanghai :  Shanghai renmin meishu chubanshe) <br>300   53x74.5 cm. <br>500   'Hold high the great red banner of Mao Zedong to wage the Great Proletarian Cultural Revolution to the end - Revolution is no crime, to rebel is justified'. Publisher not sure. <br>648   1966-1967.  (NL-AMISG)366211 <br>650   Biographica.  (NL-AMISG)306042 <br>651   China.  (NL-AMISG)81989 <br>655   Poster.  (NL-AMISG)3248 <br>694   Landsberger, S.  BG E13/764 <br>695   EAS  China. <br>700   Landsberger, Stefan R.  collector.  (NL-AMISG)2000344 <br>710   Revolutionary Rebel Command of the Shanghai Publishing System.  (NL-AMISG)259136 <br>710   Shanghai People's Fine Arts Publishing House.  Revolutionary Rebel Committee.  (NL-AMISG)308893 <br>856   http://hdl.handle.net/10622/30051001323770 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001323770#image.jpg",
+                    "credit":"1006216",
+                    "caption":"Mao Tse-Tung. "
+                }
+            },
+
+            {
+                "startDate":"1980",
+                                "endDate":"1980",
+                "headline":"",
+                "text":"<p><a href=http://search.socialhistory.org/Record/808853>http://search.socialhistory.org/Record/808853</a><br/> 245   Nieuw jongerenkrant.  Beelddocument = Visual document. <br>260   1980  (S.l. :  s.n,  1980) <br>300   58x42 cm. <br>648   1980-1980.  (NL-AMISG)368050 <br>650   Subscriber canvassing.  (NL-AMISG)1359 <br>651   Netherlands.  (NL-AMISG)569282 <br>655   Poster.  (NL-AMISG)3248 <br>695   NED  Nederland. <br>710   Rebel.  (NL-AMISG)246411 <br>856   http://hdl.handle.net/10622/30051001236527 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001236527#image.jpg",
+                    "credit":"808853",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"(Ca. 1912)",
+                                "endDate":"(Ca. 1912)",
+                "headline":"Villa, Francisco. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1018620>http://search.socialhistory.org/Record/1018620</a><br/> 245   Beelddocument = Visual document. <br>260   (Ca. 1912) <br>500   General of the rebels. <br>650   Portrait.  (NL-AMISG)306035 <br>655   Picture postcard.  (NL-AMISG)197051 <br>655   Photo.  (NL-AMISG)121213 <br>856   http://hdl.handle.net/10622/30051001290433 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001290433#image.jpg",
+                    "credit":"1018620",
+                    "caption":"Villa, Francisco. "
+                }
+            },
+
+            {
+                "startDate":"1967",
+                                "endDate":"1967",
+                "headline":"'Firmly uphold and defend Chairman Mao's correct policy of the Three-in-one combination, all power must return to the Shanghai revolutionary committee'. Printno. T8081.9945.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/983908>http://search.socialhistory.org/Record/983908</a><br/> 245    Jiangjue chixing he hanwei Mao zhuxide Sanjiehe de zhengque fangzhen, yiqie quanli gui Shanghaishi geming weiyuanhui.  Beelddocument = Visual document. <br>260    1967, February  (Shanghai :  Shanghai renmin meishu chubanshe,  1967) <br>300    76x53 cm. <br>500    'Firmly uphold and defend Chairman Mao's correct policy of the Three-in-one combination, all power must return to the Shanghai revolutionary committee'. Printno. T8081.9945. <br>648    1967-1967.  (NL-AMISG)366216 <br>651    China.  (NL-AMISG)81989 <br>655    Poster.  (NL-AMISG)3248 <br>694    Landsberger, S.  BG E13/712 <br>695    EAS  China. <br>700    Landsberger, Stefan R.  collector.  (NL-AMISG)2000344 <br>710    Liaison Office of the Artistic Front of the Shanghai Workers Revolutionary Rebel General Headquarters.  (NL-AMISG)171389 <br>710    Revolutionary Rebel Headquarters of the Shanghai Publishing System.  (NL-AMISG)276533 <br>710    Shanghai People's Fine Arts Publishing House.  Figth to the Bitter End Corps.  (NL-AMISG)281848 <br>856    http://hdl.handle.net/10622/30051001327433 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001327433#image.jpg",
+                    "credit":"983908",
+                    "caption":"'Firmly uphold and defend Chairman Mao's correct policy of the Three-in-one combination, all power must return to the Shanghai revolutionary committee'. Printno. T8081.9945."
+                }
+            },
+
+            {
+                "startDate":"1966",
+                                "endDate":"1966",
+                "headline":"Liu Shaoqi. Deng Xiaoping. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1069699>http://search.socialhistory.org/Record/1069699</a><br/> 245   Naqi bi zuo daoqiang jizhong huoli da Liu Deng.  Beelddocument = Visual document. <br>260   (Ca. 1967)  (S.l. :  s.n.) <br>300   54x78 cm. <br>500   'Take up a pen as a weapon and concentrate fire to hit Liu and Deng.' <br>648   1966-1969.  (NL-AMISG)366213 <br>650   Caricature.  (NL-AMISG)306037 <br>651   China.  (NL-AMISG)81989 <br>655   Poster.  (NL-AMISG)3248 <br>695   EAS  China <br>710   Workers-Peasant-Soldiers Printing House.  Workers Revolutionary Rebel Group.  (NL-AMISG)466212 <br>740   Take up a pen as a weapon and concentrate fire to hit Liu and Deng. <br>856   http://hdl.handle.net/10622/30051001500989 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001500989#image.jpg",
+                    "credit":"1069699",
+                    "caption":"Liu Shaoqi. Deng Xiaoping. "
+                }
+            },
+
+            {
+                "startDate":"1967",
+                                "endDate":"1967",
+                "headline":"Li Jingquan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1071474>http://search.socialhistory.org/Record/1071474</a><br/> 245   Chedi cuihui Lijia wangchao!  Beelddocument = Visual document. <br>260   (Ca. 1967)  (S.l. :  s.n.) <br>300   77x54 cm. <br>500   'Thoroughly smash the dynastic Li family!'. <br>648   1967-1969.  (NL-AMISG)366218 <br>650   Purges.  (NL-AMISG)273939 <br>650   Caricature.  (NL-AMISG)306037 <br>651   China.  (NL-AMISG)81989 <br>655   Poster.  (NL-AMISG)3248 <br>695   EAS  China. <br>710   Red soldiers of fine arts Red Billow.  Editorial department.  (NL-AMISG)248386 <br>710   Revolutionary and rebelling military group Artillery and Fire (Chengdu)  (NL-AMISG)276487 <br>856   http://hdl.handle.net/10622/30051001403481 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001403481#image.jpg",
+                    "credit":"1071474",
+                    "caption":"Li Jingquan. "
+                }
+            },
+
+            {
+                "startDate":"1925",
+                                "endDate":"1925",
+                "headline":"",
+                "text":"<p><a href=http://search.socialhistory.org/Record/966572>http://search.socialhistory.org/Record/966572</a><br/> 245   Beelddocument = Visual document. <br>260   (Brooklyn :  Caslon Press) <br>648   1925-1949.  (NL-AMISG)360599 <br>650   Membership recruitment.  (NL-AMISG)166420 <br>651   United States of America.  (NL-AMISG)326538 <br>655   Poster.  (NL-AMISG)3248 <br>695   USA  United States of America. <br>710   Young People's Socialist League (USA)  (NL-AMISG)271791 <br>710   Rebel Arts.  (NL-AMISG)246412 <br>856   http://hdl.handle.net/10622/30051001214821 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001214821#image.jpg",
+                    "credit":"966572",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"1981",
+                                "endDate":"1981",
+                "headline":"",
+                "text":"<p><a href=http://search.socialhistory.org/Record/840064>http://search.socialhistory.org/Record/840064</a><br/> 245   Schoolverlater is kwaad.  Beelddocument = Visual document. <br>260   1981  (S.l. :  s.n.,  1981) <br>300   61x43 cm. <br>648   1981-1981.  (NL-AMISG)368058 <br>650   Youth unemployment.  (NL-AMISG)155279 <br>651   Utrecht. (Netherlands)  (NL-AMISG)231631 <br>655   Poster.  (NL-AMISG)3248 <br>695   NED  Utrecht. <br>710   Werkende Jeugd CNV.  (NL-AMISG)267058 <br>710   Jongeren Advies Centrum (Amsterdam)  (NL-AMISG)121560 <br>710   Rebel.  (NL-AMISG)246411 <br>710   Vereniging van Dienstplichtige Militairen.  (NL-AMISG)258196 <br>710   Jonge Socialisten.  (NL-AMISG)121488 <br>710   PPR.  Jongeren.  (NL-AMISG)257060 <br>710   PSP.  Jongerengroepen.  (NL-AMISG)272351 <br>710   Werklozen Belangen Vereniging (Utrecht)  (NL-AMISG)267119 <br>710   NVV.  Jongerencontact.  (NL-AMISG)508879 <br>710   ANJV.  (NL-AMISG)8851 <br>856   http://hdl.handle.net/10622/30051000324571 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000324571#image.jpg",
+                    "credit":"840064",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"1936",
+                                "endDate":"1936",
+                "headline":"Rebel plane shot down north of Madrid.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/839998>http://search.socialhistory.org/Record/839998</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000508108#image.jpg",
+                    "credit":"839998",
+                    "caption":"Rebel plane shot down north of Madrid."
+                }
+            },
+
+            {
+                "startDate":"1936",
+                                "endDate":"1936",
+                "headline":"After the bombardment by the rebels. Series of 5 photos.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/833516>http://search.socialhistory.org/Record/833516</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000510591#image.jpg",
+                    "credit":"833516",
+                    "caption":"After the bombardment by the rebels. Series of 5 photos."
+                }
+            },
+
+            {
+                "startDate":"1937",
+                                "endDate":"1937",
+                "headline":"Groth, John,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/899900>http://search.socialhistory.org/Record/899900</a><br/> 245    An American view of rebel Spain.  Beelddocument = Visual document. <br>260    1937, October 22  Manchester :  The Manchester Guardian. <br>300    20x18 cm. <br>500    Originally publ. in the New York Nation as Behind the lines at Burgos. <br>648    1937-1937.  (NL-AMISG)362627 <br>650    Spanish Civil War.  (NL-AMISG)308619 <br>651    Burgos. (Spain)  (NL-AMISG)328050 <br>655    Print.  (NL-AMISG)262665 <br>695    SPA  Burgos. <br>856    http://hdl.handle.net/10622/30051000741980 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000741980#image.jpg",
+                    "credit":"899900",
+                    "caption":"Groth, John,"
+                }
+            },
+
+            {
+                "startDate":"1947",
+                                "endDate":"1947",
+                "headline":"Paulos, ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/899621>http://search.socialhistory.org/Record/899621</a><br/> 245    Beelddocument = Visual document. <br>260    1947, October 6. <br>500    King Paul talking to captured rebels in Northern Greece. <br>540    New York Times Photos. <br>541    RIOD <br>648    1947-1947.  (NL-AMISG)364520 <br>650    Revolts.  (NL-AMISG)178089 <br>650    Group portrait.  (NL-AMISG)112454 <br>651    Greece.  (NL-AMISG)125683 <br>655    Photo.  (NL-AMISG)121213 <br>695    GRE  Greece. <br>710    New York Times Photos (London)  (NL-AMISG)238250 <br>856    http://hdl.handle.net/10622/30051000742137 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000742137#image.jpg",
+                    "credit":"899621",
+                    "caption":"Paulos, "
+                }
+            },
+
+            {
+                "startDate":"1981",
+                                "endDate":"1981",
+                "headline":"",
+                "text":"<p><a href=http://search.socialhistory.org/Record/823814>http://search.socialhistory.org/Record/823814</a><br/> 245   Steun het volk van El Salvador.  Beelddocument = Visual document. <br>260   1981  (S.l. :  s.n.,  1981) <br>300   61x41 cm. <br>648   1981-1981.  (NL-AMISG)368058 <br>651   Rotterdam. (Netherlands)  (NL-AMISG)231540 <br>655   Poster.  (NL-AMISG)3248 <br>695   NED  Rotterdam. <br>710   El Salvador Komitee (Rotterdam)  (NL-AMISG)288192 <br>710   BOV-FNV.  Afdeling Rotterdam.  (NL-AMISG)27401 <br>710   CDJA.  Afdeling Rotterdam.  (NL-AMISG)43173 <br>710   Combate.  Afdeling Rotterdam.  (NL-AMISG)62780 <br>710   CPN.  Distrikt Rotterdam.  (NL-AMISG)68985 <br>710   Internationale Kommunistenbond.  Afdeling Rotterdam.  (NL-AMISG)166252 <br>710   NVV.  Jongerencontact.  Afdeling Rotterdam.  (NL-AMISG)246754 <br>710   Onafhankelijk Verbond van Bedrijfsorganisaties.  Afdeling Rotterdam.  (NL-AMISG)224513 <br>710   PSP.  Afdeling Rotterdam.  (NL-AMISG)272270 <br>710   PPR.  Afdeling Rotterdam.  (NL-AMISG)261772 <br>710   PvdA.  Gewest Rotterdam.  (NL-AMISG)273422 <br>710   Rebel.  Afdeling Rotterdam.  (NL-AMISG)373292 <br>711   Actie El Salvador.  (1981 :  Rotterdam)  (NL-AMISG)392934 <br>856   http://hdl.handle.net/10622/30051001027959 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001027959#image.jpg",
+                    "credit":"823814",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"1981",
+                                "endDate":"1981",
+                "headline":"Serie van 4 prentbriefkaart.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/603944>http://search.socialhistory.org/Record/603944</a><br/> 245    Beelddocument = Visual document. <br>260    1981  (Den Bosch :  Rebel,  1981) <br>500    Serie van 4 prentbriefkaart. <br>648    1981-1981.  (NL-AMISG)368058 <br>650    War and peace.  (NL-AMISG)177089 <br>650    Emancipation of women.  (NL-AMISG)264284 <br>651    Netherlands.  (NL-AMISG)569282 <br>655    Picture postcard.  (NL-AMISG)197051 <br>695    NED  Nederland. <br>856    http://hdl.handle.net/10622/30051000448602 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000448602#image.jpg",
+                    "credit":"603944",
+                    "caption":"Serie van 4 prentbriefkaart."
+                }
+            },
+
+            {
+                "startDate":"1985",
+                                "endDate":"1985",
+                "headline":"",
+                "text":"<p><a href=http://search.socialhistory.org/Record/798659>http://search.socialhistory.org/Record/798659</a><br/> 245   Alarm demonstratie. 1 november aktiedag.  Beelddocument = Visual document. <br>260   1985  (S.l. :  s.n.,  1985) <br>300   45x31 cm. <br>300   43x31 cm. <br>648   1985-1985.  (NL-AMISG)369881 <br>650   Nuclear weapons.  (NL-AMISG)318765 <br>651   Den Haag. (Netherlands)  (NL-AMISG)231557 <br>655   Poster.  (NL-AMISG)3248 <br>695   NED  Den Haag. <br>710   Vredesplatform Noordwijk.  (NL-AMISG)351510 <br>710   Vredesraad Eindhoven.  (NL-AMISG)325315 <br>710   Jongeren tegen Kernwapens.  (NL-AMISG)155915 <br>710   Vredes Aktie Kamp (Woensdrecht)  (NL-AMISG)351440 <br>710   Bonk (Amsterdam)  (NL-AMISG)49243 <br>710   Vereniging Dienstweigeraars.  (NL-AMISG)258157 <br>710   Onafhankelijk Verbond van Bedrijfsorganisaties.  (NL-AMISG)174998 <br>710   FNV.  Jongerenbeweging.  (NL-AMISG)83973 <br>710   Socialistiese Arbeiderspartij.  (NL-AMISG)235065 <br>710   AMOK (Utrecht)  (NL-AMISG)7239 <br>710   PPR.  Afdeling Den Haag.  (NL-AMISG)261764 <br>710   ANJV.  (NL-AMISG)8851 <br>710   Vredesplatform Breda.  (NL-AMISG)325292 <br>710   Zwaarden of ploegscharen.  (NL-AMISG)346025 <br>710   Vredesplatform Rotterdam.  (NL-AMISG)351511 <br>710   Rebel.  (NL-AMISG)246411 <br>710   Stedelijke Basisgroepen Utrecht.  (NL-AMISG)318738 <br>710   Beweging Weigering Defensiebelasting.  (NL-AMISG)22712 <br>710   Betaal Niet Mee.  (NL-AMISG)22230 <br>710   Stedelijk Overleg Stadsvernieuwing ('s-Gravenhage)  (NL-AMISG)335873 <br>710   Vredesplatform Spoordijk ('s-Gravenhage)  (NL-AMISG)351514 <br>710   Vredesplatform Laagkwartier ('s-Gravenhage)  (NL-AMISG)351509 <br>710   Vredesplatform Regentes-Valkenbos ('s-Gravenhage)  (NL-AMISG)351512 <br>856   http://hdl.handle.net/10622/30051002888086 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051002888086#image.jpg",
+                    "credit":"798659",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"1985",
+                                "endDate":"1985",
+                "headline":"",
+                "text":"<p><a href=http://search.socialhistory.org/Record/798666>http://search.socialhistory.org/Record/798666</a><br/> 245   Alarm demonstratie. 1 november aktiedag.  Beelddocument = Visual document. <br>260   1985  (S.l. :  s.n.,  1985) <br>300   45x31 cm. <br>300   43x31 cm. <br>648   1985-1985.  (NL-AMISG)369881 <br>650   Nuclear weapons.  (NL-AMISG)318765 <br>651   Den Haag. (Netherlands)  (NL-AMISG)231557 <br>655   Poster.  (NL-AMISG)3248 <br>695   NED  Den Haag. <br>710   Vredesplatform Noordwijk.  (NL-AMISG)351510 <br>710   Vredesraad Eindhoven.  (NL-AMISG)325315 <br>710   Jongeren tegen Kernwapens.  (NL-AMISG)155915 <br>710   Vredes Aktie Kamp (Woensdrecht)  (NL-AMISG)351440 <br>710   Bonk (Amsterdam)  (NL-AMISG)49243 <br>710   Vereniging Dienstweigeraars.  (NL-AMISG)258157 <br>710   Onafhankelijk Verbond van Bedrijfsorganisaties.  (NL-AMISG)174998 <br>710   FNV.  Jongerenbeweging.  (NL-AMISG)83973 <br>710   Socialistiese Arbeiderspartij.  (NL-AMISG)235065 <br>710   AMOK (Utrecht)  (NL-AMISG)7239 <br>710   PPR.  Afdeling Den Haag.  (NL-AMISG)261764 <br>710   ANJV.  (NL-AMISG)8851 <br>710   Vredesplatform Breda.  (NL-AMISG)325292 <br>710   Zwaarden of ploegscharen.  (NL-AMISG)346025 <br>710   Vredesplatform Rotterdam.  (NL-AMISG)351511 <br>710   Rebel.  (NL-AMISG)246411 <br>710   Stedelijke Basisgroepen Utrecht.  (NL-AMISG)318738 <br>710   Beweging Weigering Defensiebelasting.  (NL-AMISG)22712 <br>710   Betaal Niet Mee.  (NL-AMISG)22230 <br>710   Stedelijk Overleg Stadsvernieuwing ('s-Gravenhage)  (NL-AMISG)335873 <br>710   Vredesplatform Spoordijk ('s-Gravenhage)  (NL-AMISG)351514 <br>710   Vredesplatform Laagkwartier ('s-Gravenhage)  (NL-AMISG)351509 <br>710   Vredesplatform Regentes-Valkenbos ('s-Gravenhage)  (NL-AMISG)351512 <br>856   http://hdl.handle.net/10622/30051002938592 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051002938592#image.jpg",
+                    "credit":"798666",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"1936",
+                                "endDate":"1936",
+                "headline":"Rebel troops leaving Burgos. Series of 2 photos.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/836610>http://search.socialhistory.org/Record/836610</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000517554#image.jpg",
+                    "credit":"836610",
+                    "caption":"Rebel troops leaving Burgos. Series of 2 photos."
+                }
+            },
+
+            {
+                "startDate":"1981",
+                                "endDate":"1981",
+                "headline":"",
+                "text":"<p><a href=http://search.socialhistory.org/Record/839272>http://search.socialhistory.org/Record/839272</a><br/> 245   Handen af van El Salvador.  Beelddocument = Visual document. <br>260   1981  (S.l. :  s.n.,  1981) <br>300   62x46 cm. <br>648   1981-1981.  (NL-AMISG)368058 <br>651   Amsterdam. (Netherlands)  (NL-AMISG)572941 <br>655   Poster.  (NL-AMISG)3248 <br>695   NED  Amsterdam. <br>710   CPN.  (NL-AMISG)54254 <br>710   Internationale Kommunistenbond.  (NL-AMISG)114866 <br>710   PvdA.  (NL-AMISG)203601 <br>710   PPR.  (NL-AMISG)196114 <br>710   PSP.  (NL-AMISG)202286 <br>710   Combate.  (NL-AMISG)58429 <br>710   Juventudes Comunistas de Chile.  Nederland.  (NL-AMISG)166068 <br>710   FNV.  (NL-AMISG)83933 <br>710   Nederlandse Vrouwenbeweging.  (NL-AMISG)234516 <br>710   ANJV.  (NL-AMISG)8851 <br>710   ASVA.  (NL-AMISG)12847 <br>710   Bond voor Dienstplichtigen.  (NL-AMISG)28350 <br>710   Jonge Socialisten.  (NL-AMISG)121488 <br>710   KWJ.  Beweging van werkende jongeren.  (NL-AMISG)135819 <br>710   NVV.  Jongerencontact.  (NL-AMISG)508879 <br>710   PPR.  Jongeren.  (NL-AMISG)257060 <br>710   PSP.  Jongerengroepen.  (NL-AMISG)272351 <br>710   Studentenraad Vrije Universiteit (Amsterdam)  (NL-AMISG)243321 <br>710   Rebel.  (NL-AMISG)246411 <br>710   Vereniging van Dienstplichtige Militairen.  (NL-AMISG)258196 <br>710   El Salvador Komitee (Amsterdam)  (NL-AMISG)71866 <br>710   Guatemala Komitee Nederland.  (NL-AMISG)130966 <br>710   Nicaragua Komitee Nederland.  (NL-AMISG)168219 <br>710   Federatie Uruguay Komitees (Zwolle)  (NL-AMISG)81746 <br>711   Actie El Salvador.  (1981 :  Amsterdam)  (NL-AMISG)2465 <br>856   http://hdl.handle.net/10622/30051002864475 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051002864475#image.jpg",
+                    "credit":"839272",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"1986",
+                                "endDate":"1986",
+                "headline":"Sonneveldt, Ton,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/668121>http://search.socialhistory.org/Record/668121</a><br/> 245    Beelddocument = Visual document. <br>260    1986, 29 april. <br>500    Protest tegen installatie Centrumpartijlid in gemeenteraad. <br>540    Ton Sonneveldt. <br>610    Centrumpartij.  (NL-AMISG)46690 <br>630    Rebel.  (NL-AMISG)246410 <br>648    1986-1986.  (NL-AMISG)369887 <br>651    Rotterdam. (Netherlands)  (NL-AMISG)231540 <br>655    Photo.  (NL-AMISG)121213 <br>695    NED  Rotterdam. <br>856    http://hdl.handle.net/10622/30051000419637 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000419637#image.jpg",
+                    "credit":"668121",
+                    "caption":"Sonneveldt, Ton,"
+                }
+            },
+
+            {
+                "startDate":"1936",
+                                "endDate":"1936",
+                "headline":"Mercader, ... ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/845889>http://search.socialhistory.org/Record/845889</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000507480#image.jpg",
+                    "credit":"845889",
+                    "caption":"Mercader, ... "
+                }
+            },
+
+            {
+                "startDate":"(Ca. 1984)",
+                                "endDate":"(Ca. 1984)",
+                "headline":"Marx, Karl. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/698580>http://search.socialhistory.org/Record/698580</a><br/> 245    Beelddocument = Visual document. <br>260    (Ca. 1984)  (Leeds :  Leeds postcards) <br>500    Cartoon Rebel with a cause. <br>650    Caricature.  (NL-AMISG)306037 <br>655    Picture postcard.  (NL-AMISG)197051 <br>856    http://hdl.handle.net/10622/30051000110533 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000110533#image.jpg",
+                    "credit":"698580",
+                    "caption":"Marx, Karl. "
+                }
+            },
+
+            {
+                "startDate":"1976",
+                                "endDate":"1976",
+                "headline":"Suppl. to: Rebell, no. 12 (1976).",
+                "text":"<p><a href=http://search.socialhistory.org/Record/784732>http://search.socialhistory.org/Record/784732</a><br/> 245    Beelddocument = Visual document. <br>260    1976  (S.l. :  s.n.,  1976) <br>300    63x47 cm. <br>500    Suppl. to: Rebell, no. 12 (1976). <br>648    1976-1976.  (NL-AMISG)366975 <br>650    Anti-capitalism.  (NL-AMISG)9493 <br>651    Federal Republic of Germany.  (NL-AMISG)90660 <br>655    Poster.  (NL-AMISG)3248 <br>695    GER  Federal Republic of Germany. <br>710    Kommunistischer Bund.  (NL-AMISG)131605 <br>856    http://hdl.handle.net/10622/30051001111258 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001111258#image.jpg",
+                    "credit":"784732",
+                    "caption":"Suppl. to: Rebell, no. 12 (1976)."
+                }
+            },
+
+            {
+                "startDate":"1982",
+                                "endDate":"1982",
+                "headline":"Manyoky, Franjo,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/821043>http://search.socialhistory.org/Record/821043</a><br/> 245   Sal Santen rebel.  Beelddocument = Visual document. <br>260   1982  (Amsterdam :  SSP,  1982) <br>300   59.5x42 cm. <br>630   Sal Santen Rebel.  (NL-AMISG)373513 <br>648   1982-1982.  (NL-AMISG)368064 <br>651   Netherlands.  (NL-AMISG)569282 <br>655   Poster.  (NL-AMISG)3248 <br>695   NED  Nederland. <br>856   http://hdl.handle.net/10622/30051001039491 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001039491#image.jpg",
+                    "credit":"821043",
+                    "caption":"Manyoky, Franjo,"
+                }
+            },
+
+            {
+                "startDate":"1936",
+                                "endDate":"1936",
+                "headline":"Rebel outpost near Burgos awaits government troops.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/836676>http://search.socialhistory.org/Record/836676</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000517752#image.jpg",
+                    "credit":"836676",
+                    "caption":"Rebel outpost near Burgos awaits government troops."
+                }
+            },
+
+            {
+                "startDate":"1936",
+                                "endDate":"1936",
+                "headline":"Victorious rebels march through deserted San Sebastian streets.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/836757>http://search.socialhistory.org/Record/836757</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000517398#image.jpg",
+                    "credit":"836757",
+                    "caption":"Victorious rebels march through deserted San Sebastian streets."
+                }
+            },
+
+            {
+                "startDate":"1936",
+                                "endDate":"1936",
+                "headline":"Rebels search Santa Cruz after capture.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/836800>http://search.socialhistory.org/Record/836800</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000517406#image.jpg",
+                    "credit":"836800",
+                    "caption":"Rebels search Santa Cruz after capture."
+                }
+            },
+
+            {
+                "startDate":"1937",
+                                "endDate":"1937",
+                "headline":"Rebel cavalry crossing an important bridge over a river south of Madrid.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/837496>http://search.socialhistory.org/Record/837496</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000519782#image.jpg",
+                    "credit":"837496",
+                    "caption":"Rebel cavalry crossing an important bridge over a river south of Madrid."
+                }
+            },
+
+            {
+                "startDate":"1936",
+                                "endDate":"1936",
+                "headline":"Loyalists from their point of vantage on Medellin Castle fire at rebels on the hills beyond.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/841225>http://search.socialhistory.org/Record/841225</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000504628#image.jpg",
+                    "credit":"841225",
+                    "caption":"Loyalists from their point of vantage on Medellin Castle fire at rebels on the hills beyond."
+                }
+            },
+
+            {
+                "startDate":"1991",
+                                "endDate":"1991",
+                "headline":"Simajchlov&#xE1;, Ji&#x159;ina,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/844467>http://search.socialhistory.org/Record/844467</a><br/> 245    Beelddocument = Visual document. <br>260    1991, 16 januari. <br>500    Tegen Golfoorlog. <br>540    Jirina Simajchlova. <br>610    Socialistiese Arbeiderspartij.  (NL-AMISG)235065 <br>630    Rebel.  (NL-AMISG)246410 <br>648    1991-1991.  (NL-AMISG)369921 <br>650    War and peace.  (NL-AMISG)177089 <br>651    Amsterdam. (Netherlands)  (NL-AMISG)572941 <br>655    Photo.  (NL-AMISG)121213 <br>695    NED  Amsterdam. <br>856    http://hdl.handle.net/10622/30051000416328 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000416328#image.jpg",
+                    "credit":"844467",
+                    "caption":"Simajchlov&#xE1;, Ji&#x159;ina,"
+                }
+            },
+
+            {
+                "startDate":"1935",
+                                "endDate":"1935",
+                "headline":"Series of 3 photos. Rebelling soldiers during the Brazilian Revolt.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/924104>http://search.socialhistory.org/Record/924104</a><br/> 245   Beelddocument = Visual document. <br>260   1935, November-December. <br>500   Series of 3 photos. Rebelling soldiers during the Brazilian Revolt. <br>540   Associated Press Photo. <br>541   RIOD  1990 <br>648   1935-1935.  (NL-AMISG)362613 <br>650   Rebellions.  (NL-AMISG)178139 <br>651   Rio de Janeiro. (Brazil)  (NL-AMISG)288322 <br>655   Photo.  (NL-AMISG)121213 <br>695   SAM  Brazil  Rio de Janeiro. <br>710   Associated Press Photo (London)  (NL-AMISG)17327 <br>856   http://hdl.handle.net/10622/30051001282596 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001282596#image.jpg",
+                    "credit":"924104",
+                    "caption":"Series of 3 photos. Rebelling soldiers during the Brazilian Revolt."
+                }
+            },
+
+            {
+                "startDate":"1965",
+                                "endDate":"1965",
+                "headline":"'The army and the people are united as one, who on earth dares to oppose us!'.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1005785>http://search.socialhistory.org/Record/1005785</a><br/> 245   Junmin tuanjie ru yiren, shikan tianxia shei neng di!  Beelddocument = Visual document. <br>260   (1965-1966?)  (s.l. :  s.n.) <br>300   75x51.5 cm. <br>500   'The army and the people are united as one, who on earth dares to oppose us!'. <br>648   1965-1966.  (NL-AMISG)366201 <br>651   China.  (NL-AMISG)81989 <br>655   Poster.  (NL-AMISG)3248 <br>694   Landsberger, S.  BG E13/736 <br>695   EAS  China. <br>700   Landsberger, Stefan R.  collector.  (NL-AMISG)2000344 <br>710   Hangzhou Revolutionary Rebel United Headquarters of the Propaganda and Literature Defense System.  (NL-AMISG)137983 <br>710   Hangzhou Revolutionary Rebel Headquarters of Literature and Art Circles to Defend Mao Zedong Thought.  (NL-AMISG)137979 <br>710   Hangzhou Red Revolutionary Rebel Headquarters of the Workers-Peasants-Soldiers Fine Arts Work Corps.  (NL-AMISG)137978 <br>710   Hangzhou Revolutionary Rebel Headquarters of the Culture Education Office.  (NL-AMISG)137981 <br>710   Hangzhou Revolutionary Rebel Headquarters of the Propaganda Section of the Revolutionary Committee.  (NL-AMISG)137982 <br>710   Hangzhou Revolutionary Rebel Headquarters of New China Book Stores.  (NL-AMISG)137980 <br>856   http://hdl.handle.net/10622/30051001324067 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001324067#image.jpg",
+                    "credit":"1005785",
+                    "caption":"'The army and the people are united as one, who on earth dares to oppose us!'."
+                }
+            },
+
+            {
+                "startDate":"1982",
+                                "endDate":"1982",
+                "headline":"",
+                "text":"<p><a href=http://search.socialhistory.org/Record/798141>http://search.socialhistory.org/Record/798141</a><br/> 245   Alarm. Geen uitstel maar afstel.  Beelddocument = Visual document. <br>260   (1984?)  (S.l. :  s.n.,  [1984?]) <br>300   41.5x30.5 cm. <br>648   1982-1984.  (NL-AMISG)368066 <br>650   Nuclear weapons.  (NL-AMISG)318765 <br>651   Netherlands.  (NL-AMISG)569282 <br>655   Poster.  (NL-AMISG)3248 <br>695   NED  Nederland. <br>710   ANJV.  (NL-AMISG)8851 <br>710   ASVA.  (NL-AMISG)12847 <br>710   Jongeren tegen Kernwapens.  (NL-AMISG)155915 <br>710   FNV.  Jongerenbeweging.  (NL-AMISG)83973 <br>710   Kunstenaars tegen kernwapens.  (NL-AMISG)177017 <br>710   NIVON.  Jongeren.  (NL-AMISG)169351 <br>710   PPR.  Jongeren.  (NL-AMISG)257060 <br>710   Rebel.  (NL-AMISG)246411 <br>710   Studentenraad Vrije Universiteit (Amsterdam)  (NL-AMISG)243321 <br>710   Vereniging Dienstweigeraars.  (NL-AMISG)258157 <br>710   Vredesaktiekrant.  (NL-AMISG)373504 <br>856   http://hdl.handle.net/10622/30051000640935 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000640935#image.jpg",
+                    "credit":"798141",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"1975",
+                                "endDate":"1975",
+                "headline":"",
+                "text":"<p><a href=http://search.socialhistory.org/Record/799575>http://search.socialhistory.org/Record/799575</a><br/> 245   1 mei, dag van internationale solidariteit.  Beelddocument = Visual document. <br>260   (Ca.1977)  (S.l. :  s.n.,  [1977?]) <br>300   43x30 cm. <br>648   1975-1979.  (NL-AMISG)366964 <br>651   Rotterdam. (Netherlands)  (NL-AMISG)231540 <br>655   Poster.  (NL-AMISG)3248 <br>694   Rode Tribune  BG D23/104 <br>695   NED  Rotterdam. <br>710   PCI.  Sezione Holanda.  (NL-AMISG)251734 <br>710   Kommounistiko Komma Elladas.  (NL-AMISG)131352 <br>710   FILEF.  (NL-AMISG)113065 <br>710   Grupo Combate.  (NL-AMISG)130270 <br>710   Partido Comunista de Chile.  Nederland.  (NL-AMISG)238175 <br>710   ANJV.  (NL-AMISG)8851 <br>710   CNT (Uruguay).  Nederland.  (NL-AMISG)56889 <br>710   CPN.  (NL-AMISG)54254 <br>710   Internationale Kommunistenbond.  (NL-AMISG)114866 <br>710   Kommunistische Eenheidsbeweging Nederland (marxistisch-leninistisch)  (NL-AMISG)131494 <br>710   Nederlandse Vrouwenbeweging.  (NL-AMISG)234516 <br>710   PSP.  (NL-AMISG)202286 <br>710   Rebel.  (NL-AMISG)246411 <br>710   Stop de Neutronenbom (Amsterdam)  (NL-AMISG)342662 <br>710   Vereniging van werkende Grieken in Nederland.  (NL-AMISG)337564 <br>710   Stop de kernwapenwedloop (Amsterdam)  (NL-AMISG)342659 <br>710   Rode Tribune,  collector.  (NL-AMISG)574051 <br>711   1 mei.  (Rotterdam)  (NL-AMISG)203 <br>856   http://hdl.handle.net/10622/30051000679396 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000679396#image.jpg",
+                    "credit":"799575",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"1987",
+                                "endDate":"1987",
+                "headline":"",
+                "text":"<p><a href=http://search.socialhistory.org/Record/801484>http://search.socialhistory.org/Record/801484</a><br/> 245   Shell smeer 'm uit Zuid-Afrika.  Beelddocument = Visual document. <br>260   1987  (S.l. :  s.n.,  1987) <br>300   59.5x42 cm. <br>610   Koninklijke Shell (Den Haag)  (NL-AMISG)131796 <br>648   1987-1987.  (NL-AMISG)369893 <br>651   Utrecht. (Netherlands)  (NL-AMISG)231631 <br>655   Poster.  (NL-AMISG)3248 <br>695   NED  Utrecht. <br>710   Utrecht tegen Apartheid.  (NL-AMISG)301990 <br>710   CPN.  (NL-AMISG)54254 <br>710   PSP.  (NL-AMISG)202286 <br>710   PPR.  (NL-AMISG)196114 <br>710   Rebel.  (NL-AMISG)246411 <br>710   Beweging van Surinaams Links.  (NL-AMISG)11969 <br>711   Actie Zuid-Afrika.  (1987 :  Utrecht)  (NL-AMISG)425333 <br>856   http://hdl.handle.net/10622/30051000653029 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000653029#image.jpg",
+                    "credit":"801484",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"1984",
+                                "endDate":"1984",
+                "headline":"Schaik, Pim van,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/809150>http://search.socialhistory.org/Record/809150</a><br/> 245   1 mei manifestatie.  Beelddocument = Visual document. <br>260   1984  (Utrecht :  USP,  1984) <br>300   60x39.5. <br>648   1984-1984.  (NL-AMISG)369875 <br>651   Utrecht. (Netherlands)  (NL-AMISG)231631 <br>655   Poster.  (NL-AMISG)3248 <br>695   NED  Utrecht. <br>710   De Wekker (Utrecht)  (NL-AMISG)356813 <br>710   Socialistiese Arbeiderspartij.  (NL-AMISG)235065 <br>710   BAU.  (NL-AMISG)24709 <br>710   AMMU.  (NL-AMISG)9778 <br>710   ABVA-KABO.  Vrouwen.  (NL-AMISG)1705 <br>710   CPN.  (NL-AMISG)54254 <br>710   PPR.  (NL-AMISG)196114 <br>710   PSP.  (NL-AMISG)202286 <br>710   PvdA.  (NL-AMISG)203601 <br>710   VARA.  Afdeling Utrecht.  (NL-AMISG)331850 <br>710   Rebel.  (NL-AMISG)246411 <br>711   1 mei.  (1984 :  Utrecht)  (NL-AMISG)419035 <br>856   http://hdl.handle.net/10622/30051001235578 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001235578#image.jpg",
+                    "credit":"809150",
+                    "caption":"Schaik, Pim van,"
+                }
+            },
+
+            {
+                "startDate":"1983",
+                                "endDate":"1983",
+                "headline":"",
+                "text":"<p><a href=http://search.socialhistory.org/Record/809157>http://search.socialhistory.org/Record/809157</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001235677#image.jpg",
+                    "credit":"809157",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"1911",
+                                "endDate":"1911",
+                "headline":"Fiqueroa, Anselmo L. Magon, Ricardo Flores. Magon, Enrique Flores. Rivera, Librado. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1018564>http://search.socialhistory.org/Record/1018564</a><br/> 245   Beelddocument = Visual document. <br>500   Imprisoned Mexican rebels. From l. to r. Fiqueroa, Magon Ricardo, Magon Enrique, Rivera. From: The Herald of Revolt. <br>648   1911-1913.  (NL-AMISG)359334 <br>650   Group portrait.  (NL-AMISG)112454 <br>650   Anarchism.  (NL-AMISG)7873 <br>651   Mexico.  (NL-AMISG)288378 <br>655   Half-tone photo.  (NL-AMISG)244771 <br>695   SAM  Mexico. <br>856   http://hdl.handle.net/10622/30051001290284 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001290284#image.jpg",
+                    "credit":"1018564",
+                    "caption":"Fiqueroa, Anselmo L. Magon, Ricardo Flores. Magon, Enrique Flores. Rivera, Librado. "
+                }
+            },
+
+            {
+                "startDate":"1981",
+                                "endDate":"1981",
+                "headline":"",
+                "text":"<p><a href=http://search.socialhistory.org/Record/823810>http://search.socialhistory.org/Record/823810</a><br/> 245   Steun het volk van El Salvador.  Beelddocument = Visual document. <br>260   1981  (S.l. :  s.n.,  1981) <br>300   61x41 cm. <br>648   1981-1981.  (NL-AMISG)368058 <br>651   Rotterdam. (Netherlands)  (NL-AMISG)231540 <br>655   Poster.  (NL-AMISG)3248 <br>695   NED  Rotterdam. <br>710   El Salvador Komitee (Rotterdam)  (NL-AMISG)288192 <br>710   BOV-FNV.  Afdeling Rotterdam.  (NL-AMISG)27401 <br>710   CDJA.  Afdeling Rotterdam.  (NL-AMISG)43173 <br>710   Combate.  Afdeling Rotterdam.  (NL-AMISG)62780 <br>710   CPN.  Distrikt Rotterdam.  (NL-AMISG)68985 <br>710   Internationale Kommunistenbond.  Afdeling Rotterdam.  (NL-AMISG)166252 <br>710   NVV.  Jongerencontact.  Afdeling Rotterdam.  (NL-AMISG)246754 <br>710   Onafhankelijk Verbond van Bedrijfsorganisaties.  Afdeling Rotterdam.  (NL-AMISG)224513 <br>710   PSP.  Afdeling Rotterdam.  (NL-AMISG)272270 <br>710   PPR.  Afdeling Rotterdam.  (NL-AMISG)261772 <br>710   PvdA.  Gewest Rotterdam.  (NL-AMISG)273422 <br>710   Rebel.  Afdeling Rotterdam.  (NL-AMISG)373292 <br>711   Actie El Salvador.  (1981 :  Rotterdam)  (NL-AMISG)392934 <br>856   http://hdl.handle.net/10622/30051002864541 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051002864541#image.jpg",
+                    "credit":"823810",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"1981",
+                                "endDate":"1981",
+                "headline":"",
+                "text":"<p><a href=http://search.socialhistory.org/Record/833449>http://search.socialhistory.org/Record/833449</a><br/> 245   Minimum Pop Poen Festival.  Beelddocument = Visual document. <br>260   1981  (S.l. :  s.n.,  1981) <br>300   61x37 cm. <br>648   1981-1981.  (NL-AMISG)368058 <br>650   Juvenile wage.  (NL-AMISG)155273 <br>651   Leiden. (Netherlands)  (NL-AMISG)228911 <br>655   Poster.  (NL-AMISG)3248 <br>695   NED  Leiden. <br>710   LSB.  (NL-AMISG)147665 <br>710   Stats (Leiden)  (NL-AMISG)335315 <br>710   Werklozen Belangen Vereniging (Leiden)  (NL-AMISG)358108 <br>710   KWJ.  Beweging van werkende jongeren.  (NL-AMISG)135819 <br>710   ANJV.  (NL-AMISG)8851 <br>710   NVV.  Jongerencontact.  (NL-AMISG)508879 <br>710   Rebel.  (NL-AMISG)246411 <br>711   Minimum Pop Poen Festival.  (1981 :  Leiden)  (NL-AMISG)389169 <br>856   http://hdl.handle.net/10622/30051000321734 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000321734#image.jpg",
+                    "credit":"833449",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"1993",
+                                "endDate":"1993",
+                "headline":"",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1047612>http://search.socialhistory.org/Record/1047612</a><br/> 245   Beelddocument = Visual document. <br>260   1993. <br>648   1993-1993.  (NL-AMISG)369933 <br>650   Sexual violence.  (NL-AMISG)228362 <br>651   Netherlands.  (NL-AMISG)569282 <br>655   Sticker.  (NL-AMISG)340625 <br>695   NED  Nederland. <br>710   Rebel (Amsterdam)  (NL-AMISG)265558 <br>856   http://hdl.handle.net/10622/30051001370243 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001370243#image.jpg",
+                    "credit":"1047612",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"1985",
+                                "endDate":"1985",
+                "headline":"",
+                "text":"<p><a href=http://search.socialhistory.org/Record/798652>http://search.socialhistory.org/Record/798652</a><br/> 245   Alarm demonstratie. 1 november aktiedag.  Beelddocument = Visual document. <br>260   1985  (S.l. :  s.n.,  1985) <br>300   45x31 cm. <br>300   43x31 cm. <br>648   1985-1985.  (NL-AMISG)369881 <br>650   Nuclear weapons.  (NL-AMISG)318765 <br>651   Den Haag. (Netherlands)  (NL-AMISG)231557 <br>655   Poster.  (NL-AMISG)3248 <br>694   Bonk  BG D22/409 <br>695   NED  Den Haag. <br>710   Vredesplatform Noordwijk.  (NL-AMISG)351510 <br>710   Vredesraad Eindhoven.  (NL-AMISG)325315 <br>710   Jongeren tegen Kernwapens.  (NL-AMISG)155915 <br>710   Vredes Aktie Kamp (Woensdrecht)  (NL-AMISG)351440 <br>710   Bonk (Amsterdam)  (NL-AMISG)49243 <br>710   Vereniging Dienstweigeraars.  (NL-AMISG)258157 <br>710   Onafhankelijk Verbond van Bedrijfsorganisaties.  (NL-AMISG)174998 <br>710   FNV.  Jongerenbeweging.  (NL-AMISG)83973 <br>710   Socialistiese Arbeiderspartij.  (NL-AMISG)235065 <br>710   AMOK (Utrecht)  (NL-AMISG)7239 <br>710   PPR.  Afdeling Den Haag.  (NL-AMISG)261764 <br>710   ANJV.  (NL-AMISG)8851 <br>710   Vredesplatform Breda.  (NL-AMISG)325292 <br>710   Zwaarden of ploegscharen.  (NL-AMISG)346025 <br>710   Vredesplatform Rotterdam.  (NL-AMISG)351511 <br>710   Rebel.  (NL-AMISG)246411 <br>710   Stedelijke Basisgroepen Utrecht.  (NL-AMISG)318738 <br>710   Beweging Weigering Defensiebelasting.  (NL-AMISG)22712 <br>710   Betaal Niet Mee.  (NL-AMISG)22230 <br>710   Stedelijk Overleg Stadsvernieuwing ('s-Gravenhage)  (NL-AMISG)335873 <br>710   Vredesplatform Spoordijk ('s-Gravenhage)  (NL-AMISG)351514 <br>710   Vredesplatform Laagkwartier ('s-Gravenhage)  (NL-AMISG)351509 <br>710   Vredesplatform Regentes-Valkenbos ('s-Gravenhage)  (NL-AMISG)351512 <br>710   Bonk (Amsterdam),  collector.  (NL-AMISG)573762 <br>856   http://hdl.handle.net/10622/30051000641511 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000641511#image.jpg",
+                    "credit":"798652",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"1981",
+                                "endDate":"1981",
+                "headline":"",
+                "text":"<p><a href=http://search.socialhistory.org/Record/839279>http://search.socialhistory.org/Record/839279</a><br/> 245   Handen af van El Salvador.  Beelddocument = Visual document. <br>260   1981  (S.l. :  s.n.,  1981) <br>300   62x46 cm. <br>648   1981-1981.  (NL-AMISG)368058 <br>651   Amsterdam. (Netherlands)  (NL-AMISG)572941 <br>655   Poster.  (NL-AMISG)3248 <br>695   NED  Amsterdam. <br>710   CPN.  (NL-AMISG)54254 <br>710   Internationale Kommunistenbond.  (NL-AMISG)114866 <br>710   PvdA.  (NL-AMISG)203601 <br>710   PPR.  (NL-AMISG)196114 <br>710   PSP.  (NL-AMISG)202286 <br>710   Combate.  (NL-AMISG)58429 <br>710   Juventudes Comunistas de Chile.  Nederland.  (NL-AMISG)166068 <br>710   FNV.  (NL-AMISG)83933 <br>710   Nederlandse Vrouwenbeweging.  (NL-AMISG)234516 <br>710   ANJV.  (NL-AMISG)8851 <br>710   ASVA.  (NL-AMISG)12847 <br>710   Bond voor Dienstplichtigen.  (NL-AMISG)28350 <br>710   Jonge Socialisten.  (NL-AMISG)121488 <br>710   KWJ.  Beweging van werkende jongeren.  (NL-AMISG)135819 <br>710   NVV.  Jongerencontact.  (NL-AMISG)508879 <br>710   PPR.  Jongeren.  (NL-AMISG)257060 <br>710   PSP.  Jongerengroepen.  (NL-AMISG)272351 <br>710   Studentenraad Vrije Universiteit (Amsterdam)  (NL-AMISG)243321 <br>710   Rebel.  (NL-AMISG)246411 <br>710   Vereniging van Dienstplichtige Militairen.  (NL-AMISG)258196 <br>710   El Salvador Komitee (Amsterdam)  (NL-AMISG)71866 <br>710   Guatemala Komitee Nederland.  (NL-AMISG)130966 <br>710   Nicaragua Komitee Nederland.  (NL-AMISG)168219 <br>710   Federatie Uruguay Komitees (Zwolle)  (NL-AMISG)81746 <br>711   Actie El Salvador.  (1981 :  Amsterdam)  (NL-AMISG)2465 <br>856   http://hdl.handle.net/10622/30051001027983 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001027983#image.jpg",
+                    "credit":"839279",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"1968",
+                                "endDate":"1968",
+                "headline":"Mao Tse-Tung. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1066003>http://search.socialhistory.org/Record/1066003</a><br/> 245   Relie huanhu Zhejiangsheng geming weiyuanhui chengli.  Beelddocument = Visual document. <br>260   (Ca. 1969)  (S.l. :  s.n.) <br>300   77x53 cm. <br>500   'Warmly welcome the foundation of the revolutionary committee of Zhejiang province.' <br>648   1968-1970.  (NL-AMISG)366225 <br>650   Portrait.  (NL-AMISG)306035 <br>651   China.  (NL-AMISG)81989 <br>655   Poster.  (NL-AMISG)3248 <br>694   Landsberger, S.  BG E15/291 <br>695   EAS  China <br>700   Landsberger, Stefan R.  collector.  (NL-AMISG)2000344 <br>710   General United Headquarters of the Revolutionary Rebels of Zhejiang Province.  (NL-AMISG)465415 <br>740   Warmly welcome the foundation of the revolutionary committee of Zhejiang province. <br>856   http://hdl.handle.net/10622/30051001484309 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001484309#image.jpg",
+                    "credit":"1066003",
+                    "caption":"Mao Tse-Tung. "
+                }
+            },
+
+            {
+                "startDate":"1967",
+                                "endDate":"1967",
+                "headline":"'Thorougly criticize the bureaus of industry of the Shanghai city, region and district and the reactionary line of the capitalist class. Oath taking rally.' Hold high the great red banner of Mao Zedong Thought.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1069679>http://search.socialhistory.org/Record/1069679</a><br/> 245   Chedi pipan Shanghai shiquxian gongyeju zichan jieji fandong luxian shishi dahui.  Beelddocument = Visual document. <br>260   1967, February  (S.l :  s.n.) <br>300   75x54 cm. <br>500   'Thorougly criticize the bureaus of industry of the Shanghai city, region and district and the reactionary line of the capitalist class. Oath taking rally.' Hold high the great red banner of Mao Zedong Thought. <br>648   1967-1967.  (NL-AMISG)366216 <br>650   Anti-capitalism.  (NL-AMISG)9493 <br>651   China.  (NL-AMISG)81989 <br>655   Poster.  (NL-AMISG)3248 <br>695   EAS  China <br>710   Shanghai Worker's Revolutionary Rebel General Headquarters.  (NL-AMISG)466209 <br>740   Thorougly criticize the bureaus of industry of the Shanghai city, region and district and the reactionary line of the capitalist class. Oath taking rally. <br>856   http://hdl.handle.net/10622/30051001500930 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001500930#image.jpg",
+                    "credit":"1069679",
+                    "caption":"'Thorougly criticize the bureaus of industry of the Shanghai city, region and district and the reactionary line of the capitalist class. Oath taking rally.' Hold high the great red banner of Mao Zedong Thought."
+                }
+            },
+
+            {
+                "startDate":"1966",
+                                "endDate":"1966",
+                "headline":"'The People's Liberation Army is the pillar of proletarian dictatorship.'",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1070162>http://search.socialhistory.org/Record/1070162</a><br/> 245   Renmin jiefangjun shi wuchan jieji zhuanzhengde zhushi.  Beelddocument = Visual document. <br>260   (Ca. 1967)  (S.l. :  Jiangsu renmin chubanshe) <br>300   78x53 cm. <br>500   'The People's Liberation Army is the pillar of proletarian dictatorship.' <br>648   1966-1969.  (NL-AMISG)366213 <br>651   China.  (NL-AMISG)81989 <br>655   Poster.  (NL-AMISG)3248 <br>695   EAS  China <br>710   Nanjing Worker's Art Rebel Unit.  (NL-AMISG)466281 <br>740   The People's Liberation Army is the pillar of proletarian dictatorship. <br>856   http://hdl.handle.net/10622/30051001501276 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001501276#image.jpg",
+                    "credit":"1070162",
+                    "caption":"'The People's Liberation Army is the pillar of proletarian dictatorship.'"
+                }
+            },
+
+            {
+                "startDate":"1950",
+                                "endDate":"1950",
+                "headline":"Sun Jingbo,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1071479>http://search.socialhistory.org/Record/1071479</a><br/> 245   Yao wendou, bu yao wudou!  Beelddocument = Visual document. <br>260   1967  (S.l. :  s.n.) <br>300   77x54 cm. <br>500   'Struggle with words, not with weapons!'. <br>648   1950-1974.  (NL-AMISG)364548 <br>651   China.  (NL-AMISG)81989 <br>655   Poster.  (NL-AMISG)3248 <br>695   EAS  China. <br>710   United militant group for literature (Yunnan)  (NL-AMISG)323787 <br>710   Red colour fine arts rebels (Yunnan)  (NL-AMISG)545761 <br>856   http://hdl.handle.net/10622/30051001403432 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001403432#image.jpg",
+                    "credit":"1071479",
+                    "caption":"Sun Jingbo,"
+                }
+            },
+
+            {
+                "startDate":"1965",
+                                "endDate":"1965",
+                "headline":"Liu Shaoqi. Deng Xiaoping. Peng Zhen. Wang Guangmei. Lu Dingyi. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1072930>http://search.socialhistory.org/Record/1072930</a><br/> 245   Mao zhuxide geming luxian shengli wansui!  Beelddocument = Visual document. <br>260   (Ca.1966)  (S.l. :  s.n.) <br>300   77x54 cm. <br>500   'Long live the victory of Chairman Mao's revolutionary line!' Printno. T8087.2004. <br>648   1965-1968.  (NL-AMISG)366204 <br>650   Caricature.  (NL-AMISG)306037 <br>651   China.  (NL-AMISG)81989 <br>655   Poster.  (NL-AMISG)3248 <br>694   Landsberger, S.  BG E15/310 <br>695   EAS  China <br>700   Landsberger, Stefan R.  collector.  (NL-AMISG)2000344 <br>710   Liaison Station of the Red Revolutionary Rebels of the National Art World.  (NL-AMISG)466585 <br>740   Long live the victory of Chairman Mao's revolutionary line! <br>856   http://hdl.handle.net/10622/30051001503934 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001503934#image.jpg",
+                    "credit":"1072930",
+                    "caption":"Liu Shaoqi. Deng Xiaoping. Peng Zhen. Wang Guangmei. Lu Dingyi. "
+                }
+            },
+
+            {
+                "startDate":"1975",
+                                "endDate":"1975",
+                "headline":"Malcolm X. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1074260>http://search.socialhistory.org/Record/1074260</a><br/> 245   Beelddocument = Visual document. <br>500   Vel met originele tekeningen voor stickers van Rebel. <br>648   1975-1999.  (NL-AMISG)366946 <br>650   Portrait.  (NL-AMISG)306035 <br>650   Women.  (NL-AMISG)264172 <br>650   Racial discrimination.  (NL-AMISG)208187 <br>650   Subscriber canvassing.  (NL-AMISG)1359 <br>651   Netherlands.  (NL-AMISG)569282 <br>655   Drawing.  (NL-AMISG)269282 <br>694   SAP  BG H13/262 <br>695   NED  Nederland. <br>710   Rebel.  (NL-AMISG)246411 <br>710   Socialistiese Arbeiderspartij,  collector.  (NL-AMISG)574066 <br>856   http://hdl.handle.net/10622/30051001404521 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001404521#image.jpg",
+                    "credit":"1074260",
+                    "caption":"Malcolm X. "
+                }
+            }
+
+		]
+    }
+}
+

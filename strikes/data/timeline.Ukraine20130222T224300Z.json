@@ -1,0 +1,221 @@
+{
+    "timeline":
+    {
+        "headline":"Posters Visual Timeline",
+        "type":"default",
+                "text":"Evergreen Timeline Application",
+                "startDate":"2012,2,05",
+        "date": [
+		
+            {
+                "startDate":"(Ca. 1926)",
+                                "endDate":"(Ca. 1926)",
+                "headline":"Schwartzbard, Sholem. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/714296>http://search.socialhistory.org/Record/714296</a><br/> 245   Beelddocument = Visual document. <br>260   (Ca. 1926) <br>500   From: Wiener Arbeiter Zeitung, 30-5-1926. Text on front: 'Schulim Schwarzbart erschoss in Paris aus politischen Motiven den Ukrainer Petljura'. <br>650   Portrait.  (NL-AMISG)306035 <br>655   Half-tone photo.  (NL-AMISG)244771 <br>856   http://hdl.handle.net/10622/30051000157294 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000157294#image.jpg",
+                    "credit":"714296",
+                    "caption":"Schwartzbard, Sholem. "
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1253009>http://search.socialhistory.org/Record/1253009</a><br/> 245   Beelddocument = Visual document. <br>650   Environment protection.  (NL-AMISG)158032 <br>651   Ukraine.  (NL-AMISG)327277 <br>655   Button.  (NL-AMISG)56807 <br>655   Badge.  (NL-AMISG)238844 <br>694   Milieukontakt Oost-Europa  BG AA6/578 <br>695   USR  Ukraina <br>710   Milieukontakt Oost-Europa,  collector.  (NL-AMISG)573947 <br>856   http://hdl.handle.net/10622/30051002169800 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051002169800#image.jpg",
+                    "credit":"1253009",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"1942",
+                                "endDate":"1942",
+                "headline":"Rosenberg, Alfred. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/781110>http://search.socialhistory.org/Record/781110</a><br/> 245    Beelddocument = Visual document. <br>260    1942, June. <br>500    Rosenberg (white blazer, dark trousers) shakes hands with the collaborators of the Reichskommissariat Ukraine and the Einsatzstab Reichsleiter Rosenberg. <br>610    Reichskommissariat Ukraine (Kiev)  (NL-AMISG)270155 <br>610    Einsatzstab Reichsleiter Rosenberg (Kiev)  (NL-AMISG)87375 <br>648    1942-1942.  (NL-AMISG)364494 <br>650    Group portrait.  (NL-AMISG)112454 <br>651    Kiev. (Russia)  (NL-AMISG)327076 <br>651    Germany.  (NL-AMISG)112722 <br>655    Photo.  (NL-AMISG)121213 <br>695    USR  Kiev. <br>695    GER. <br>856    http://hdl.handle.net/10622/30051000602471 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000602471#image.jpg",
+                    "credit":"781110",
+                    "caption":"Rosenberg, Alfred. "
+                }
+            },
+
+            {
+                "startDate":"1931",
+                                "endDate":"1931",
+                "headline":"Hahn, Albert,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1277032>http://search.socialhistory.org/Record/1277032</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051003009195#image.jpg",
+                    "credit":"1277032",
+                    "caption":"Hahn, Albert,"
+                }
+            },
+
+            {
+                "startDate":"1936",
+                                "endDate":"1936",
+                "headline":"Les kolkhoziens juifs de l'Ukraine sovi&#xE9;tique: Les 'inspecteurs de la qualit&#xE9; du travail' du kolkhoz 'Combine' (rayon Stalindorf) se rendent en auto aux champs. Copied from collection CNT.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/778956>http://search.socialhistory.org/Record/778956</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000601820#image.jpg",
+                    "credit":"778956",
+                    "caption":"Les kolkhoziens juifs de l'Ukraine sovi&#xE9;tique: Les 'inspecteurs de la qualit&#xE9; du travail' du kolkhoz 'Combine' (rayon Stalindorf) se rendent en auto aux champs. Copied from collection CNT."
+                }
+            },
+
+            {
+                "startDate":"1936",
+                                "endDate":"1936",
+                "headline":"Dreyzer, Lipmann. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/778980>http://search.socialhistory.org/Record/778980</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000601978#image.jpg",
+                    "credit":"778980",
+                    "caption":"Dreyzer, Lipmann. "
+                }
+            },
+
+            {
+                "startDate":"1936",
+                                "endDate":"1936",
+                "headline":"Sterrenberg, ...,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/779023>http://search.socialhistory.org/Record/779023</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000602083#image.jpg",
+                    "credit":"779023",
+                    "caption":"Sterrenberg, ...,"
+                }
+            },
+
+            {
+                "startDate":"1936",
+                                "endDate":"1936",
+                "headline":"Sterrenberg, ...,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/779548>http://search.socialhistory.org/Record/779548</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000601721#image.jpg",
+                    "credit":"779548",
+                    "caption":"Sterrenberg, ...,"
+                }
+            },
+
+            {
+                "startDate":"1942",
+                                "endDate":"1942",
+                "headline":"Rosenberg, Alfred. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/781179>http://search.socialhistory.org/Record/781179</a><br/> 245    Beelddocument = Visual document. <br>260    1942, June. <br>500    Rosenberg (marching at the right) with a formation of collaborators of the Reichskommissariat Ukraine and the Einsatzstab. <br>610    Reichskommissariat Ukraine (Kiev)  (NL-AMISG)270155 <br>610    Einsatzstab Reichsleiter Rosenberg (Kiev)  (NL-AMISG)87375 <br>648    1942-1942.  (NL-AMISG)364494 <br>650    Group portrait.  (NL-AMISG)112454 <br>651    Kiev. (Russia)  (NL-AMISG)327076 <br>651    Germany.  (NL-AMISG)112722 <br>655    Photo.  (NL-AMISG)121213 <br>695    USR  Kiev. <br>695    GER. <br>856    http://hdl.handle.net/10622/30051000617958 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000617958#image.jpg",
+                    "credit":"781179",
+                    "caption":"Rosenberg, Alfred. "
+                }
+            },
+
+            {
+                "startDate":"(1942?)",
+                                "endDate":"(1942?)",
+                "headline":"Anton, ... ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/781534>http://search.socialhistory.org/Record/781534</a><br/> 245    Beelddocument = Visual document. <br>260    (1942?) <br>500    Hauptarbeitsgruppenleiter Ukraine. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Photo.  (NL-AMISG)121213 <br>856    http://hdl.handle.net/10622/30051000618709 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000618709#image.jpg",
+                    "credit":"781534",
+                    "caption":"Anton, ... "
+                }
+            },
+
+            {
+                "startDate":"1921.",
+                                "endDate":"1921.",
+                "headline":"Voro&#x161;ilov, Kliment Efremovi&#x10D;. Budennyj, Semen Michajlovi&#x10D;. Frunze, Michail Vasil'evi&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/792668>http://search.socialhistory.org/Record/792668</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000688132#image.jpg",
+                    "credit":"792668",
+                    "caption":"Voro&#x161;ilov, Kliment Efremovi&#x10D;. Budennyj, Semen Michajlovi&#x10D;. Frunze, Michail Vasil'evi&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"1939",
+                                "endDate":"1939",
+                "headline":"Eine polnische Postkarte (1938) propagiert die Eingliederung Litauens, der ehemaligen Tschecho-Slowakei, der Ukraine und Ostpreussen.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/799091>http://search.socialhistory.org/Record/799091</a><br/> 245    Beelddocument = Visual document. <br>260    1939, August. <br>500    Eine polnische Postkarte (1938) propagiert die Eingliederung Litauens, der ehemaligen Tschecho-Slowakei, der Ukraine und Ostpreussen. <br>540    Weltbild. <br>648    1939-1939.  (NL-AMISG)362638 <br>650    Border disputes.  (NL-AMISG)95093 <br>651    Poland.  (NL-AMISG)243474 <br>655    Photo.  (NL-AMISG)121213 <br>694    Wissel  BG A47/147 <br>695    POL  Poland. <br>700    Roelfsema-van der Wissel, H.G.  collector.  (NL-AMISG)2000525 <br>710    Weltbild (Berlin)  (NL-AMISG)357049 <br>856    http://hdl.handle.net/10622/30051000642097 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000642097#image.jpg",
+                    "credit":"799091",
+                    "caption":"Eine polnische Postkarte (1938) propagiert die Eingliederung Litauens, der ehemaligen Tschecho-Slowakei, der Ukraine und Ostpreussen."
+                }
+            },
+
+            {
+                "startDate":"1950",
+                                "endDate":"1950",
+                "headline":"The building under construction is either the Ministry of Foreign Affairs (ready in 1952) or the Ukraine Hotel (ready in 1948).",
+                "text":"<p><a href=http://search.socialhistory.org/Record/911187>http://search.socialhistory.org/Record/911187</a><br/> 245   Beelddocument = Visual document. <br>260   (Ca. 1951) <br>300   122x86 cm. <br>500   The building under construction is either the Ministry of Foreign Affairs (ready in 1952) or the Ukraine Hotel (ready in 1948). <br>648   1950-1952.  (NL-AMISG)364541 <br>650   Buildings.  (NL-AMISG)96201 <br>651   Moskva. (Russia)  (NL-AMISG)327202 <br>655   Poster.  (NL-AMISG)3248 <br>695   USR  Moskva. <br>856   http://hdl.handle.net/10622/30051000787397 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000787397#image.jpg",
+                    "credit":"911187",
+                    "caption":"The building under construction is either the Ministry of Foreign Affairs (ready in 1952) or the Ukraine Hotel (ready in 1948)."
+                }
+            },
+
+            {
+                "startDate":"1936",
+                                "endDate":"1936",
+                "headline":"Sterrenberg, ...,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/779011>http://search.socialhistory.org/Record/779011</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000601770#image.jpg",
+                    "credit":"779011",
+                    "caption":"Sterrenberg, ...,"
+                }
+            },
+
+            {
+                "startDate":"1900",
+                                "endDate":"1900",
+                "headline":"",
+                "text":"<p><a href=http://search.socialhistory.org/Record/829302>http://search.socialhistory.org/Record/829302</a><br/> 245   Beelddocument = Visual document. <br>300   48x37 cm. <br>648   1900-1924.  (NL-AMISG)358689 <br>651   Ukraine.  (NL-AMISG)327277 <br>655   Poster.  (NL-AMISG)3248 <br>695   USR  Ukraina. <br>856   http://hdl.handle.net/10622/30051001100210 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001100210#image.jpg",
+                    "credit":"829302",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"1975",
+                                "endDate":"1975",
+                "headline":"Traa, Maarten van. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/1129930>http://search.socialhistory.org/Record/1129930</a><br/> 245   Beelddocument = Visual document. <br>500   Diverse herinneringspenningen t.g.v. werkbezoeken aan diverse buitenlandse regeringen. Afkomstig uit archief Van Traa. <br>648   1975-1999.  (NL-AMISG)366946 <br>650   Biographica.  (NL-AMISG)306042 <br>650   Foreign relations.  (NL-AMISG)33675 <br>651   Poland.  (NL-AMISG)243474 <br>651   France.  (NL-AMISG)127741 <br>651   Hungary.  (NL-AMISG)149676 <br>651   Turkey.  (NL-AMISG)316037 <br>651   Russia.  (NL-AMISG)301113 <br>651   Ukraine.  (NL-AMISG)327277 <br>655   Medal.  (NL-AMISG)187838 <br>694   Traa, M. van  BG K21/754-763 <br>695   POL  Poland <br>695   FRA  France <br>695   HUN  Hungary <br>695   TUR  Turkey <br>695   USR  Russia <br>695   USR  Ukraina <br>700   Traa, Maarten van,  collector.  (NL-AMISG)2000655 <br>856   http://hdl.handle.net/10622/30051001874541 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001874541#image.jpg",
+                    "credit":"1129930",
+                    "caption":"Traa, Maarten van. "
+                }
+            }
+
+		]
+    }
+}
+

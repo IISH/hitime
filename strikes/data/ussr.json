@@ -1,0 +1,663 @@
+{
+    "timeline":
+    {
+        "headline":"Posters Visual Timeline",
+        "type":"default",
+                "text":"USSR Timeline Application",
+                "startDate":"2012,2,05",
+        "date": [
+		
+            {
+                "startDate":"630669",
+                                "endDate":"630669",
+                "headline":"Kovtjuch, E.I. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/630669>http://search.socialhistory.org/Record/630669</a><br/> 245    Beelddocument = Visual document. <br>260    (Moskva :  Izobrazitel'noe iskusstvo,  1980) <br>500    See also: BG USSR-Revolution 1917. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Painting.  (NL-AMISG)224931 <br>856    http://hdl.handle.net/10622/30051000086899 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000086899#image.jpg",
+                    "credit":"630669",
+                    "caption":"Kovtjuch, E.I. "
+                }
+            },
+
+            {
+                "startDate":"1957",
+                                "endDate":"1957",
+                "headline":"Zjoekov, Georgi Konstantinovitsj. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/730228>http://search.socialhistory.org/Record/730228</a><br/> 245    Beelddocument = Visual document. <br>260    1957, 9 november  (Amsterdam :  De Groene Amsterdammer,  1957) <br>300    16x12 cm. <br>500    Tekening bij hekeldicht van Evert Werkman (Joost) op Georgi Zjoekov. <br>648    1957-1957.  (NL-AMISG)365665 <br>650    Caricature.  (NL-AMISG)306037 <br>651    USSR.  (NL-AMISG)255113 <br>655    Drawing.  (NL-AMISG)269282 <br>694    Metz, L.  BG PM2/14-183 <br>695    USR  USSR <br>700    Metz, Lex,  collector.  (NL-AMISG)2000404 <br>856    http://hdl.handle.net/10622/30051003022669 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051003022669#image.jpg",
+                    "credit":"730228",
+                    "caption":"Zjoekov, Georgi Konstantinovitsj. "
+                }
+            },
+
+            {
+                "startDate":"1960",
+                                "endDate":"1960",
+                "headline":"Chru&#x161;&#x10D;ev, Nikita Sergeevi&#x10D; ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/730449>http://search.socialhistory.org/Record/730449</a><br/> 245    Beelddocument = Visual document. <br>260    1960, 19 maart  (Amsterdam :  De Groene Amsterdammer,  1960) <br>300    17x20 cm. <br>500    Tekening bij hekeldicht van Evert Werkman op Chroesjtjow. <br>648    1960-1960.  (NL-AMISG)365685 <br>650    Caricature.  (NL-AMISG)306037 <br>651    USSR.  (NL-AMISG)255113 <br>655    Drawing.  (NL-AMISG)269282 <br>694    Metz, L.  BG PM2/15-35 <br>695    USR  USSR <br>700    Metz, Lex,  collector.  (NL-AMISG)2000404 <br>856    http://hdl.handle.net/10622/30051003023774 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051003023774#image.jpg",
+                    "credit":"730449",
+                    "caption":"Chru&#x161;&#x10D;ev, Nikita Sergeevi&#x10D; "
+                }
+            },
+
+            {
+                "startDate":"1959",
+                                "endDate":"1959",
+                "headline":"Metz, Lex,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/730600>http://search.socialhistory.org/Record/730600</a><br/> 245    Beelddocument = Visual document. <br>260    1959, 8 augustus  (Amsterdam :  De Groene Amsterdammer,  1959) <br>300    19x15 cm. <br>500    Tekening bij hekeldicht van Evert Werkman (Joost) op de uitnodiging van Eisenhower aan Chroesjtjow. <br>648    1959-1959.  (NL-AMISG)365678 <br>650    Foreign relations.  (NL-AMISG)33675 <br>651    United States of America.  (NL-AMISG)326538 <br>651    USSR.  (NL-AMISG)255113 <br>655    Drawing.  (NL-AMISG)269282 <br>694    Metz, L.  BG PM2/15-99 <br>695    USA  United States of America <br>695    USR  USSR <br>700    Metz, Lex,  collector.  (NL-AMISG)2000404 <br>856    http://hdl.handle.net/10622/30051003024517 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051003024517#image.jpg",
+                    "credit":"730600",
+                    "caption":"Metz, Lex,"
+                }
+            },
+
+            {
+                "startDate":"1962",
+                                "endDate":"1962",
+                "headline":"Chru&#x161;&#x10D;ev, Nikita Sergeevi&#x10D; Kennedy, John Fitzgerald. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/730697>http://search.socialhistory.org/Record/730697</a><br/> 245    Beelddocument = Visual document. <br>260    1962, 28 juli  (Amsterdam :  De Groene Amsterdammer,  1962) <br>300    20x15 cm. <br>500    Tekening bij hekeldicht van Evert Werkman (Joost) op Chroesjtjow (links) en Kennedy (rechts). <br>648    1962-1962.  (NL-AMISG)462119 <br>650    Caricature.  (NL-AMISG)306037 <br>650    Defence policy.  (NL-AMISG)60084 <br>651    United States of America.  (NL-AMISG)326538 <br>651    USSR.  (NL-AMISG)255113 <br>655    Drawing.  (NL-AMISG)269282 <br>694    Metz, L.  BG PM2/15-139 <br>695    USA  United States of America <br>695    USR  USSR <br>700    Metz, Lex,  collector.  (NL-AMISG)2000404 <br>856    http://hdl.handle.net/10622/30051003025415 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051003025415#image.jpg",
+                    "credit":"730697",
+                    "caption":"Chru&#x161;&#x10D;ev, Nikita Sergeevi&#x10D; Kennedy, John Fitzgerald. "
+                }
+            },
+
+            {
+                "startDate":"1925",
+                                "endDate":"1925",
+                "headline":"The building of the Central Committee of the USSR.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/773474>http://search.socialhistory.org/Record/773474</a><br/> 245    Beelddocument = Visual document. <br>500    The building of the Central Committee of the USSR. <br>540    Sojuzfoto. <br>610    SSSR.  Central'nyj komitet.  (NL-AMISG)330646 <br>648    1925-1949.  (NL-AMISG)360599 <br>650    Buildings.  (NL-AMISG)96201 <br>651    Moskva. (Russia)  (NL-AMISG)327202 <br>655    Photo.  (NL-AMISG)121213 <br>695    USR  Moskva. <br>710    Sojuzfoto (Moskva)  (NL-AMISG)322563 <br>856    http://hdl.handle.net/10622/30051000593639 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000593639#image.jpg",
+                    "credit":"773474",
+                    "caption":"The building of the Central Committee of the USSR."
+                }
+            },
+
+            {
+                "startDate":"1990",
+                                "endDate":"1990",
+                "headline":"Kruijf, Co de,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/777693>http://search.socialhistory.org/Record/777693</a><br/> 245    Beelddocument = Visual document. <br>260    1990, July. <br>500    Men showing their new old-fashioned Georgian passports are on hunger-strike against the KGB's activities in Georgia. Series of 2 photos. <br>540    Co de Kruijf. <br>610    KGB (USSR).  (NL-AMISG)163904 <br>648    1990-1990.  (NL-AMISG)369914 <br>650    Independence.  (NL-AMISG)175021 <br>651    Gruzija. (Russia)  (NL-AMISG)327054 <br>655    Photo.  (NL-AMISG)121213 <br>695    USR  Gruzija. <br>856    http://hdl.handle.net/10622/30051000600624 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000600624#image.jpg",
+                    "credit":"777693",
+                    "caption":"Kruijf, Co de,"
+                }
+            },
+
+            {
+                "startDate":"1925",
+                                "endDate":"1925",
+                "headline":"Kogan, David. Achtyrskij, ... ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/625042>http://search.socialhistory.org/Record/625042</a><br/> 245    Beelddocument = Visual document. <br>260    (Berlin :  F. Kater) <br>500    Photo taken at the funeral of Kropotkin. See also BG A7/665 and BG A7/886. <br>648    1925-1949.  (NL-AMISG)360599 <br>650    Portrait.  (NL-AMISG)306035 <br>650    Biographica.  (NL-AMISG)306042 <br>651    Germany.  (NL-AMISG)112722 <br>655    Small printed matter.  (NL-AMISG)463652 <br>694    Abad de Santill&amp;#xa0;n, D.  BG A7/666 <br>695    GER. <br>710    Joint Committee for the Defense of revolutionists imprisoned in Russia (Berlin)  (NL-AMISG)162015 <br>711    Campaign on the USSR.  (NL-AMISG)37407 <br>856    http://hdl.handle.net/10622/30051000090156 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000090156#image.jpg",
+                    "credit":"625042",
+                    "caption":"Kogan, David. Achtyrskij, ... "
+                }
+            },
+
+            {
+                "startDate":"630653",
+                                "endDate":"630653",
+                "headline":"Kotovskij, Grigorij Ivanovi&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/630653>http://search.socialhistory.org/Record/630653</a><br/> 245    Beelddocument = Visual document. <br>260    (Moskva :  Izobrazitel'noe iskusstvo,  1980) <br>500    See also: BG USSR-Revolution 1917. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Painting.  (NL-AMISG)224931 <br>856    http://hdl.handle.net/10622/30051000087038 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000087038#image.jpg",
+                    "credit":"630653",
+                    "caption":"Kotovskij, Grigorij Ivanovi&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"1925",
+                                "endDate":"1925",
+                "headline":"Copy from collection of: IML-Berlin, IV-9-B 1.60.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/698370>http://search.socialhistory.org/Record/698370</a><br/> 245   Beelddocument = Visual document. <br>260   (1928-1932?) <br>500   Copy from collection of: IML-Berlin, IV-9-B 1.60. <br>648   1925-1949.  (NL-AMISG)360599 <br>651   Germany.  (NL-AMISG)112722 <br>655   Photo.  (NL-AMISG)121213 <br>655   Montage.  (NL-AMISG)161117 <br>695   GER. <br>710   KPD.  (NL-AMISG)133091 <br>711   Campaign on the USSR.  (NL-AMISG)37407 <br>856   http://hdl.handle.net/10622/30051000253531 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000253531#image.jpg",
+                    "credit":"698370",
+                    "caption":"Copy from collection of: IML-Berlin, IV-9-B 1.60."
+                }
+            },
+
+            {
+                "startDate":"1953",
+                                "endDate":"1953",
+                "headline":"Wolf, Hans,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/723829>http://search.socialhistory.org/Record/723829</a><br/> 245   Beelddocument = Visual document. <br>260   1953, oktober. <br>500   In de Doelenzaal. Serie van 5 foto's. <br>540   Hans Wolf. <br>610   Vereniging Nederland-USSR (Amsterdam)  (NL-AMISG)337205 <br>611   Actie Sovjet-Unie.  (1953 :  Amsterdam)  (NL-AMISG)2584 <br>611   Maand van vrede en vriendschap met de Sowjet-Unie.  (1953 :  Amsterdam)  (NL-AMISG)204765 <br>648   1953-1953.  (NL-AMISG)365635 <br>650   Exhibitions.  (NL-AMISG)269762 <br>651   Netherlands.  (NL-AMISG)569282 <br>655   Photo.  (NL-AMISG)121213 <br>695   NED  Nederland. <br>856   http://hdl.handle.net/10622/30051000237260 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000237260#image.jpg",
+                    "credit":"723829",
+                    "caption":"Wolf, Hans,"
+                }
+            },
+
+            {
+                "startDate":"1975",
+                                "endDate":"1975",
+                "headline":"Building of the USSR's government. A conference hall of the Council of Ministers.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/778819>http://search.socialhistory.org/Record/778819</a><br/> 245   Beelddocument = Visual document. <br>500   Building of the USSR's government. A conference hall of the Council of Ministers. <br>610   SSSR.  Verchovnyj Sovet.  Sovet Ministrov.  (NL-AMISG)330672 <br>648   1975-1999.  (NL-AMISG)366946 <br>650   Buildings.  (NL-AMISG)96201 <br>651   Moskva. (Russia)  (NL-AMISG)327202 <br>655   Photo.  (NL-AMISG)121213 <br>695   USR  Moskva. <br>856   http://hdl.handle.net/10622/30051000602026 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000602026#image.jpg",
+                    "credit":"778819",
+                    "caption":"Building of the USSR's government. A conference hall of the Council of Ministers."
+                }
+            },
+
+            {
+                "startDate":"1972",
+                                "endDate":"1972",
+                "headline":"Lenin, Vladimir Il'i&#x10D;. Stalin, Iosif Vissarionovi&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/783266>http://search.socialhistory.org/Record/783266</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001111035#image.jpg",
+                    "credit":"783266",
+                    "caption":"Lenin, Vladimir Il'i&#x10D;. Stalin, Iosif Vissarionovi&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"1973",
+                                "endDate":"1973",
+                "headline":"Galanskov, Jurij Timofeevi&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/805321>http://search.socialhistory.org/Record/805321</a><br/> 245   Beelddocument = Visual document. <br>260   (Ca.1975)  (S.l. :  s.n.,  [1975?]) <br>300   43.5x30.5 cm. <br>648   1973-1978.  (NL-AMISG)366953 <br>650   Biographica.  (NL-AMISG)306042 <br>651   Federal Republic of Germany.  (NL-AMISG)90660 <br>655   Poster.  (NL-AMISG)3248 <br>695   GER  Federal Republic of Germany. <br>711   Campaign on the USSR.  (1975)  (NL-AMISG)399604 <br>856   http://hdl.handle.net/10622/30051001123451 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001123451#image.jpg",
+                    "credit":"805321",
+                    "caption":"Galanskov, Jurij Timofeevi&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"1928",
+                                "endDate":"1928",
+                "headline":"Copy from collection of: IML-Berlin, IV-8-B 5.10.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/699518>http://search.socialhistory.org/Record/699518</a><br/> 245   Beelddocument = Visual document. <br>260   1928. <br>500   Copy from collection of: IML-Berlin, IV-8-B 5.10. <br>611   KJVD.  Reichsjugendtag  (1928 :  Chemnitz)  (NL-AMISG)178789 <br>611   Campaign on the USSR.  (1928 :  Chemnitz)  (NL-AMISG)37469 <br>648   1928-1928.  (NL-AMISG)360627 <br>651   Chemnitz. (Germany)  (NL-AMISG)110919 <br>655   Photo.  (NL-AMISG)121213 <br>695   GER  Chemnitz. <br>856   http://hdl.handle.net/10622/30051000264017 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000264017#image.jpg",
+                    "credit":"699518",
+                    "caption":"Copy from collection of: IML-Berlin, IV-8-B 5.10."
+                }
+            },
+
+            {
+                "startDate":"1927",
+                                "endDate":"1927",
+                "headline":"Copy from collection of: IML-Berlin, IV-8-B 7.121.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/699551>http://search.socialhistory.org/Record/699551</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000263811#image.jpg",
+                    "credit":"699551",
+                    "caption":"Copy from collection of: IML-Berlin, IV-8-B 7.121."
+                }
+            },
+
+            {
+                "startDate":"1952",
+                                "endDate":"1952",
+                "headline":"Kruger, Dolf,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/723344>http://search.socialhistory.org/Record/723344</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000237518#image.jpg",
+                    "credit":"723344",
+                    "caption":"Kruger, Dolf,"
+                }
+            },
+
+            {
+                "startDate":"1953",
+                                "endDate":"1953",
+                "headline":"Stalin, Iosif Vissarionovi&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/723822>http://search.socialhistory.org/Record/723822</a><br/> 245   Beelddocument = Visual document. <br>260   1953, maart. <br>500   Rouwkamer in het gebouw van de vereniging aan het Frederiksplein. Serie van drie foto's. <br>540   Hans Wolf. <br>610   Vereniging Nederland-USSR (Amsterdam)  (NL-AMISG)337205 <br>648   1953-1953.  (NL-AMISG)365635 <br>650   Biographica.  (NL-AMISG)306042 <br>651   Amsterdam. (Netherlands)  (NL-AMISG)572941 <br>655   Photo.  (NL-AMISG)121213 <br>695   NED  Amsterdam. <br>856   http://hdl.handle.net/10622/30051000237369 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000237369#image.jpg",
+                    "credit":"723822",
+                    "caption":"Stalin, Iosif Vissarionovi&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"1954",
+                                "endDate":"1954",
+                "headline":"Wolf, Hans,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/723837>http://search.socialhistory.org/Record/723837</a><br/> 245   Beelddocument = Visual document. <br>260   1954. <br>500   Nieuwjaarsfeest in Bellevue. Serie van drie foto's. <br>540   Hans Wolf. <br>610   Vereniging Nederland-USSR (Amsterdam)  (NL-AMISG)337205 <br>648   1954-1954.  (NL-AMISG)365643 <br>651   Amsterdam. (Netherlands)  (NL-AMISG)572941 <br>655   Photo.  (NL-AMISG)121213 <br>695   NED  Amsterdam. <br>856   http://hdl.handle.net/10622/30051000237161 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000237161#image.jpg",
+                    "credit":"723837",
+                    "caption":"Wolf, Hans,"
+                }
+            },
+
+            {
+                "startDate":"1953, April 27.",
+                                "endDate":"1953, April 27.",
+                "headline":"Vinogradov, ... Auriol, Vincent. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/725280>http://search.socialhistory.org/Record/725280</a><br/> 245    Beelddocument = Visual document. <br>260    1953, April 27. <br>500    The new ambassador of th USSR in Paris offering his credentials to president Aurion. Text on the back. <br>540    Keystone. <br>650    Group portrait.  (NL-AMISG)112454 <br>655    Photo.  (NL-AMISG)121213 <br>710    Keystone (Paris)  (NL-AMISG)176243 <br>856    http://hdl.handle.net/10622/30051000179959 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000179959#image.jpg",
+                    "credit":"725280",
+                    "caption":"Vinogradov, ... Auriol, Vincent. "
+                }
+            },
+
+            {
+                "startDate":"1949",
+                                "endDate":"1949",
+                "headline":"Stalin, Iosif Vissarionovi&#x10D;. Vries, Theun de. Vetrov, ... ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/725967>http://search.socialhistory.org/Record/725967</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000237419#image.jpg",
+                    "credit":"725967",
+                    "caption":"Stalin, Iosif Vissarionovi&#x10D;. Vries, Theun de. Vetrov, ... "
+                }
+            },
+
+            {
+                "startDate":"1949",
+                                "endDate":"1949",
+                "headline":"Vries, Theun de. Stalin, Iosif Vissarionovi&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/725976>http://search.socialhistory.org/Record/725976</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000237468#image.jpg",
+                    "credit":"725976",
+                    "caption":"Vries, Theun de. Stalin, Iosif Vissarionovi&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"1957",
+                                "endDate":"1957",
+                "headline":"Metz, Lex,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/730226>http://search.socialhistory.org/Record/730226</a><br/> 245    Beelddocument = Visual document. <br>260    1957, 26 oktober  (Amsterdam :  De Groene Amsterdammer,  1957) <br>300    15x11 cm. <br>500    Tekening bij hekeldicht van Evert Werkman (Joost) op de ruimtevaart. <br>648    1957-1957.  (NL-AMISG)365665 <br>650    Space travel.  (NL-AMISG)220986 <br>651    International.  (NL-AMISG)144624 <br>651    United States of America.  (NL-AMISG)326538 <br>651    USSR.  (NL-AMISG)255113 <br>655    Drawing.  (NL-AMISG)269282 <br>694    Metz, L.  BG PM2/14-181 <br>695    INT <br>695    USA  United States of America <br>695    USR  USSR <br>700    Metz, Lex,  collector.  (NL-AMISG)2000404 <br>856    http://hdl.handle.net/10622/30051003022701 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051003022701#image.jpg",
+                    "credit":"730226",
+                    "caption":"Metz, Lex,"
+                }
+            },
+
+            {
+                "startDate":"1958",
+                                "endDate":"1958",
+                "headline":"Pasternak, Boris Leonidovi&#x10D; ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/730315>http://search.socialhistory.org/Record/730315</a><br/> 245    Beelddocument = Visual document. <br>260    1958, 8 november  (Amsterdam :  De Groene Amsterdammer,  1958) <br>300    25x17 cm. <br>500    Tekening bij gedicht van Evert Werkman (Joost) op Boris Pasternak. <br>648    1958-1958.  (NL-AMISG)365671 <br>650    Caricature.  (NL-AMISG)306037 <br>651    USSR.  (NL-AMISG)255113 <br>655    Drawing.  (NL-AMISG)269282 <br>694    Metz, L.  BG PM2/14-217 <br>695    USR  USSR <br>700    Metz, Lex,  collector.  (NL-AMISG)2000404 <br>856    http://hdl.handle.net/10622/30051003023386 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051003023386#image.jpg",
+                    "credit":"730315",
+                    "caption":"Pasternak, Boris Leonidovi&#x10D; "
+                }
+            },
+
+            {
+                "startDate":"1961",
+                                "endDate":"1961",
+                "headline":"Kennedy, John Fitzgerald. Chru&#x161;&#x10D;ev, Nikita Sergeevi&#x10D; ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/730404>http://search.socialhistory.org/Record/730404</a><br/> 245    Beelddocument = Visual document. <br>260    1961, 22 juli  (Amsterdam :  De Groene Amsterdammer,  1961) <br>300    16x19 cm. <br>500    Tekening bij hekeldicht van Evert Werkman op Kennedy (links) en Chroesjtsjov (rechts). <br>648    1961-1961.  (NL-AMISG)366173 <br>650    Caricature.  (NL-AMISG)306037 <br>651    United States of America.  (NL-AMISG)326538 <br>651    USSR.  (NL-AMISG)255113 <br>655    Drawing.  (NL-AMISG)269282 <br>694    Metz, L.  BG PM2/15-6 <br>695    USA  United States of America <br>695    USR  USSR <br>700    Metz, Lex,  collector.  (NL-AMISG)2000404 <br>856    http://hdl.handle.net/10622/30051003024061 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051003024061#image.jpg",
+                    "credit":"730404",
+                    "caption":"Kennedy, John Fitzgerald. Chru&#x161;&#x10D;ev, Nikita Sergeevi&#x10D; "
+                }
+            },
+
+            {
+                "startDate":"1961",
+                                "endDate":"1961",
+                "headline":"Metz, Lex,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/730417>http://search.socialhistory.org/Record/730417</a><br/> 245    Beelddocument = Visual document. <br>260    1961, 28 oktober  (Amsterdam :  De Groene Amsterdammer,  1961) <br>300    19x15 cm. <br>500    Tekening bij hekeldicht van Evert Werkman (Joost) op het dreigen met kernwapens door Chroesjtjow. <br>648    1961-1961.  (NL-AMISG)366173 <br>650    Nuclear weapons.  (NL-AMISG)318765 <br>651    USSR.  (NL-AMISG)255113 <br>655    Drawing.  (NL-AMISG)269282 <br>694    Metz, L.  BG PM2/15-17 <br>695    USR  USSR <br>700    Metz, Lex,  collector.  (NL-AMISG)2000404 <br>856    http://hdl.handle.net/10622/30051003023956 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051003023956#image.jpg",
+                    "credit":"730417",
+                    "caption":"Metz, Lex,"
+                }
+            },
+
+            {
+                "startDate":"1961",
+                                "endDate":"1961",
+                "headline":"Stalin, Iosif Vissarionovi&#x10D; Chru&#x161;&#x10D;ev, Nikita Sergeevi&#x10D; ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/730418>http://search.socialhistory.org/Record/730418</a><br/> 245    Beelddocument = Visual document. <br>260    1961, 4 november  (Amsterdam :  De Groene Amsterdammer,  1961) <br>300    25x22 cm. <br>500    Tekening bij hekeldicht van Evert Werkman op de crematie van Stalin en de rol van Chroesjtjow. <br>648    1961-1961.  (NL-AMISG)366173 <br>650    Caricature.  (NL-AMISG)306037 <br>651    USSR.  (NL-AMISG)255113 <br>655    Drawing.  (NL-AMISG)269282 <br>694    Metz, L.  BG PM2/15-18 <br>695    USR  USSR <br>700    Metz, Lex,  collector.  (NL-AMISG)2000404 <br>856    http://hdl.handle.net/10622/30051003023949 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051003023949#image.jpg",
+                    "credit":"730418",
+                    "caption":"Stalin, Iosif Vissarionovi&#x10D; Chru&#x161;&#x10D;ev, Nikita Sergeevi&#x10D; "
+                }
+            },
+
+            {
+                "startDate":"1959",
+                                "endDate":"1959",
+                "headline":"Metz, Lex,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/730529>http://search.socialhistory.org/Record/730529</a><br/> 245    Beelddocument = Visual document. <br>260    1959, 24 januari  (Amsterdam :  De Groene Amsterdammer,  1959) <br>300    20x20 cm. <br>500    Tekening bij hekeldicht van Evert Werkman (Joost) op Duitsland en de Koude Oorlog. <br>648    1959-1959.  (NL-AMISG)365678 <br>650    Cold War.  (NL-AMISG)132833 <br>650    National socialism.  (NL-AMISG)321885 <br>651    Federal Republic of Germany.  (NL-AMISG)90660 <br>651    USSR.  (NL-AMISG)255113 <br>655    Drawing.  (NL-AMISG)269282 <br>694    Metz, L.  BG PM2/15-76 <br>695    GER  Federal Republic of Germany <br>695    USR  USSR <br>700    Metz, Lex,  collector.  (NL-AMISG)2000404 <br>856    http://hdl.handle.net/10622/30051003024749 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051003024749#image.jpg",
+                    "credit":"730529",
+                    "caption":"Metz, Lex,"
+                }
+            },
+
+            {
+                "startDate":"1959",
+                                "endDate":"1959",
+                "headline":"Metz, Lex,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/730608>http://search.socialhistory.org/Record/730608</a><br/> 245    Beelddocument = Visual document. <br>260    1959, 19 september  (Amsterdam :  De Groene Amsterdammer,  1959) <br>300    18x16 cm. <br>500    Tekening bij hekeldicht van Evert Werkman (Joost) op ruimtevaarders. <br>648    1959-1959.  (NL-AMISG)365678 <br>650    Space travel.  (NL-AMISG)220986 <br>651    USSR.  (NL-AMISG)255113 <br>651    United States of America.  (NL-AMISG)326538 <br>655    Drawing.  (NL-AMISG)269282 <br>694    Metz, L.  BG PM2/15-105 <br>695    USR  USSR <br>695    USA  United States of America <br>700    Metz, Lex,  collector.  (NL-AMISG)2000404 <br>856    http://hdl.handle.net/10622/30051003024459 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051003024459#image.jpg",
+                    "credit":"730608",
+                    "caption":"Metz, Lex,"
+                }
+            },
+
+            {
+                "startDate":"1959",
+                                "endDate":"1959",
+                "headline":"Metz, Lex,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/730610>http://search.socialhistory.org/Record/730610</a><br/> 245    Beelddocument = Visual document. <br>260    1959, 3 oktober  (Amsterdam :  De Groene Amsterdammer,  1959) <br>300    22x15 cm. <br>500    Tekening bij hekeldicht van Evert Werkman (Joost) op de voorgenomen vestiging van het Russische reisbureau Intourist in Amsterdam. <br>648    1959-1959.  (NL-AMISG)365678 <br>650    Tourism.  (NL-AMISG)318952 <br>651    Amsterdam (Netherlands)  (NL-AMISG)572941 <br>651    USSR.  (NL-AMISG)255113 <br>655    Drawing.  (NL-AMISG)269282 <br>694    Metz, L.  BG PM2/15-107 <br>695    NED  Amsterdam <br>695    USR  USSR <br>700    Metz, Lex,  collector.  (NL-AMISG)2000404 <br>856    http://hdl.handle.net/10622/30051003024434 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051003024434#image.jpg",
+                    "credit":"730610",
+                    "caption":"Metz, Lex,"
+                }
+            },
+
+            {
+                "startDate":"1963",
+                                "endDate":"1963",
+                "headline":"Chru&#x161;&#x10D;ev, Nikita Sergeevi&#x10D; ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/730786>http://search.socialhistory.org/Record/730786</a><br/> 245    Beelddocument = Visual document. <br>260    1963, 13 juli  (Amsterdam :  De Groene Amsterdammer,  1963) <br>300    25x20 cm. <br>500    Tekening bij hekeldicht van Evert Werkman (Joost) op Chroesjtjow (links) en de Russische communisten. <br>648    1963-1963.  (NL-AMISG)366188 <br>650    Caricature.  (NL-AMISG)306037 <br>651    USSR.  (NL-AMISG)255113 <br>655    Drawing.  (NL-AMISG)269282 <br>694    Metz, L.  BG PM2/15-181 <br>695    USR  USSR <br>700    Metz, Lex,  collector.  (NL-AMISG)2000404 <br>856    http://hdl.handle.net/10622/30051003026207 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051003026207#image.jpg",
+                    "credit":"730786",
+                    "caption":"Chru&#x161;&#x10D;ev, Nikita Sergeevi&#x10D; "
+                }
+            },
+
+            {
+                "startDate":"1967",
+                                "endDate":"1967",
+                "headline":"Metz, Lex,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/731094>http://search.socialhistory.org/Record/731094</a><br/> 245    Beelddocument = Visual document. <br>260    1967, 28 oktober  (Amsterdam :  De Groene Amsterdammer,  1967) <br>300    33x25 cm. <br>500    Tekening bij hekeldicht van Evert Werkman (Joost) op Moskou. <br>648    1967-1967.  (NL-AMISG)366216 <br>650    Communism.  (NL-AMISG)48755 <br>651    USSR.  (NL-AMISG)255113 <br>655    Drawing.  (NL-AMISG)269282 <br>694    Metz, L.  BG PM2/16-124 <br>695    USR  USSR <br>700    Metz, Lex,  collector.  (NL-AMISG)2000404 <br>856    http://hdl.handle.net/10622/30051003027478 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051003027478#image.jpg",
+                    "credit":"731094",
+                    "caption":"Metz, Lex,"
+                }
+            },
+
+            {
+                "startDate":"1970",
+                                "endDate":"1970",
+                "headline":"Metz, Lex,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/731214>http://search.socialhistory.org/Record/731214</a><br/> 245    Beelddocument = Visual document. <br>260    1970, 11 april  (Amsterdam :  De Groene Amsterdammer,  1970) <br>300    32x25 cm. <br>500    Tekening bij hekeldicht van Evert Werkman (Joost) op het kremlin. <br>648    1970-1970.  (NL-AMISG)366237 <br>651    USSR.  (NL-AMISG)255113 <br>655    Drawing.  (NL-AMISG)269282 <br>694    Metz, L.  BG PM2/17-13 <br>695    USR  USSR <br>700    Metz, Lex,  collector.  (NL-AMISG)2000404 <br>856    http://hdl.handle.net/10622/30051003029060 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051003029060#image.jpg",
+                    "credit":"731214",
+                    "caption":"Metz, Lex,"
+                }
+            },
+
+            {
+                "startDate":"1953",
+                                "endDate":"1953",
+                "headline":"Churchill, Winston Leonard Spencer. Eden, Anthony. Dulles, John Foster. Molotov, Vja&#x10D;eslav Michajlovi&#x10D; Faure, Edgar. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/731235>http://search.socialhistory.org/Record/731235</a><br/> 245    Beelddocument = Visual document. <br>500    Blad met zes tekeningen. Onderaan in het midden Churchill. <br>648    1953-1956.  (NL-AMISG)365638 <br>650    Caricature.  (NL-AMISG)306037 <br>650    War and peace.  (NL-AMISG)177089 <br>651    USSR.  (NL-AMISG)255113 <br>651    International.  (NL-AMISG)144624 <br>655    Drawing.  (NL-AMISG)269282 <br>694    Boost, C.  BG PM2/17-29 <br>695    USR  USSR <br>695    INT <br>856    http://hdl.handle.net/10622/30051003028906 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051003028906#image.jpg",
+                    "credit":"731235",
+                    "caption":"Churchill, Winston Leonard Spencer. Eden, Anthony. Dulles, John Foster. Molotov, Vja&#x10D;eslav Michajlovi&#x10D; Faure, Edgar. "
+                }
+            },
+
+            {
+                "startDate":"1951",
+                                "endDate":"1951",
+                "headline":"Boost, Charles,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/731239>http://search.socialhistory.org/Record/731239</a><br/> 245    Vredesverdrag met Japan :  Omdat U destijds de eerste was die Japan de oorlog verklaarde na de schandelijke aanval op Pearl Harbour mag U nu de eerste zijn om het vredesverdrag te ondertekenen.  Beelddocument = Visual document. <br>260    1951, 8 september <br>300    32x24 cm. <br>500    Deze tekening gaat over het vredesverdrag van San Francisco. <br>648    1951-1951.  (NL-AMISG)364549 <br>650    Foreign relations.  (NL-AMISG)33675 <br>650    War and peace.  (NL-AMISG)177089 <br>651    Japan.  (NL-AMISG)82043 <br>651    San Francisco (USA)  (NL-AMISG)299426 <br>651    United States of America.  (NL-AMISG)326538 <br>651    USSR.  (NL-AMISG)255113 <br>651    International.  (NL-AMISG)144624 <br>655    Drawing.  (NL-AMISG)269282 <br>694    Boost, C.  BG PM2/17-33 <br>695    EAS  Japan <br>695    USA  San Francisco <br>695    USA  United States of America <br>695    USR  USSR <br>695    INT <br>856    http://hdl.handle.net/10622/30051003028864 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051003028864#image.jpg",
+                    "credit":"731239",
+                    "caption":"Boost, Charles,"
+                }
+            },
+
+            {
+                "startDate":"1925",
+                                "endDate":"1925",
+                "headline":"Das Werk roter Stern hat die erste Flachs-Pflanzmaschine der USSR hergestellt.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/773523>http://search.socialhistory.org/Record/773523</a><br/> 245    Beelddocument = Visual document. <br>500    Das Werk roter Stern hat die erste Flachs-Pflanzmaschine der USSR hergestellt. <br>540    Sojuzfoto; Unionbild; Russphoto. <br>648    1925-1949.  (NL-AMISG)360599 <br>650    Agriculture.  (NL-AMISG)4057 <br>651    Russia.  (NL-AMISG)301113 <br>655    Photo.  (NL-AMISG)121213 <br>695    USR. <br>710    Sojuzfoto (Moskva)  (NL-AMISG)322563 <br>856    http://hdl.handle.net/10622/30051000593233 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000593233#image.jpg",
+                    "credit":"773523",
+                    "caption":"Das Werk roter Stern hat die erste Flachs-Pflanzmaschine der USSR hergestellt."
+                }
+            },
+
+            {
+                "startDate":"1931",
+                                "endDate":"1931",
+                "headline":"Series of 7 postcards propagating the defense of the USSR on different civil and military fields.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/774807>http://search.socialhistory.org/Record/774807</a><br/> 245    Beelddocument = Visual document. <br>260    1931-1932. <br>500    Series of 7 postcards propagating the defense of the USSR on different civil and military fields. <br>648    1931-1932.  (NL-AMISG)362587 <br>650    Defence policy.  (NL-AMISG)60084 <br>651    Russia.  (NL-AMISG)301113 <br>655    Picture postcard.  (NL-AMISG)197051 <br>695    USR. <br>856    http://hdl.handle.net/10622/30051000595220 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000595220#image.jpg",
+                    "credit":"774807",
+                    "caption":"Series of 7 postcards propagating the defense of the USSR on different civil and military fields."
+                }
+            },
+
+            {
+                "startDate":"1975",
+                                "endDate":"1975",
+                "headline":"Building of the USSR's government.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/778690>http://search.socialhistory.org/Record/778690</a><br/> 245   Beelddocument = Visual document. <br>500   Building of the USSR's government. <br>610   SSSR.  Verchovnyj Sovet.  (NL-AMISG)312273 <br>648   1975-1999.  (NL-AMISG)366946 <br>650   Buildings.  (NL-AMISG)96201 <br>651   Moskva. (Russia)  (NL-AMISG)327202 <br>655   Photo.  (NL-AMISG)121213 <br>695   USR  Moskva. <br>856   http://hdl.handle.net/10622/30051000602075 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000602075#image.jpg",
+                    "credit":"778690",
+                    "caption":"Building of the USSR's government."
+                }
+            },
+
+            {
+                "startDate":"1985",
+                                "endDate":"1985",
+                "headline":"Freedom for the Baltic States. Action-week from July 25-31, 1985.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/779623>http://search.socialhistory.org/Record/779623</a><br/> 245    Beelddocument = Visual document. <br>260    1985  (S.l. :  s.n.,  1985) <br>500    Freedom for the Baltic States. Action-week from July 25-31, 1985. <br>648    1985-1985.  (NL-AMISG)369881 <br>655    Stamp.  (NL-AMISG)272818 <br>711    Campaign on the USSR.  (1985)  (NL-AMISG)414591 <br>856    http://hdl.handle.net/10622/30051000601689 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000601689#image.jpg",
+                    "credit":"779623",
+                    "caption":"Freedom for the Baltic States. Action-week from July 25-31, 1985."
+                }
+            },
+
+            {
+                "startDate":"1931",
+                                "endDate":"1931",
+                "headline":"Glazkov, A.,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/782197>http://search.socialhistory.org/Record/782197</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000600491#image.jpg",
+                    "credit":"782197",
+                    "caption":"Glazkov, A.,"
+                }
+            },
+
+            {
+                "startDate":"1938, February 18.",
+                                "endDate":"1938, February 18.",
+                "headline":"Butenko, Fedor Christoforovi&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/782286>http://search.socialhistory.org/Record/782286</a><br/> 245    Beelddocument = Visual document. <br>260    1938, February 18. <br>500    The disappeared Ambassador of the USSR at Bucharest, M. Butenko, answers questions of journalists at Rome. <br>540    Agence Trampus; Fotobureau Holland <br>650    Group portrait.  (NL-AMISG)112454 <br>655    Photo.  (NL-AMISG)121213 <br>694    Wissel  BG B19/952 <br>700    Roelfsema-van der Wissel, H.G.  collector.  (NL-AMISG)2000525 <br>710    Agence Trampus (Paris)  (NL-AMISG)4391 <br>856    http://hdl.handle.net/10622/30051000600897 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000600897#image.jpg",
+                    "credit":"782286",
+                    "caption":"Butenko, Fedor Christoforovi&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"1922",
+                                "endDate":"1922",
+                "headline":"Presumably delegates, from different parts of the USSR, to the 4th congress of the Comintern.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/800081>http://search.socialhistory.org/Record/800081</a><br/> 245   Beelddocument = Visual document. <br>260   (1922, November-December?) <br>500   Presumably delegates, from different parts of the USSR, to the 4th congress of the Comintern. <br>611   Komintern.  Congress  (4 :  1922 :  Moskva)  (NL-AMISG)186672 <br>648   1922-1922.  (NL-AMISG)360585 <br>651   International.  (NL-AMISG)144624 <br>651   Moskva. (Russia)  (NL-AMISG)327202 <br>655   Photo.  (NL-AMISG)121213 <br>695   INT. <br>695   USR  Moskva. <br>856   http://hdl.handle.net/10622/30051000566296 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000566296#image.jpg",
+                    "credit":"800081",
+                    "caption":"Presumably delegates, from different parts of the USSR, to the 4th congress of the Comintern."
+                }
+            },
+
+            {
+                "startDate":"1975",
+                                "endDate":"1975",
+                "headline":"Card to be sent to the Chiefs of State of Great Britain, USA, France, USSR or China. Series of 2 cards.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/801562>http://search.socialhistory.org/Record/801562</a><br/> 245   Beelddocument = Visual document. <br>260   1975. <br>500   Card to be sent to the Chiefs of State of Great Britain, USA, France, USSR or China. Series of 2 cards. <br>610   Fri.  (NL-AMISG)116219 <br>648   1975-1975.  (NL-AMISG)366960 <br>650   Vessels.  (NL-AMISG)304396 <br>650   Nonviolence.  (NL-AMISG)92039 <br>651   International.  (NL-AMISG)144624 <br>655   Picture postcard.  (NL-AMISG)197051 <br>655   Half-tone photo.  (NL-AMISG)244771 <br>695   INT. <br>856   http://hdl.handle.net/10622/30051000570025 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000570025#image.jpg",
+                    "credit":"801562",
+                    "caption":"Card to be sent to the Chiefs of State of Great Britain, USA, France, USSR or China. Series of 2 cards."
+                }
+            },
+
+            {
+                "startDate":"1975",
+                                "endDate":"1975",
+                "headline":"Card to be sent to the Chiefs of State of Great Britain, USA, France, USSR or China.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/801566>http://search.socialhistory.org/Record/801566</a><br/> 245   Beelddocument = Visual document. <br>260   1975. <br>500   Card to be sent to the Chiefs of State of Great Britain, USA, France, USSR or China. <br>610   Fri.  (NL-AMISG)116219 <br>648   1975-1975.  (NL-AMISG)366960 <br>650   Vessels.  (NL-AMISG)304396 <br>650   Nonviolence.  (NL-AMISG)92039 <br>651   International.  (NL-AMISG)144624 <br>655   Picture postcard.  (NL-AMISG)197051 <br>655   Half-tone photo.  (NL-AMISG)244771 <br>695   INT. <br>856   http://hdl.handle.net/10622/30051000570124 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000570124#image.jpg",
+                    "credit":"801566",
+                    "caption":"Card to be sent to the Chiefs of State of Great Britain, USA, France, USSR or China."
+                }
+            },
+
+            {
+                "startDate":"1979",
+                                "endDate":"1979",
+                "headline":"",
+                "text":"<p><a href=http://search.socialhistory.org/Record/802660>http://search.socialhistory.org/Record/802660</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000463734#image.jpg",
+                    "credit":"802660",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"1921",
+                                "endDate":"1921",
+                "headline":"Trockij, Lev Davidovi&#x10D;. Lenin, Vladimir Il'i&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/803376>http://search.socialhistory.org/Record/803376</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000566858#image.jpg",
+                    "credit":"803376",
+                    "caption":"Trockij, Lev Davidovi&#x10D;. Lenin, Vladimir Il'i&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Kollontaj, Aleksandra Michajlovna. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/626549>http://search.socialhistory.org/Record/626549</a><br/> 245   Beelddocument = Visual document. <br>500   Representative of the USSR in Mexico. <br>650   Portrait.  (NL-AMISG)306035 <br>655   Half-tone photo.  (NL-AMISG)244771 <br>856   http://hdl.handle.net/10622/30051000090362 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000090362#image.jpg",
+                    "credit":"626549",
+                    "caption":"Kollontaj, Aleksandra Michajlovna. "
+                }
+            },
+
+            {
+                "startDate":"1925",
+                                "endDate":"1925",
+                "headline":"Kogan, David. Baron, Fanja. Mra&#x10D;nyj, Mark. Oloneckij, ... Guevskij, ... Taratuta, Olga. Achtyrskij, ... ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/625028>http://search.socialhistory.org/Record/625028</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000089786#image.jpg",
+                    "credit":"625028",
+                    "caption":"Kogan, David. Baron, Fanja. Mra&#x10D;nyj, Mark. Oloneckij, ... Guevskij, ... Taratuta, Olga. Achtyrskij, ... "
+                }
+            },
+
+            {
+                "startDate":"1923",
+                                "endDate":"1923",
+                "headline":"Copy from collection of: IML-Berlin, IV-7-C 7: 'Berliner Lustgarten'.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/698334>http://search.socialhistory.org/Record/698334</a><br/> 245   Beelddocument = Visual document. <br>260   1923, May 1. <br>500   Copy from collection of: IML-Berlin, IV-7-C 7: 'Berliner Lustgarten'. <br>610   KPD.  (NL-AMISG)133091 <br>611   May 1.  (1923 :  Berlin)  (NL-AMISG)214070 <br>611   Campaign on the USSR.  (1923 :  Berlin)  (NL-AMISG)37467 <br>648   1923-1923.  (NL-AMISG)360591 <br>651   Berlin. (Germany)  (NL-AMISG)110437 <br>655   Photo.  (NL-AMISG)121213 <br>695   GER  Berlin. <br>856   http://hdl.handle.net/10622/30051000253630 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000253630#image.jpg",
+                    "credit":"698334",
+                    "caption":"Copy from collection of: IML-Berlin, IV-7-C 7: 'Berliner Lustgarten'."
+                }
+            },
+
+            {
+                "startDate":"1969",
+                                "endDate":"1969",
+                "headline":"Reprint. From: portfolio Anschl&#xE4;ge. Politische Plakate in Deutschland 1900-1970.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/802335>http://search.socialhistory.org/Record/802335</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001129946#image.jpg",
+                    "credit":"802335",
+                    "caption":"Reprint. From: portfolio Anschl&#xE4;ge. Politische Plakate in Deutschland 1900-1970."
+                }
+            }
+
+		]
+    }
+}
+

@@ -1,0 +1,663 @@
+{
+    "timeline":
+    {
+        "headline":"Posters Visual Timeline",
+        "type":"default",
+                "text":"Evergreen Timeline Application",
+                "startDate":"2012,2,05",
+        "date": [
+		
+            {
+                "startDate":"1921",
+                                "endDate":"1921",
+                "headline":"Lenin, Vladimir Il'i&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/633777>http://search.socialhistory.org/Record/633777</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051003081558#image.jpg",
+                    "credit":"633777",
+                    "caption":"Lenin, Vladimir Il'i&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"1923",
+                                "endDate":"1923",
+                "headline":"Wilhelm, Max,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/700514>http://search.socialhistory.org/Record/700514</a><br/> 245   Beelddocument = Visual document. <br>260   1923. <br>500   Copy from collection of: IML-Berlin, IV-7-B 9.210: 'Brotverteilung in Weimar 1923; verteilt wurde eine Spende aus der Sowjetunion'. <br>610   IAH.  Deutschland.  (NL-AMISG)145045 <br>611   Campaign on Germany.  (1923 :  Weimar)  (NL-AMISG)36927 <br>648   1923-1923.  (NL-AMISG)360591 <br>651   Russia.  (NL-AMISG)301113 <br>651   International.  (NL-AMISG)144624 <br>651   Weimar. (Germany)  (NL-AMISG)112736 <br>655   Photo.  (NL-AMISG)121213 <br>695   USR. <br>695   INT. <br>695   GER  Weimar. <br>856   http://hdl.handle.net/10622/30051000263779 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000263779#image.jpg",
+                    "credit":"700514",
+                    "caption":"Wilhelm, Max,"
+                }
+            },
+
+            {
+                "startDate":"1959, October.",
+                                "endDate":"1959, October.",
+                "headline":"Sch&#xE4;rf, Adolf. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/711018>http://search.socialhistory.org/Record/711018</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000148426#image.jpg",
+                    "credit":"711018",
+                    "caption":"Sch&#xE4;rf, Adolf. "
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Lazarev, Ivan. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/629233>http://search.socialhistory.org/Record/629233</a><br/> 245    Beelddocument = Visual document. <br>500    Text on back: 'Ivan Lazareff, hanged during Czar's regime in Russia, 1905'. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Picture postcard.  (NL-AMISG)197051 <br>856    http://hdl.handle.net/10622/30051000096344 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000096344#image.jpg",
+                    "credit":"629233",
+                    "caption":"Lazarev, Ivan. "
+                }
+            },
+
+            {
+                "startDate":"1922, October 31.",
+                                "endDate":"1922, October 31.",
+                "headline":"Lenin, Vladimir Il'i&#x10D;. Fischer, Louis. Zinov'ev, Grigorij Evseevi&#x10D;. Kamenev, Lev Borisovi&#x10D;. Kalinin, Michail Ivanovi&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/638255>http://search.socialhistory.org/Record/638255</a><br/> 245    Beelddocument = Visual document. <br>260    1922, October 31. <br>500    During the fourth session of the Ninth All-Russia Central Executive Committee in the Kremlin from left to right marked with a x: L.B. Kamenev, V.I. Lenin, A.A. Zinov'ev, M.I. Kalinin and L. Fischer. Compare: 69/39 A, page 417-418. <br>650    Group portrait.  (NL-AMISG)112454 <br>655    Half-tone photo.  (NL-AMISG)244771 <br>856    http://hdl.handle.net/10622/30051000116191 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000116191#image.jpg",
+                    "credit":"638255",
+                    "caption":"Lenin, Vladimir Il'i&#x10D;. Fischer, Louis. Zinov'ev, Grigorij Evseevi&#x10D;. Kamenev, Lev Borisovi&#x10D;. Kalinin, Michail Ivanovi&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Peskov, Boris. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/698856>http://search.socialhistory.org/Record/698856</a><br/> 245    Beelddocument = Visual document. <br>500    A war resister from Russia, banished to the cold North, according to the accompanying text. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Half-tone photo.  (NL-AMISG)244771 <br>856    http://hdl.handle.net/10622/30051000130382 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000130382#image.jpg",
+                    "credit":"698856",
+                    "caption":"Peskov, Boris. "
+                }
+            },
+
+            {
+                "startDate":"1905",
+                                "endDate":"1905",
+                "headline":"Vakulen&#x10D;uk, Grigorij Nikiti&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/719132>http://search.socialhistory.org/Record/719132</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000176336#image.jpg",
+                    "credit":"719132",
+                    "caption":"Vakulen&#x10D;uk, Grigorij Nikiti&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"1903",
+                                "endDate":"1903",
+                "headline":"Lenin, Vladimir Il'i&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/771893>http://search.socialhistory.org/Record/771893</a><br/> 245    Beelddocument = Visual document. <br>260    (Moskva :  Politizdat,  1969) <br>500    Lenin on the second congress of the RSDRP. From: Komplekt nagljadnych materialov po biografi V.I. Lenina. <br>611    RSDRP.  S''ezd  (2 :  1903)  (NL-AMISG)284578 <br>648    1903-1903.  (NL-AMISG)358714 <br>650    Group portrait.  (NL-AMISG)112454 <br>651    Russia.  (NL-AMISG)301113 <br>655    Half-tone photo.  (NL-AMISG)244771 <br>655    Painting.  (NL-AMISG)224931 <br>694    Ree, E. van  BG E1/35 <br>695    USR. <br>700    Ree, Erik van,  collector.  (NL-AMISG)2000510 <br>856    http://hdl.handle.net/10622/30051000664281 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000664281#image.jpg",
+                    "credit":"771893",
+                    "caption":"Lenin, Vladimir Il'i&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"1900",
+                                "endDate":"1900",
+                "headline":"Lenin, Vladimir Il'i&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/771916>http://search.socialhistory.org/Record/771916</a><br/> 245    Beelddocument = Visual document. <br>260    (Moskva :  Politizdat,  1969) <br>500    Lenin on the 2nd All-russian Soviet-congress. From: Komplekt nagljadnych materialov po biografi V.I. Lenina. <br>611    Vserossijskij S''ezd Sovetov.  (2)  (NL-AMISG)352596 <br>648    1900-1924.  (NL-AMISG)358689 <br>650    Group portrait.  (NL-AMISG)112454 <br>651    Russia.  (NL-AMISG)301113 <br>655    Half-tone photo.  (NL-AMISG)244771 <br>655    Painting.  (NL-AMISG)224931 <br>694    Ree, E. van  BG E1/37 <br>695    USR. <br>700    Ree, Erik van,  collector.  (NL-AMISG)2000510 <br>856    http://hdl.handle.net/10622/30051000664240 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000664240#image.jpg",
+                    "credit":"771916",
+                    "caption":"Lenin, Vladimir Il'i&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"1921",
+                                "endDate":"1921",
+                "headline":"&#x10C;ernov, Viktor Michajlovi&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/772704>http://search.socialhistory.org/Record/772704</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000596673#image.jpg",
+                    "credit":"772704",
+                    "caption":"&#x10C;ernov, Viktor Michajlovi&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"1921",
+                                "endDate":"1921",
+                "headline":"Lenin, Vladimir Il'i&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/772722>http://search.socialhistory.org/Record/772722</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000596327#image.jpg",
+                    "credit":"772722",
+                    "caption":"Lenin, Vladimir Il'i&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"1920",
+                                "endDate":"1920",
+                "headline":"Series of 4 photos.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/772977>http://search.socialhistory.org/Record/772977</a><br/> 245    Beelddocument = Visual document. <br>260    (Ca. 1921) <br>500    Series of 4 photos. <br>648    1920-1922.  (NL-AMISG)359384 <br>650    Education.  (NL-AMISG)370774 <br>651    Russia.  (NL-AMISG)301113 <br>655    Photo.  (NL-AMISG)121213 <br>694    Pankhurst, E.S.  BG A44/137-40 <br>695    USR. <br>700    Pankhurst, Estelle Sylvia,  collector.  (NL-AMISG)2000460 <br>856    http://hdl.handle.net/10622/30051000597721 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000597721#image.jpg",
+                    "credit":"772977",
+                    "caption":"Series of 4 photos."
+                }
+            },
+
+            {
+                "startDate":"1932",
+                                "endDate":"1932",
+                "headline":"Langbard, ...,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/773990>http://search.socialhistory.org/Record/773990</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000602208#image.jpg",
+                    "credit":"773990",
+                    "caption":"Langbard, ...,"
+                }
+            },
+
+            {
+                "startDate":"1932",
+                                "endDate":"1932",
+                "headline":"Frolov, ...,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/773993>http://search.socialhistory.org/Record/773993</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000602158#image.jpg",
+                    "credit":"773993",
+                    "caption":"Frolov, ...,"
+                }
+            },
+
+            {
+                "startDate":"1921",
+                                "endDate":"1921",
+                "headline":"Baron, Aron. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/597640>http://search.socialhistory.org/Record/597640</a><br/> 245    Beelddocument = Visual document. <br>260    1921  (Berlin :  Joint committee for the defense of revolutionists imprisoned in Russia) <br>500    Martyrs of Bolshevism. Soem biographical notes on the front. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Picture postcard.  (NL-AMISG)197051 <br>856    http://hdl.handle.net/10622/30051000014008 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000014008#image.jpg",
+                    "credit":"597640",
+                    "caption":"Baron, Aron. "
+                }
+            },
+
+            {
+                "startDate":"1935",
+                                "endDate":"1935",
+                "headline":"Dimitrov, Georgi Michajlov. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/623553>http://search.socialhistory.org/Record/623553</a><br/> 245   Beelddocument = Visual document. <br>260   1935, July-August. <br>500   At the 7th Congress of the Comintern. <br>611   Komintern.  Congress  (7 :  1935 :  Moskva) <br>648   1935-1935.  (NL-AMISG)362613 <br>650   Portrait.  (NL-AMISG)306035 <br>651   International.  (NL-AMISG)144624 <br>651   Moskva. (Russia)  (NL-AMISG)327202 <br>655   Photo.  (NL-AMISG)121213 <br>695   INT. <br>695   USR  Moskva. <br>856   http://hdl.handle.net/10622/30051000036472 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000036472#image.jpg",
+                    "credit":"623553",
+                    "caption":"Dimitrov, Georgi Michajlov. "
+                }
+            },
+
+            {
+                "startDate":"623858",
+                                "endDate":"623858",
+                "headline":"Izmajlovi&#x10D;, Aleksandra. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/623858>http://search.socialhistory.org/Record/623858</a><br/> 245   Beelddocument = Visual document. <br>260   (Berlin :  Joint Committee for the Defense of Revolutionists Imprisoned in Russia) <br>500   From the series Martyrs of Bolshevism. With some biographical notes under the portrait. <br>650   Portrait.  (NL-AMISG)306035 <br>655   Picture postcard.  (NL-AMISG)197051 <br>856   http://hdl.handle.net/10622/30051000074671 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000074671#image.jpg",
+                    "credit":"623858",
+                    "caption":"Izmajlovi&#x10D;, Aleksandra. "
+                }
+            },
+
+            {
+                "startDate":"1935, July.",
+                                "endDate":"1935, July.",
+                "headline":"Rolland, Romain. Gor'kij, Maksim. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/625473>http://search.socialhistory.org/Record/625473</a><br/> 245    Beelddocument = Visual document. <br>260    1935, July. <br>500    Rolland (right) pays a visit to Gorki on his estate in Russia. <br>540    Unionbild. <br>650    Double portrait.  (NL-AMISG)99302 <br>655    Photo.  (NL-AMISG)121213 <br>710    Sojuzfoto (Moskva)  (NL-AMISG)322563 <br>856    http://hdl.handle.net/10622/30051000067527 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000067527#image.jpg",
+                    "credit":"625473",
+                    "caption":"Rolland, Romain. Gor'kij, Maksim. "
+                }
+            },
+
+            {
+                "startDate":"1925",
+                                "endDate":"1925",
+                "headline":"Kogan, David. Achtyrskij, ... ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/625042>http://search.socialhistory.org/Record/625042</a><br/> 245    Beelddocument = Visual document. <br>260    (Berlin :  F. Kater) <br>500    Photo taken at the funeral of Kropotkin. See also BG A7/665 and BG A7/886. <br>648    1925-1949.  (NL-AMISG)360599 <br>650    Portrait.  (NL-AMISG)306035 <br>650    Biographica.  (NL-AMISG)306042 <br>651    Germany.  (NL-AMISG)112722 <br>655    Small printed matter.  (NL-AMISG)463652 <br>694    Abad de Santill&amp;#xa0;n, D.  BG A7/666 <br>695    GER. <br>710    Joint Committee for the Defense of revolutionists imprisoned in Russia (Berlin)  (NL-AMISG)162015 <br>711    Campaign on the USSR.  (NL-AMISG)37407 <br>856    http://hdl.handle.net/10622/30051000090156 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000090156#image.jpg",
+                    "credit":"625042",
+                    "caption":"Kogan, David. Achtyrskij, ... "
+                }
+            },
+
+            {
+                "startDate":"1922, October 31.",
+                                "endDate":"1922, October 31.",
+                "headline":"Lenin, Vladimir Il'i&#x10D;. Fischer, Louis. Zinov'ev, Grigorij Evseevi&#x10D;. Kamenev, Lev Borisovi&#x10D;. Kalinin, Michail Ivanovi&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/638270>http://search.socialhistory.org/Record/638270</a><br/> 245    Beelddocument = Visual document. <br>260    1922, October 31. <br>500    Calendar-sheet. During the fourth session of the Ninth All-Russia Central Executive Committee in the Kremlin. Place of persons indicated on: BG A8/414. Compare: 69/39 A, page 417-418. <br>650    Group portrait.  (NL-AMISG)112454 <br>655    Half-tone photo.  (NL-AMISG)244771 <br>856    http://hdl.handle.net/10622/30051000096971 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000096971#image.jpg",
+                    "credit":"638270",
+                    "caption":"Lenin, Vladimir Il'i&#x10D;. Fischer, Louis. Zinov'ev, Grigorij Evseevi&#x10D;. Kamenev, Lev Borisovi&#x10D;. Kalinin, Michail Ivanovi&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"1905",
+                                "endDate":"1905",
+                "headline":"Bulla, V.K.,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/698302>http://search.socialhistory.org/Record/698302</a><br/> 245    Beelddocument = Visual document. <br>260    1905. <br>500    Pictures of a mass-grave and the scum of Russia. Uit: Wereldkroniek, 25-11-1905. Bottom picture made by Bulla. <br>648    1905-1905.  (NL-AMISG)358725 <br>650    Persecution of the Jews.  (NL-AMISG)120699 <br>651    Odessa. (Russia)  (NL-AMISG)327217 <br>655    Half-tone photo.  (NL-AMISG)244771 <br>695    USR  Odessa. <br>856    http://hdl.handle.net/10622/30051000274842 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000274842#image.jpg",
+                    "credit":"698302",
+                    "caption":"Bulla, V.K.,"
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Oyama, ... ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/699189>http://search.socialhistory.org/Record/699189</a><br/> 245    Beelddocument = Visual document. <br>500    From: Zondagsblad het Volk, 26-03-1905. Japanese marshal in the war against Russia. <br>650    Portrait.  (NL-AMISG)306035 <br>655    Half-tone photo.  (NL-AMISG)244771 <br>856    http://hdl.handle.net/10622/30051000127172 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000127172#image.jpg",
+                    "credit":"699189",
+                    "caption":"Oyama, ... "
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Smirnov, Aleksandr Petrovi&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/713389>http://search.socialhistory.org/Record/713389</a><br/> 245   Beelddocument = Visual document. <br>500   People's commissar of agriculture in Soviet Russia. From: The Daily Worker, 1925, March 5. <br>650   Portrait.  (NL-AMISG)306035 <br>655   Photocopy.  (NL-AMISG)109503 <br>655   Drawing.  (NL-AMISG)269282 <br>856   http://hdl.handle.net/10622/30051000158227 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000158227#image.jpg",
+                    "credit":"713389",
+                    "caption":"Smirnov, Aleksandr Petrovi&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"1949, september.",
+                                "endDate":"1949, september.",
+                "headline":"Vy&#x161;inskij, Andrej Januarievi&#x10D;. Clementis, Vladim&#xED;r. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/725306>http://search.socialhistory.org/Record/725306</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000183563#image.jpg",
+                    "credit":"725306",
+                    "caption":"Vy&#x161;inskij, Andrej Januarievi&#x10D;. Clementis, Vladim&#xED;r. "
+                }
+            },
+
+            {
+                "startDate":"1921.",
+                                "endDate":"1921.",
+                "headline":"Ejchenbaum, Vsevolod Michajlovi&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/727159>http://search.socialhistory.org/Record/727159</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000180288#image.jpg",
+                    "credit":"727159",
+                    "caption":"Ejchenbaum, Vsevolod Michajlovi&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"1936",
+                                "endDate":"1936",
+                "headline":"Vy&#x161;inskij, Andrej Januarievi&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/727392>http://search.socialhistory.org/Record/727392</a><br/> 245    Beelddocument = Visual document. <br>260    1936, November. <br>540    Sojuzfoto; Unionbild. <br>611    S''ezd Sovetov.  (8 :  1936 :  Moskva)  (NL-AMISG)308503 <br>648    1936-1936.  (NL-AMISG)362620 <br>650    Constitutions.  (NL-AMISG)95901 <br>650    Portrait.  (NL-AMISG)306035 <br>651    Moskva. (Russia)  (NL-AMISG)327202 <br>655    Photo.  (NL-AMISG)121213 <br>695    USR  Moskva. <br>856    http://hdl.handle.net/10622/30051000186491 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000186491#image.jpg",
+                    "credit":"727392",
+                    "caption":"Vy&#x161;inskij, Andrej Januarievi&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"1955",
+                                "endDate":"1955",
+                "headline":"Adenauer, Konrad. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/730042>http://search.socialhistory.org/Record/730042</a><br/> 245    Beelddocument = Visual document. <br>260    1955, 10 september  (Amsterdam :  De Groene Amsterdammer,  1955) <br>300    19x19 cm. <br>500    Tekening bij hekeldicht van Evert Werkman (Joost) op Konrad Adenauers bezoek aan Moskou. <br>648    1955-1955.  (NL-AMISG)365652 <br>650    Caricature.  (NL-AMISG)306037 <br>650    Foreign relations.  (NL-AMISG)33675 <br>651    Federal Republic of Germany.  (NL-AMISG)90660 <br>651    Russia.  (NL-AMISG)301113 <br>655    Drawing.  (NL-AMISG)269282 <br>694    Metz, L.  BG PM2/14-85 <br>695    GER  Federal Republic of Germany <br>695    USR  Russia <br>700    Metz, Lex,  collector.  (NL-AMISG)2000404 <br>856    http://hdl.handle.net/10622/30051002961297 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051002961297#image.jpg",
+                    "credit":"730042",
+                    "caption":"Adenauer, Konrad. "
+                }
+            },
+
+            {
+                "startDate":"1956",
+                                "endDate":"1956",
+                "headline":"Chru&#x161;&#x10D;ev, Nikita Sergeevi&#x10D; Trockij, Lev Davidovi&#x10D; Stalin, Iosif Vissarionovi&#x10D; ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/730075>http://search.socialhistory.org/Record/730075</a><br/> 245    Beelddocument = Visual document. <br>260    1956, 17 maart  (Amsterdam :  De Groene Amsterdammer,  1956) <br>300    19x15 cm. <br>500    Tekening bij hekeldicht van Evert Werkman (Joost) op Trotsky (links), Stalin (rechts) en Chroesjtsjov (met medailles). <br>648    1956-1956.  (NL-AMISG)365659 <br>650    Caricature.  (NL-AMISG)306037 <br>651    Russia.  (NL-AMISG)301113 <br>655    Drawing.  (NL-AMISG)269282 <br>694    Metz, L.  BG PM2/14-108 <br>695    USR  Russia <br>700    Metz, Lex,  collector.  (NL-AMISG)2000404 <br>856    http://hdl.handle.net/10622/30051002962238 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051002962238#image.jpg",
+                    "credit":"730075",
+                    "caption":"Chru&#x161;&#x10D;ev, Nikita Sergeevi&#x10D; Trockij, Lev Davidovi&#x10D; Stalin, Iosif Vissarionovi&#x10D; "
+                }
+            },
+
+            {
+                "startDate":"1920",
+                                "endDate":"1920",
+                "headline":"Lenin, Vladimir Il'i&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/771926>http://search.socialhistory.org/Record/771926</a><br/> 245    Beelddocument = Visual document. <br>260    (Moskva :  Politizdat,  1969) <br>500    Lenin on the 7nd All-russian Soviet-congress (December 22, 1920). From: Komplekt nagljadnych materialov po biografi V.I. Lenina. <br>611    Vserossijskij S''ezd Sovetov.  (7)  (NL-AMISG)352600 <br>648    1920-1920.  (NL-AMISG)359382 <br>650    Group portrait.  (NL-AMISG)112454 <br>651    Russia.  (NL-AMISG)301113 <br>655    Half-tone photo.  (NL-AMISG)244771 <br>655    Painting.  (NL-AMISG)224931 <br>694    Ree, E. van  BG E1/38 <br>695    USR. <br>700    Ree, Erik van,  collector.  (NL-AMISG)2000510 <br>856    http://hdl.handle.net/10622/30051000667508 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000667508#image.jpg",
+                    "credit":"771926",
+                    "caption":"Lenin, Vladimir Il'i&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"1987",
+                                "endDate":"1987",
+                "headline":"Chmelev, V.,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/772614>http://search.socialhistory.org/Record/772614</a><br/> 245    Beelddocument = Visual document. <br>260    1987  (Moskva :  Ministerstvo Svjazi SSSR,  1987) <br>610    Avrora.  (NL-AMISG)38751 <br>648    1987-1987.  (NL-AMISG)369893 <br>650    Vessels.  (NL-AMISG)304396 <br>651    Russia.  (NL-AMISG)301113 <br>655    Picture postcard.  (NL-AMISG)197051 <br>655    Print.  (NL-AMISG)262665 <br>695    USR. <br>711    Commemoration of the Russian Revolution.  (1987)  (NL-AMISG)63894 <br>856    http://hdl.handle.net/10622/30051000596384 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000596384#image.jpg",
+                    "credit":"772614",
+                    "caption":"Chmelev, V.,"
+                }
+            },
+
+            {
+                "startDate":"1987",
+                                "endDate":"1987",
+                "headline":"Markelov, V.,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/772631>http://search.socialhistory.org/Record/772631</a><br/> 245    Beelddocument = Visual document. <br>260    1987  (Moskva :  Goznak,  1987) <br>648    1987-1987.  (NL-AMISG)369893 <br>651    Russia.  (NL-AMISG)301113 <br>655    Envelope.  (NL-AMISG)93186 <br>695    USR. <br>711    Commemoration of the Russian Revolution.  (1987)  (NL-AMISG)63894 <br>856    http://hdl.handle.net/10622/30051000596335 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000596335#image.jpg",
+                    "credit":"772631",
+                    "caption":"Markelov, V.,"
+                }
+            },
+
+            {
+                "startDate":"1985",
+                                "endDate":"1985",
+                "headline":"Kvavadze, E.,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/772639>http://search.socialhistory.org/Record/772639</a><br/> 245    Beelddocument = Visual document. <br>260    1985  (Moskva :  Ministerstvo Svjazi SSSR,  1985) <br>648    1985-1985.  (NL-AMISG)369881 <br>651    Russia.  (NL-AMISG)301113 <br>655    Picture postcard.  (NL-AMISG)197051 <br>655    Print.  (NL-AMISG)262665 <br>695    USR. <br>711    Commemoration of the Russian Revolution.  (1985)  (NL-AMISG)413532 <br>856    http://hdl.handle.net/10622/30051000596434 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000596434#image.jpg",
+                    "credit":"772639",
+                    "caption":"Kvavadze, E.,"
+                }
+            },
+
+            {
+                "startDate":"1921",
+                                "endDate":"1921",
+                "headline":"Attack on the ice. From: R 531/313 fol.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/772736>http://search.socialhistory.org/Record/772736</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000538782#image.jpg",
+                    "credit":"772736",
+                    "caption":"Attack on the ice. From: R 531/313 fol."
+                }
+            },
+
+            {
+                "startDate":"1921",
+                                "endDate":"1921",
+                "headline":"Attack on the ice. From: R 531/313 fol.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/772734>http://search.socialhistory.org/Record/772734</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000596566#image.jpg",
+                    "credit":"772734",
+                    "caption":"Attack on the ice. From: R 531/313 fol."
+                }
+            },
+
+            {
+                "startDate":"1921",
+                                "endDate":"1921",
+                "headline":"Attack of the red army. From: R 531/152.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/772731>http://search.socialhistory.org/Record/772731</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000596665#image.jpg",
+                    "credit":"772731",
+                    "caption":"Attack of the red army. From: R 531/152."
+                }
+            },
+
+            {
+                "startDate":"1921",
+                                "endDate":"1921",
+                "headline":"Red soldiers leaving Petrograd. From: R 500/45 fol.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/772745>http://search.socialhistory.org/Record/772745</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000596277#image.jpg",
+                    "credit":"772745",
+                    "caption":"Red soldiers leaving Petrograd. From: R 500/45 fol."
+                }
+            },
+
+            {
+                "startDate":"1920",
+                                "endDate":"1920",
+                "headline":"Series of 4 photos.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/772971>http://search.socialhistory.org/Record/772971</a><br/> 245    Beelddocument = Visual document. <br>260    (Ca. 1921) <br>500    Series of 4 photos. <br>648    1920-1922.  (NL-AMISG)359384 <br>650    Education.  (NL-AMISG)370774 <br>651    Russia.  (NL-AMISG)301113 <br>655    Photo.  (NL-AMISG)121213 <br>694    Pankhurst, E.S.  BG A44/133-6 <br>695    USR. <br>700    Pankhurst, Estelle Sylvia,  collector.  (NL-AMISG)2000460 <br>856    http://hdl.handle.net/10622/30051000598026 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000598026#image.jpg",
+                    "credit":"772971",
+                    "caption":"Series of 4 photos."
+                }
+            },
+
+            {
+                "startDate":"1920",
+                                "endDate":"1920",
+                "headline":"Series of 2 photos.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/772980>http://search.socialhistory.org/Record/772980</a><br/> 245    Beelddocument = Visual document. <br>260    (Ca. 1921) <br>500    Series of 2 photos. <br>648    1920-1922.  (NL-AMISG)359384 <br>650    Education.  (NL-AMISG)370774 <br>651    Russia.  (NL-AMISG)301113 <br>655    Photo.  (NL-AMISG)121213 <br>694    Pankhurst, E.S.  BG A44/141-2 <br>695    USR. <br>700    Pankhurst, Estelle Sylvia,  collector.  (NL-AMISG)2000460 <br>856    http://hdl.handle.net/10622/30051000597978 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000597978#image.jpg",
+                    "credit":"772980",
+                    "caption":"Series of 2 photos."
+                }
+            },
+
+            {
+                "startDate":"1900",
+                                "endDate":"1900",
+                "headline":"Women's room in a student's house.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/772983>http://search.socialhistory.org/Record/772983</a><br/> 245    Beelddocument = Visual document. <br>500    Women's room in a student's house. <br>540    Atlantic. <br>648    1900-1924.  (NL-AMISG)358689 <br>650    Students.  (NL-AMISG)243312 <br>651    Russia.  (NL-AMISG)301113 <br>655    Photo.  (NL-AMISG)121213 <br>694    Ramus, P.  BG A44/143 <br>695    USR. <br>700    Ramus, Pierre,  collector.  (NL-AMISG)2000506 <br>710    Atlantic (Berlin)  (NL-AMISG)18161 <br>856    http://hdl.handle.net/10622/30051000597879 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000597879#image.jpg",
+                    "credit":"772983",
+                    "caption":"Women's room in a student's house."
+                }
+            },
+
+            {
+                "startDate":"1917",
+                                "endDate":"1917",
+                "headline":"Aleksandr. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/772990>http://search.socialhistory.org/Record/772990</a><br/> 245    Beelddocument = Visual document. <br>260    1917, November. <br>500    Dismantling of the statue of Czar Alexander III. Series of 2 photocopies. From: R507/279, pp. 76-77. <br>648    1917-1917.  (NL-AMISG)359362 <br>650    Sculpture.  (NL-AMISG)302216 <br>650    Portrait.  (NL-AMISG)306035 <br>651    Petrograd. (Russia)  (NL-AMISG)327225 <br>655    Photocopy.  (NL-AMISG)109503 <br>695    USR  Petrograd. <br>856    http://hdl.handle.net/10622/30051000594033 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000594033#image.jpg",
+                    "credit":"772990",
+                    "caption":"Aleksandr. "
+                }
+            },
+
+            {
+                "startDate":"1900",
+                                "endDate":"1900",
+                "headline":"",
+                "text":"<p><a href=http://search.socialhistory.org/Record/772996>http://search.socialhistory.org/Record/772996</a><br/> 245    Beelddocument = Visual document. <br>648    1900-1924.  (NL-AMISG)358689 <br>650    Sport.  (NL-AMISG)239149 <br>651    Moskva. (Russia)  (NL-AMISG)327202 <br>655    Photo.  (NL-AMISG)121213 <br>695    USR  Moskva. <br>856    http://hdl.handle.net/10622/30051000597770 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000597770#image.jpg",
+                    "credit":"772996",
+                    "caption":""
+                }
+            },
+
+            {
+                "startDate":"1932",
+                                "endDate":"1932",
+                "headline":"Duric, ...,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/773984>http://search.socialhistory.org/Record/773984</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000602299#image.jpg",
+                    "credit":"773984",
+                    "caption":"Duric, ...,"
+                }
+            },
+
+            {
+                "startDate":"1932",
+                                "endDate":"1932",
+                "headline":"Lamb, ...,",
+                "text":"<p><a href=http://search.socialhistory.org/Record/773987>http://search.socialhistory.org/Record/773987</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000602349#image.jpg",
+                    "credit":"773987",
+                    "caption":"Lamb, ...,"
+                }
+            },
+
+            {
+                "startDate":"1920",
+                                "endDate":"1920",
+                "headline":"Sitzung des Petersburger Sowiet, 2. Session.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/773998>http://search.socialhistory.org/Record/773998</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000595006#image.jpg",
+                    "credit":"773998",
+                    "caption":"Sitzung des Petersburger Sowiet, 2. Session."
+                }
+            },
+
+            {
+                "startDate":"1917",
+                                "endDate":"1917",
+                "headline":"From: 6/170 fol.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/774000>http://search.socialhistory.org/Record/774000</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000594959#image.jpg",
+                    "credit":"774000",
+                    "caption":"From: 6/170 fol."
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Ejchenbaum, Vsevolod Michajlovi&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/727165>http://search.socialhistory.org/Record/727165</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000180429#image.jpg",
+                    "credit":"727165",
+                    "caption":"Ejchenbaum, Vsevolod Michajlovi&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"1917",
+                                "endDate":"1917",
+                "headline":"Women soldiers in front of Winter Palace. From: R507/24, p. 230.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/772974>http://search.socialhistory.org/Record/772974</a><br/> 245   Beelddocument = Visual document. <br>260   1917, November. <br>500   Women soldiers in front of Winter Palace. From: R507/24, p. 230. <br>610   Zimnij Dvorec (Petrograd)  (NL-AMISG)369408 <br>648   1917-1917.  (NL-AMISG)359362 <br>650   Military men.  (NL-AMISG)158057 <br>650   Women.  (NL-AMISG)264172 <br>651   Petrograd. (Russia)  (NL-AMISG)327225 <br>655   Photo.  (NL-AMISG)121213 <br>695   USR  Petrograd. <br>856   http://hdl.handle.net/10622/30051000594355 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000594355#image.jpg",
+                    "credit":"772974",
+                    "caption":"Women soldiers in front of Winter Palace. From: R507/24, p. 230."
+                }
+            },
+
+            {
+                "startDate":"2013",
+                                "endDate":"2013",
+                "headline":"Antonov-Ovseenko, Vladimir Aleksandrovi&#x10D;. ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/698794>http://search.socialhistory.org/Record/698794</a><br/> 245   Beelddocument = Visual document. <br>500   Ovseenko, consul of Russia on the left. <br>650   Double portrait.  (NL-AMISG)99302 <br>655   Half-tone photo.  (NL-AMISG)244771 <br>856   http://hdl.handle.net/10622/30051000127057 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000127057#image.jpg",
+                    "credit":"698794",
+                    "caption":"Antonov-Ovseenko, Vladimir Aleksandrovi&#x10D;. "
+                }
+            },
+
+            {
+                "startDate":"1988",
+                                "endDate":"1988",
+                "headline":"Rosenm&#xF6;ller, Paul. Grivnina, Irena. Ferares, Maurice. Gortzak, Wouter. Minkiewicz, Jan. Bouchta, ... ",
+                "text":"<p><a href=http://search.socialhistory.org/Record/772253>http://search.socialhistory.org/Record/772253</a><br/> 245   1 mei manifestatie.  Beelddocument = Visual document. <br>260   1988  (S.l. :  s.n.,  1988) <br>300   60.5x41 cm. <br>648   1988-1988.  (NL-AMISG)369899 <br>650   Democratization.  (NL-AMISG)60810 <br>650   Biographica.  (NL-AMISG)306042 <br>651   Utrecht. (Netherlands)  (NL-AMISG)231631 <br>651   Russia.  (NL-AMISG)301113 <br>655   Poster.  (NL-AMISG)3248 <br>695   NED  Utrecht. <br>695   USR. <br>710   PvdA.  (NL-AMISG)203601 <br>710   TDID.  (NL-AMISG)268989 <br>710   VARA.  (NL-AMISG)256945 <br>710   FNV.  (NL-AMISG)83933 <br>710   CPN.  (NL-AMISG)54254 <br>710   PPR.  (NL-AMISG)196114 <br>710   Komitee Marokkaanse Arbeiders in Nederland (Amsterdam).  (NL-AMISG)131281 <br>710   Vervoersbond FNV.  (NL-AMISG)259204 <br>711   1 mei.  (1988 :  Utrecht)  (NL-AMISG)419046 <br>856   http://hdl.handle.net/10622/30051001235586 <br></p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051001235586#image.jpg",
+                    "credit":"772253",
+                    "caption":"Rosenm&#xF6;ller, Paul. Grivnina, Irena. Ferares, Maurice. Gortzak, Wouter. Minkiewicz, Jan. Bouchta, ... "
+                }
+            },
+
+            {
+                "startDate":"1921",
+                                "endDate":"1921",
+                "headline":"Map of Kronshtadt.",
+                "text":"<p><a href=http://search.socialhistory.org/Record/772707>http://search.socialhistory.org/Record/772707</a><br/> </p>",
+                "asset":
+                {
+                    "media":"http://disseminate.objectrepository.org/file/level2/10622/30051000596301#image.jpg",
+                    "credit":"772707",
+                    "caption":"Map of Kronshtadt."
+                }
+            }
+
+		]
+    }
+}
+
