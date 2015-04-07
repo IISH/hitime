@@ -1,0 +1,72 @@
+DROP TABLE IF EXISTS Sector_normalized;
+CREATE TABLE Sector_normalized
+(
+   nID bigint,
+   variable varchar(255) 
+);
+CREATE INDEX Sectorindex on Sector_normalized(nID);
+CREATE INDEX Sectorvarindex on Sector_normalized(variable);
+DROP TABLE IF EXISTS Voornamelijk_normalized;
+CREATE TABLE Voornamelijk_normalized
+(
+   nID bigint,
+   variable varchar(255) 
+);
+CREATE INDEX Voornamelijkindex on Voornamelijk_normalized(nID);
+CREATE INDEX Voornamelijkvarindex on Voornamelijk_normalized(variable);
+DROP TABLE IF EXISTS Beroep_normalized;
+CREATE TABLE Beroep_normalized
+(
+   nID bigint,
+   variable varchar(255) 
+);
+CREATE INDEX Beroepindex on Beroep_normalized(nID);
+CREATE INDEX Beroepvarindex on Beroep_normalized(variable);
+DROP TABLE IF EXISTS Bond_normalized;
+CREATE TABLE Bond_normalized
+(
+   nID bigint,
+   variable varchar(255) 
+);
+CREATE INDEX Bondindex on Bond_normalized(nID);
+CREATE INDEX Bondvarindex on Bond_normalized(variable);
+DROP TABLE IF EXISTS Bedrijf_normalized;
+CREATE TABLE Bedrijf_normalized
+(
+   nID bigint,
+   variable varchar(255) 
+);
+CREATE INDEX Bedrijfindex on Bedrijf_normalized(nID);
+CREATE INDEX Bedrijfvarindex on Bedrijf_normalized(variable);
+DROP TABLE IF EXISTS Eisen_normalized;
+CREATE TABLE Eisen_normalized
+(
+   nID bigint,
+   variable varchar(255) 
+);
+CREATE INDEX Eisenindex on Eisen_normalized(nID);
+CREATE INDEX Eisenvarindex on Eisen_normalized(variable);
+DROP TABLE IF EXISTS Uitkomst_normalized;
+CREATE TABLE Uitkomst_normalized
+(
+   nID bigint,
+   variable varchar(255) 
+);
+CREATE INDEX Uitkomstindex on Uitkomst_normalized(nID);
+CREATE INDEX Uitkomstvarindex on Uitkomst_normalized(variable);
+DROP TABLE IF EXISTS Karakter_normalized;
+CREATE TABLE Karakter_normalized
+(
+   nID bigint,
+   variable varchar(255) 
+);
+CREATE INDEX Karakterindex on Karakter_normalized(nID);
+CREATE INDEX Karaktervarindex on Karakter_normalized(variable);
+DROP TABLE IF EXISTS Bedrijf_normalized;
+CREATE TABLE Bedrijf_normalized
+(
+   nID bigint,
+   variable varchar(255) 
+);
+CREATE INDEX Bedrijfindex on Bedrijf_normalized(nID);
+CREATE INDEX Bedrijfvarindex on Bedrijf_normalized(variable);
